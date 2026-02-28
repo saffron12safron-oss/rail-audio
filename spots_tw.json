@@ -11085,6 +11085,22 @@
     "sheetName": "土讃線"
   },
   {
+    "ID": "磐越西線路線ガイド",
+    "lat": 37.79999739,
+    "lon": 139.121005,
+    "map_url": "https://www.google.com/maps/search/?api=1&query=%E7%A3%90%E8%B6%8A%E8%A5%BF%E7%B7%9A%20%E6%96%B0%E6%B4%A5%E9%A7%84",
+    "name_ja": "磐越西線",
+    "audio_ja": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/磐越西線路線ガイド_ja.mp3",
+    "name_en": "Ban’etsu West Line",
+    "audio_en": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/磐越西線路線ガイド_en.mp3",
+    "name_fr": "Ligne Ban’etsu Ouest",
+    "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/磐越西線路線ガイド_fr.mp3",
+    "name_tw": "磐越西線",
+    "text_tw": "磐越西線：穿梭於「森與水」之中的夢幻鐵道紀行\n\n這段旅程的起點，是自古以來便以「鐵道之街」聞名的新津站。當列車告別信越本線、緩緩向東駛去時，映入眼簾的是越後平野廣袤的田園風光。這條路線擁有「森與水之浪漫鐵道」的美譽，帶領旅人進入一段與大自然深度對話的時光。\n\n沿著阿賀野川呼吸：森林與清流的迴廊\n\n離開新津後不久，湛藍碧綠的阿賀野川便會伴隨在車窗旁。磐越西線最迷人之處，莫過於那宛如翡翠般的水色與深邃森林構成的溪谷美景。透過大正至昭和初期修築的石造隧道與鐵橋，您可以感受到近代日本的工藝氣息。這段路程遠離都市喧囂，讓人彷彿置身於懷舊的電影場景之中。\n\n武士的氣節與「會津富士」的壯麗\n\n當列車越過縣界進入會津盆地，景色隨即變得開闊壯觀。車窗左側赫然聳立的，便是被譽為「會津富士」的磐梯山。而在山腳下的會津若松，是一座仍保有幕末武士靈魂的古都。眺望鶴城的白牆，空氣中似乎還飄蕩著江戶時代傳承至今的職人精神與高潔文化。\n\n現代機能美與蒸汽火車的鄉愁\n\n目前守護這條路線日常運行的是 GV-E400系 與 E129系 等最新銳列車。透過巨大的景觀窗，您可以盡情捕捉全景般的田野風光。然而，磐越西線最受鐵道迷矚目的，莫過於擁有「貴婦人」美名的 「SL磐越物語號」。看著白煙裊裊升起，聽著汽笛聲在山谷間迴盪，木質調的復古車廂將帶領您穿越時空，重溫鐵道旅行最初的感動。\n\n體驗日本深處的「慢旅行」\n\n這裡有清泉釀造的頂級日本酒、隨四季變幻表情的豬苗代湖，以及充滿人情味的在地款待。搭乘磐越西線，不僅僅是移動，更是一場洗滌心靈的五感饗宴。從新津到郡山，每一站都濃縮了「日本旅情」的精華，誠摯邀請您來此細細品味。",
+    "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/磐越西線路線ガイド_tw.mp3",
+    "sheetName": "磐越西線"
+  },
+  {
     "ID": "B01",
     "lat": 37.79999739,
     "lon": 139.121005,
