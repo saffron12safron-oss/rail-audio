@@ -11085,6 +11085,22 @@
     "sheetName": "土讃線"
   },
   {
+    "ID": "磐越西線路線ガイド",
+    "lat": 37.79999739,
+    "lon": 139.121005,
+    "map_url": "https://www.google.com/maps/search/?api=1&query=%E7%A3%90%E8%B6%8A%E8%A5%BF%E7%B7%9A%20%E6%96%B0%E6%B4%A5%E9%A7%84",
+    "name_ja": "磐越西線",
+    "audio_ja": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/磐越西線路線ガイド_ja.mp3",
+    "name_en": "Ban’etsu West Line",
+    "text_en": "The Ban’etsu West Line: A Journey Through the \"Forest and Water Dream Line\"\n\nStarting from Niitsu Station, famously known as the \"Railway Town,\" your journey begins in the lush heart of Niigata. As the train leaves the plains and heads east, you enter a landscape where history and nature harmonize perfectly.\n\nThe Aga River Corridor: For much of the journey, the train hugs the emerald-green waters of the Aga River. This section is a masterpiece of early 20th-century engineering, with stone tunnels and iron bridges that offer a romantic glimpse into Japan’s industrial past.\n\nThe Samurai Spirit of Aizu: As you cross into Fukushima Prefecture, the majestic Mt. Bandai (known as the Fuji of Aizu) dominates the horizon. Here lies Aizu-Wakamatsu, a castle town where the stoic spirit of the samurai and world-class sake brewing traditions still thrive.\n\nNostalgia on Rails: While modern, comfortable trains like the GV-E400 series provide panoramic views of the countryside, the star of the line is the SL Ban’etsu Monogatari. This vintage steam locomotive offers a timeless travel experience, complete with the evocative sound of the whistle echoing through the mountains.\n\nEscape the crowded tourist routes and discover the \"Deep North\" of Japan. Whether it’s the cherry blossoms of spring or the snow-covered peaks of winter, the Ban’etsu West Line offers a \"Slow Travel\" experience that captures the true essence of the Japanese spirit.",
+    "audio_en": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/磐越西線路線ガイド_en.mp3",
+    "name_fr": "Ligne Ban’etsu Ouest",
+    "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/磐越西線路線ガイド_fr.mp3",
+    "name_tw": "磐越西線",
+    "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/磐越西線路線ガイド_tw.mp3",
+    "sheetName": "磐越西線"
+  },
+  {
     "ID": "B01",
     "lat": 37.79999739,
     "lon": 139.121005,
