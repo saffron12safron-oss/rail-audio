@@ -11085,6 +11085,22 @@
     "sheetName": "土讃線"
   },
   {
+    "ID": "磐越西線路線ガイド",
+    "lat": 37.79999739,
+    "lon": 139.121005,
+    "map_url": "https://www.google.com/maps/search/?api=1&query=%E7%A3%90%E8%B6%8A%E8%A5%BF%E7%B7%9A%20%E6%96%B0%E6%B4%A5%E9%A7%84",
+    "name_ja": "磐越西線",
+    "audio_ja": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/磐越西線路線ガイド_ja.mp3",
+    "name_en": "Ban’etsu West Line",
+    "audio_en": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/磐越西線路線ガイド_en.mp3",
+    "name_fr": "Ligne Ban’etsu Ouest",
+    "text_fr": "La Ligne Ban’etsu Ouest : Un Voyage au Cœur du « Japon Profond »\n\nVotre périple commence à la gare de Niitsu, affectueusement surnommée la « Cité du Rail ». En quittant les plaines d'Echigo pour vous diriger vers l'est, vous ne prenez pas seulement un train, vous entrez dans une autre dimension du Japon : celle de la nature sauvage et des traditions séculaires.\n\nUn corridor de « Forêt et d'Eau »\n\nSurnommée la « Ligne de Rêve de la Forêt et de l'Eau », ce parcours suit fidèlement les méandres de la majestueuse rivière Aga. Le spectacle est permanent : des vallées d'un vert émeraude au printemps, des montagnes embrasées de rouge en automne. Vous franchirez des tunnels de pierre et des ponts de fer centenaires, véritables joyaux de l'ingénierie japonaise de l'ère Meiji et Taisho, qui semblent suspendus dans le temps.\n\nL'Esprit des Samouraïs et le « Fuji d'Aizu »\n\nEn franchissant la frontière de la préfecture de Fukushima, la silhouette imposante du Mont Bandai, surnommé le « Fuji d'Aizu », surgit à l'horizon. Vous arrivez alors à Aizu-Wakamatsu, une cité féodale où l'âme des samouraïs et le code d'honneur du Bushido imprègnent encore chaque ruelle. Entre la majesté du château de Tsuruga et la finesse des brasseries de saké locales, c'est toute l'histoire du Japon qui défile sous vos yeux.\n\nEntre Confort Moderne et Nostalgie de la Vapeur\n\nAujourd'hui, la ligne est desservie par des trains modernes comme les séries GV-E400 et E129, dont les larges baies vitrées sont conçues comme des cadres sur le paysage. Mais le véritable trésor de cette ligne reste le SL Ban’etsu Monogatari. Ce train à vapeur légendaire, avec son sifflet mélancolique résonnant dans les montagnes et ses voitures aux boiseries raffinées, offre une expérience de voyage intemporelle, digne d'un film d'époque.\n\nPourquoi succomber au charme de la Ban’etsu Ouest ?\n\nLoin de l'effervescence des métropoles, cette ligne est une ode au « Slow Travel ». C'est une invitation à savourer le temps qui passe, à admirer la brume s'élever au-dessus des rivières et à découvrir l'hospitalité chaleureuse du nord du Japon. Que ce soit pour ses paysages enneigés ou ses festivals d'été, la ligne Ban’etsu Ouest capture l'essence même de l'esprit japonais.",
+    "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/磐越西線路線ガイド_fr.mp3",
+    "name_tw": "磐越西線",
+    "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/磐越西線路線ガイド_tw.mp3",
+    "sheetName": "磐越西線"
+  },
+  {
     "ID": "B01",
     "lat": 37.79999739,
     "lon": 139.121005,
