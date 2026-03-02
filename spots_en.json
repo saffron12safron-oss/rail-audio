@@ -8861,6 +8861,22 @@
     "sheetName": "飯山線"
   },
   {
+    "ID": "只見線",
+    "lat": 37.50855942,
+    "lon": 139.9301684,
+    "map_url": "https://www.google.com/maps/search/?api=1&query=%E5%8F%AA%E8%A6%8B%E7%B7%9A%20%E4%BC%9A%E6%B4%A5%E8%8B%A5%E6%9D%BE%E9%A7%84",
+    "name_ja": "只見線",
+    "audio_ja": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/只見線_ja.mp3",
+    "name_en": "Tadami Line",
+    "text_en": "The Tadami Line. Departing from the historic castle town of Aizu-Wakamatsu and delving deep into the rugged heart of Oku-Aizu, this iron path was originally carved for the heroic endeavor of hydroelectric power development—a utilitarian origin that has, over time, blossomed into one of the world’s most poetic railway journeys, as it were. As the train skirts the serpentine bends of the Tadami River, the traveler is greeted by a series of soaring iron bridges that seem to stitch the emerald mountains together, allowing one to feel a profound harmony between human engineering and the untamed wild.\n\nOne cannot help but admire the indomitable spirit of this line, which triumphantly overcame the devastating floods of 2011 to see its full length restored to the public. In an age of clinical high-speed transit, the leisurely pace through primeval beech forests and mist-shrouded gorges offers a rare luxury—the chance to simply \"waste time\" beautifully, which is exactly what lures the wandering soul to this hidden corner of Japan. To cross the border via the long tunnels of Rokujurigoe and descend into the fertile lands of Uonuma is to experience a transition of light and landscape that feels almost cinematic. It is a journey that reminds us of the quiet dignity of the Showa-era railwaymen who fought the heavy snows to keep this lifeline open, a sentiment that still vibrates through the rails today.",
+    "audio_en": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/只見線_en.mp3",
+    "name_fr": "La ligne Tadami",
+    "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/只見線_fr.mp3",
+    "name_tw": "只見線",
+    "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/只見線_tw.mp3",
+    "sheetName": "只見線"
+  },
+  {
     "ID": "Z16",
     "lat": 37.50855942,
     "lon": 139.9301684,
