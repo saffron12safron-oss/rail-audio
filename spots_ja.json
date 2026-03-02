@@ -8861,6 +8861,22 @@
     "sheetName": "飯山線"
   },
   {
+    "ID": "只見線",
+    "lat": 37.50855942,
+    "lon": 139.9301684,
+    "map_url": "https://www.google.com/maps/search/?api=1&query=%E5%8F%AA%E8%A6%8B%E7%B7%9A%20%E4%BC%9A%E6%B4%A5%E8%8B%A5%E6%9D%BE%E9%A7%84",
+    "name_ja": "只見線",
+    "text_ja": "只見線。会津若松の古い街並みを背に、奥会津の懐深くへと分け入るこの鉄路は、もともとは只見川の電源開発、すなわちダム建設の資材運搬という実利的な目的で整備された歴史を持つわけであります。列車が阿賀野川の支流である只見川の蛇行に寄り添うように進むにつれ、車窓には日本屈指の峡谷美が次々と現れ、我々旅人を飽きさせることがないというわけであります。\n\nとりわけ、幾度となく川を渡る鉄橋の姿は、あたかも風景の一部として溶け込んでおり、厳冬期の豪雪にも耐えうる鉄骨の強靭さが、自然と人工物の見事な調和を感じさせてくれるわけです。2011年の豪雨災害による長期不通を乗り越え、全線復旧を果たしたその軌跡は、まさにこの鉄路が地域にとって、そして鉄道を愛する者にとって、いかに代えがたい存在であるかを物語っているわけであります。只見駅を過ぎ、かつての難所・六十里越の長いトンネルを抜けて魚沼の地、小出へと至るその行程は、速度至上主義の現代において、時間を贅沢に浪費する愉悦を教えてくれるというわけであります。車窓を流れるブナの原生林や、川面に映る静謐な山影を眺めていると、昭和の鉄道員たちが雪と闘いながらこの道を護り抜いた矜持が、今もレールの継ぎ目から伝わってくるようであります。",
+    "audio_ja": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/只見線_ja.mp3",
+    "name_en": "Tadami Line",
+    "audio_en": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/只見線_en.mp3",
+    "name_fr": "La ligne Tadami",
+    "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/只見線_fr.mp3",
+    "name_tw": "只見線",
+    "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/只見線_tw.mp3",
+    "sheetName": "只見線"
+  },
+  {
     "ID": "Z16",
     "lat": 37.50855942,
     "lon": 139.9301684,
