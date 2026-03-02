@@ -8861,6 +8861,22 @@
     "sheetName": "飯山線"
   },
   {
+    "ID": "只見線",
+    "lat": 37.50855942,
+    "lon": 139.9301684,
+    "map_url": "https://www.google.com/maps/search/?api=1&query=%E5%8F%AA%E8%A6%8B%E7%B7%9A%20%E4%BC%9A%E6%B4%A5%E8%8B%A5%E6%9D%BE%E9%A7%84",
+    "name_ja": "只見線",
+    "audio_ja": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/只見線_ja.mp3",
+    "name_en": "Tadami Line",
+    "audio_en": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/只見線_en.mp3",
+    "name_fr": "La ligne Tadami",
+    "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/只見線_fr.mp3",
+    "name_tw": "只見線",
+    "text_tw": "只見線。 這條從歷史悠久的會津若松出發，緩緩切入奧會津心臟地帶的鐵路，最初是為了水力發電建設而鋪設，是一種充滿實用主義的起源，但時至今日，它已蛻變為世界上最富詩意的鐵道旅程，這確實是令人感到不可思議的。\n\n當列車沿著蜿蜒的只見川前行，車窗外接連出現橫跨翠綠溪谷的鐵橋，這種與自然共融的人工美學，實在是讓旅人感受到一種難以言喻的和諧。特別是克服了2011年豪雨帶來的長期停運、最終迎來全線復工的奇蹟，更證明了這條鐵道對地方及全球鐵道迷而言，有著多麼無可取代的地位。\n\n在一切講求速度的現代，能在山毛櫸原生林與薄霧籠罩的峽谷中，奢侈地「浪費時間」，這正是只見線最吸引靈魂深處的地方。穿過「六十里越」長長的隧道進入魚沼的小出，那種光影與景色的交替簡直如同電影畫面。我們在鐵軌的震動中，依稀還能感受到昭和時代的鐵路員們在豪雪中守護這條生命線的自豪與尊嚴，這份情懷，至今依然鮮活地存在著，這就是它的魅力所在。",
+    "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/只見線_tw.mp3",
+    "sheetName": "只見線"
+  },
+  {
     "ID": "Z16",
     "lat": 37.50855942,
     "lon": 139.9301684,
