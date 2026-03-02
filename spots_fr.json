@@ -8861,6 +8861,22 @@
     "sheetName": "飯山線"
   },
   {
+    "ID": "只見線",
+    "lat": 37.50855942,
+    "lon": 139.9301684,
+    "map_url": "https://www.google.com/maps/search/?api=1&query=%E5%8F%AA%E8%A6%8B%E7%B7%9A%20%E4%BC%9A%E6%B4%A5%E8%8B%A5%E6%9D%BE%E9%A7%84",
+    "name_ja": "只見線",
+    "audio_ja": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/只見線_ja.mp3",
+    "name_en": "Tadami Line",
+    "audio_en": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/只見線_en.mp3",
+    "name_fr": "La ligne Tadami",
+    "text_fr": "La ligne Tadami. Partant de la cité féodale d’Aizu-Wakamatsu pour s’enfoncer dans les entrailles sauvages d’Oku-Aizu, ce chemin de fer fut à l’origine tracé pour les besoins colossaux de l’hydroélectricité. Un dessein utilitaire qui, avec le temps, s'est mué en l'un des voyages ferroviaires les plus poétiques au monde, comme on peut s'en douter. Au fil des méandres de la rivière Tadami, le voyageur découvre des ponts de fer suspendus entre les montagnes d'émeraude, témoignant d'une harmonie parfaite entre l'ingénierie humaine et une nature indomptée, ce qui nous fait ressentir toute la grandeur du paysage.\n\nAprès avoir surmonté les graves inondations de 2011 pour renaître de ses cendres, cette ligne offre aujourd'hui un luxe rare : celui de prendre son temps à travers des forêts de hêtres et des gorges embrumées. Traverser les longs tunnels de Rokujurigoe pour déboucher sur les terres fertiles d’Uonuma, c’est vivre une transition presque cinématographique, empreinte de la dignité des cheminots de l’ère Showa qui ont bravé les neiges éternelles pour protéger cette voie sacrée, ce qui en fait un itinéraire d'exception pour le voyageur moderne, comme il convient de le souligner.",
+    "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/只見線_fr.mp3",
+    "name_tw": "只見線",
+    "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/只見線_tw.mp3",
+    "sheetName": "只見線"
+  },
+  {
     "ID": "Z16",
     "lat": 37.50855942,
     "lon": 139.9301684,
