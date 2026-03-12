@@ -1,5 +1,20 @@
 [
   {
+    "ID": "V00",
+    "lat": 37.9122465,
+    "lon": 139.0613474,
+    "name_ja": "越後線",
+    "text_ja": "越後線。新潟という、かつて信濃川の河口に拓かれた北国の玄関口から、柏崎へと至るこの鉄路は、もともとは越後鉄道という私鉄として産声を上げた経緯を持つわけであります。そのためか、路線の成り立ちにはどこか土着的な、地域に密着した粘り強さが今なお漂っているというわけであります。\n列車が新潟の近代的な高架ホームを滑り出し、日本一の大河・信濃川を渡る際、車窓に広がる広大な水面と越後平野のパノラマは、これから始まる旅の壮大さを予感させてくれるわけです。かつては非電化の地味なローカル線でありましたが、昭和五十九年の電化を経て、今では新潟近郊の通勤通学の足として、また弥彦山を仰ぎ見る鄙びた里山をゆく旅の径として、二つの顔を併せ持っている。\n寺泊や出雲崎といった、かつての北前船や佐渡への渡航で栄えた港町の背後をすり抜けるように走るその軌跡には、海風に耐え忍んできた越後人の不屈の精神がレールの響きに重なるようであります。終着の柏崎に近づくにつれ、車窓を支配する見渡す限りの水田と、時折顔を出す日本海の青。それらが織りなす色彩のコントラストこそが、越後路をゆく旅の醍醐味であるというわけであります。",
+    "audio_ja": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/越後線_2_ja.mp3",
+    "name_en": "Echigo Line",
+    "audio_en": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/越後線_2_en.mp3",
+    "name_fr": "Ligne Echigo",
+    "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/越後線_2_fr.mp3",
+    "name_tw": "越後線",
+    "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/越後線_2_tw.mp3",
+    "sheetName": "越後線"
+  },
+  {
     "ID": "V01",
     "lat": 37.9122465,
     "lon": 139.0613474,
@@ -1071,8 +1086,8 @@
   },
   {
     "ID": "予土線",
-    "lat": 33.16147207,
-    "lon": 133.074705,
+    "lat": 33.21235688,
+    "lon": 133.1372887,
     "name_ja": "予土線",
     "text_ja": "予土線。土佐の窪川から、伊予の宇和島へと抜けるこの鉄路は、その名の通り「予（伊予）」と「土（土佐）」を繋ぐ、四国山地の奥深くを縫うような一筋の道標であるわけであります。もともとは宇和島側から軽便鉄道として産声を上げた歴史を持ちながら、全通を果たしたのは昭和四十九年という、国鉄地方ローカル線としては最後期の完成を見たまさに「遅れてきた名士」のような存在であるわけです。\n\n列車が土佐くろしお鉄道との共用区間を抜け、若井から只管（ひたすら）西を目指せば、そこには「日本最後の清流」四万十川の蛇行に寄り添う、贅沢な時間が待っているわけであります。車窓を流れる沈下橋の素朴な姿や、深い緑に包まれた無人駅の佇まいは、効率を重んじる都会の喧騒を忘れさせ、鉄道が本来持っていた「ゆとり」というものを思い出させてくれるというわけであります。決して華やかではありませんが、レールの響きと川のせせらぎが共鳴するその道程は、昭和の鉄道旅が持っていた純粋な情感を、今に伝える貴重な遺産と言えるわけであります。新幹線を模したユニークな車両や、貨車を改造したトロッコ列車が山あいを駆ける姿には、この鉄路を愛し、守り抜こうとする人々の温かな情熱が滲み出ているのを感じるわけであります。",
     "audio_ja": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/予土線_ja.mp3",
@@ -2929,7 +2944,7 @@
     "audio_en": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/土佐くろしお鉄道_土佐くろしお鉄道_13_en.mp3",
     "name_fr": "Gare d'Ukifugi",
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/土佐くろしお鉄道_土佐くろしお鉄道_13_fr.mp3",
-    "name_tw": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "name_tw": "浮鞭站",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/土佐くろしお鉄道_土佐くろしお鉄道_13_tw.mp3",
     "sheetName": "土佐くろしお鉄道"
   },
@@ -4529,6 +4544,21 @@
     "sheetName": "白新線"
   },
   {
+    "ID": "妙高はねうまライン",
+    "lat": 36.8722009,
+    "lon": 138.2121958,
+    "name_ja": "妙高はねうまライン",
+    "text_ja": "妙高はねうまライン。妙高高原から直江津へと至る三十余キロのこの軌跡は、かつては信濃と越後を繋ぐ「信越本線」という、国鉄屈指の大動脈の重要区間を担っていたわけであります。北陸新幹線の金沢延伸という時代の激流により、現在は「えちごトキめき鉄道」へとその襷が渡されましたが、線路際の堅牢な造りや広大な駅構内の佇まいには、かつて特急「あさま」や「白山」が、あるいは長大な貨物列車がここを駆け抜けたという、大幹線の矜持が今なお息づいているわけです。\n列車が高原の冷気を切り裂き、標高を下るにつれて、車窓には「越後富士」こと妙高山の雄大な山容が迫り、春先にはその斜面に「跳ね馬」の雪形が浮かび上がる。それは、この地の厳しい冬の終わりと農耕の始まりを告げる、古より変わらぬ自然の記号であると感じさせてくれるわけです。二本木駅に残るスイッチバックの遺構や、日本最古級の現役木造乾式レンガ造機関庫といった鉄道遺産の数々は、我々旅人に、この鉄路が如何に峻険な地形を克服し、北国の物流を支えてきたかを静かに語りかけてくるというわけであります。高田の城下町の気品を抜け、日本海側の要衝・直江津へと至るその行程は、短いながらも信越の歴史と風土が濃密に凝縮された、贅沢な時間であるというわけであります。",
+    "audio_ja": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/妙高はねうまライン_2_ja.mp3",
+    "name_en": "Myoko Haneuma Line",
+    "audio_en": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/妙高はねうまライン_2_en.mp3",
+    "name_fr": "Ligne Myoko Haneuma",
+    "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/妙高はねうまライン_2_fr.mp3",
+    "name_tw": "妙高羽馬線",
+    "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/妙高はねうまライン_2_tw.mp3",
+    "sheetName": "妙高はねうまライン"
+  },
+  {
     "ID": "妙高はねうまライン_2",
     "lat": 36.8722009,
     "lon": 138.2121958,
@@ -4720,6 +4750,21 @@
     "product_fr": "Magasin Heihachi Kamaboko « Ensemble Kamaboko spécialisé Naoetsu »\nUn goût traditionnel qui perdure depuis l'ère Taisho à Naoetsu, une ville portuaire qui prospérait comme port d'escale des navires Kitamaebune. Fabriqué à partir de poisson frais de la mer du Japon et soigneusement pétri dans un moulin en pierre, le kamaboko possède une élasticité étonnamment ferme et la saveur du poisson qui déborde à chaque bouchée. Le « Véritable kamaboko » utilise le moins de conservateurs possible et fait ressortir le goût original des ingrédients. C'est un délice que l'on souhaite savourer luxueusement avec du wasabi et de la sauce soja tout en sentant la brise marine de Naoetsu.",
     "product_tw": "平八魚糕店“直江津特產魚糕套餐”\n作為北前船停靠港而繁榮的港口城市直江津，自大正時代以來一直延續的傳統味道。使用來自日本海的新鮮魚，在石磨中精心揉製而成的魚糕具有驚人的緊實彈性，每一口都溢出魚的香味。 「正宗魚糕」盡可能少使用防腐劑，最大限度地發揮食材的本來味道。一邊感受直江津的海風，一邊享受芥末和醬油的奢華美味。",
     "sheetName": "妙高はねうまライン"
+  },
+  {
+    "ID": "日本海ひすいライン",
+    "lat": 37.170264,
+    "lon": 138.2422616,
+    "name_ja": "日本海ひすいライン",
+    "text_ja": "日本海ひすいライン。直江津から市振へと至るこの鉄路は、かつては「北陸本線」という、関西と東北・北海道を繋ぐ日本海縦貫線の大動脈を担っていたわけであります。北陸新幹線の延伸に伴い、現在は「えちごトキめき鉄道」へとその運営が引き継がれましたが、複線電化の堅牢な路盤や長大なトンネルの数々には、かつて特急「白鳥」や重厚な貨物列車が誇らしげに疾走した往時の栄光が、今なお色濃く刻まれているというわけであります。\n列車が直江津の広大な構内を離れ、有間川付近で日本海の波打ち際へと躍り出れば、そこには「天下の険」と恐れられた親不知・子不知の峻烈な断崖が待ち構えている。かつての蒸気機関車が潮風に抗い、命懸けで駆け抜けたこの難所も、今ではトンネルの連続で静かに過ぎ去りますが、筒石駅のような地底深くの空間に降り立てば、鉄道が如何にこの峻険な地を克服してきたか、その執念を感じさせてくれるわけです。糸魚川を過ぎ、翡翠（ひすい）の産地としての歴史やフォッサマグナという大地の裂け目を越えていくその道程は、まさに日本の国土の成り立ちを辿る旅であるといえるわけであります。電化区間でありながら一両編成の気動車がゆく現在の姿に、かつての威容と現在の静寂が同居する、不思議な旅情を覚えずにはいられないわけであります。",
+    "audio_ja": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/日本海ひすいライン_2_ja.mp3",
+    "name_en": "Japan Sea Hisui Line",
+    "audio_en": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/日本海ひすいライン_2_en.mp3",
+    "name_fr": "Ligne Hisui de la mer du Japon",
+    "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/日本海ひすいライン_2_fr.mp3",
+    "name_tw": "日本海翡翠線",
+    "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/日本海ひすいライン_2_tw.mp3",
+    "sheetName": "日本海ひすいライン"
   },
   {
     "ID": "日本海ひすいライン_2",
@@ -4946,7 +4991,7 @@
     "sheetName": "日本海ひすいライン"
   },
   {
-    "ID": "五能線_2",
+    "ID": "五能線",
     "lat": 40.19154909,
     "lon": 140.0657487,
     "map_url": "https://www.google.com/maps/search/?api=1&query=%E4%BA%94%E8%83%BD%E7%B7%9A%20%E4%BA%94%E8%83%BD%E7%B7%9A%E9%A7%85",
@@ -4957,7 +5002,7 @@
     "audio_en": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/五能線_2_en.mp3",
     "name_fr": "五能線",
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/五能線_2_fr.mp3",
-    "name_tw": "五能線",
+    "name_tw": "戈諾線",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/五能線_2_tw.mp3",
     "sheetName": "五能線"
   },
@@ -6568,6 +6613,21 @@
     "sheetName": "信越本線"
   },
   {
+    "ID": "U00",
+    "lat": 37.79,
+    "lon": 139.1208,
+    "name_ja": "羽越本線",
+    "text_ja": "羽越本線。新津から秋田へと、日本海の波打ち際に沿って北上するこの二百七十余キロの長大な鉄路は、かつて「日本海縦貫線」という壮大な大動脈の重要な一翼を担っていたわけであります。大正から昭和初期にかけて全通を見たこの路線は、関西と東北・北海道を結ぶ物流の要として、重厚な貨物列車や特急「白鳥」「日本海」といった名門たちがその威容を競った栄光の記憶を、今なおレールの響きの中に留めているというわけであります。\n新津の広大な操車場跡を後にし、阿賀野川を渡って新発田、村上と北上を続ければ、車窓には見渡す限りの越後平野と、やがて迫り来る日本海の荒波が交互に現れる。とりわけ「笹川流れ」の奇岩怪石を縫うように走るその様は、まさに鉄路が自然の造形美に挑む白眉と言えるわけです。鶴岡、酒田と庄内平野の豊かな穀倉地帯を抜け、出羽三山や鳥海山の秀峰を仰ぎ見ながら秋田へと至る道程は、単なる移動ではなく、北国の風土と歴史を五感で味わう贅沢な時間であると感じさせてくれるわけであります。かつての蒸気機関車が潮風に抗い、煤にまみれて力走したあの時代の残照を、今もなお古い駅舎の佇まいや跨線橋の鉄骨に見出すことができる。それこそが、羽越本線を旅する真の醍醐味であるというわけであります。",
+    "audio_ja": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/羽越本線_2_ja.mp3",
+    "name_en": "Uetsu Main Line",
+    "audio_en": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/羽越本線_2_en.mp3",
+    "name_fr": "Ligne principale Uetsu",
+    "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/羽越本線_2_fr.mp3",
+    "name_tw": "羽越幹線",
+    "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/羽越本線_2_tw.mp3",
+    "sheetName": "羽越本線"
+  },
+  {
     "ID": "U01",
     "lat": 37.79,
     "lon": 139.1208,
@@ -7566,6 +7626,21 @@
     "sheetName": "羽越本線"
   },
   {
+    "ID": "F00",
+    "lat": 38.04776578,
+    "lon": 140.1489347,
+    "name_ja": "フラワー長井線",
+    "text_ja": "フラワー長井線。赤湯から荒砥へと至るこの三十キロ余りの鉄路は、かつては国鉄「長井線」と呼ばれ、大正初期の開業以来、置賜（おきたま）盆地の豊かな実りと人々の営みを運び続けてきたわけであります。奥羽本線からの接続点である赤湯のホームを滑り出せば、車窓には山形名産の果樹園が広がり、遠くに最上川の滔々たる流れを予感させる、穏やかな田園風景が我々旅人を迎えてくれるというわけであります。\n「フラワー長井線」という名が示す通り、沿線にはアヤメやダリア、そして白つつじといった四季折々の花々が咲き誇り、無機質な鉄路に彩りを添えているわけです。しかし、その華やかさの裏側には、西大塚や宮内の駅舎に残る古き良き木造建築の温もりや、明治期の英国製トラス橋を転用した最上川橋梁といった、鉄道省時代の頑健な遺産が今も現役で息づいているのを感じさせてくれるわけです。現代の軽快な気動車に揺られながらも、ふと目を閉じれば、かつて蒸気機関車が吐き出した煤の匂いや、集荷に集まった人々の喧騒が聞こえてくるような、そんな重層的な旅の時間を味わせてくれるわけであります。効率優先の現代において、一駅ごとに丁寧に時を刻むこの路線の佇まいは、我々に鉄道旅の本来の愉悦を思い出させてくれるというわけであります。",
+    "audio_ja": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/フラワー長井線_2_ja.mp3",
+    "name_en": "Flower Nagai Line",
+    "audio_en": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/フラワー長井線_2_en.mp3",
+    "name_fr": "Ligne Fleur Nagai",
+    "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/フラワー長井線_2_fr.mp3",
+    "name_tw": "花永井線",
+    "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/F00_tw.mp3",
+    "sheetName": "フラワー長井線"
+  },
+  {
     "ID": "F01",
     "lat": 38.04776578,
     "lon": 140.1489347,
@@ -8204,6 +8279,21 @@
     "name_tw": "長岡站",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/上越線_J23_tw.mp3",
     "sheetName": "上越線"
+  },
+  {
+    "ID": "H00",
+    "lat": 37.06717609,
+    "lon": 138.8757706,
+    "name_ja": "ほくほく線",
+    "text_ja": "六日町。上越線のホームから、一段高い位置にあるほくほく線の乗り場へと足を踏み入れると、そこにはかつて「北越北線」と呼ばれた未完の鉄路が辿った、波乱の歴史が凝縮されているわけであります。もともとは国鉄のバイパス線として着工されながら、経営再建の荒波に呑まれて建設中断。それを第三セクターとして甦らせ、さらには特急「はくたか」がかつて時速百六十キロという、在来線国内最高速度で疾走した栄光の記憶は、今なお線路際の堅牢な高規格構造の中に息づいているというわけであります。\n列車が六日町の構内を滑り出し、魚沼の平野を後にすると、そこからはトンネルに次ぐトンネルの連続であります。なかでも鍋立山（なべたちやま）トンネルに代表される、地圧との壮絶な闘いの末に穿たれたその軌跡は、まさに人間の執念と土木技術の結晶を感じさせてくれるわけです。トンネルの合間に一瞬だけ姿を見せる越後の深い山々や、十日町の雪深い街並み。かつての喧騒が去り、今は一両や二両の車両が静かに往来するその姿には、大動脈としての矜持を保ちつつも、どこか凛とした寂寥感が漂っている。犀潟（さいがた）で信越本線と合流し、日本海側の光を捉えるまでのその道程は、昭和の夢の残照を追いかける、贅沢な時間であるというわけであります。",
+    "audio_ja": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/ほくほく線_2_ja.mp3",
+    "name_en": "Hokuhoku line",
+    "audio_en": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/ほくほく線_2_en.mp3",
+    "name_fr": "Ligne Hokuhoku",
+    "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/ほくほく線_2_fr.mp3",
+    "name_tw": "北北線",
+    "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/ほくほく線_2_tw.mp3",
+    "sheetName": "ほくほく線"
   },
   {
     "ID": "H01",
@@ -11918,6 +12008,21 @@
     "sheetName": "磐越西線"
   },
   {
+    "ID": "Y00",
+    "lat": 37.69924642,
+    "lon": 138.8319916,
+    "name_ja": "弥彦線",
+    "text_ja": "弥彦駅。この駅に降り立つと、まず目に飛び込んでくるのは、越後一宮・弥彦神社の門前駅にふさわしい、朱塗りの柱が印象的な社殿造りの駅舎であります。大正五年、越後鉄道が参拝客を運ぶべくその産声を上げたこの鉄路は、かつては燕を経由して東三条、さらには山を越えて越後長沢へと続いていた壮大な歴史を持つわけであります。現在は東三条までの短い区間となりましたが、その車窓には今なお、越後の信仰と産業が織りなす独特の空気感が漂っているというわけであります。\n列車が弥彦を後にし、矢作の巨大な大鳥居を仰ぎ見ながら越後平野の懐へと進めば、そこには見渡す限りの美田が広がり、我々旅人を穏やかな情緒へと誘ってくれるわけです。燕三条駅において、上越新幹線という現代の象徴と立体交差する様は、あたかも時間の断層を見ているような不思議な感覚を覚えさせてくれる。さらに進んで、かつて「職人の街」として栄えた燕の路地裏を掠めるように走り、信濃川の長大な鉄橋を渡って東三条へと至る。このわずか十七キロ余りの道程には、神への祈りと、槌音響く手仕事の誇りが、レールの継ぎ目を通じて今も息づいていると感じさせてくれるわけであります。かつて115系電車がその独特の唸りを上げて疾走したこの平野を、今は近代的な車両が静かにゆきますが、車窓に流れる弥彦山の稜線は、昭和のあの日と変わらぬ気高さを保っているというわけであります。",
+    "audio_ja": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/弥彦線_2_ja.mp3",
+    "name_en": "Yahiko Line",
+    "audio_en": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/弥彦線_2_en.mp3",
+    "name_fr": "Ligne Yahiko",
+    "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/弥彦線_2_fr.mp3",
+    "name_tw": "彌彥線",
+    "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/弥彦線_2_tw.mp3",
+    "sheetName": "弥彦線"
+  },
+  {
     "ID": "Y01",
     "lat": 37.69924642,
     "lon": 138.8319916,
@@ -12081,6 +12186,21 @@
     "name_tw": "東三條站",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/弥彦線_Y08_tw.mp3",
     "sheetName": "弥彦線"
+  },
+  {
+    "ID": "JR大糸線_1",
+    "lat": 36.23072165,
+    "lon": 137.9644632,
+    "name_ja": "大糸線",
+    "text_ja": "大糸線。松本という信州の古都から、北アルプスの峻険な山容を仰ぎ見つつ、日本海の糸魚川へと至るこの百キロ余りの鉄路は、かつては「信濃鉄道」という私鉄が拓いた南側と、国鉄が険しき姫川の谷を穿った北側という、二つの異なる出自と表情を併せ持っているわけであります。松本を出発した列車が安曇野のたおやかな田園風景を抜け、信濃大町を過ぎる頃には、車窓には万年雪を冠した鹿島槍や五竜の峰々が圧倒的な存在感で迫り、山岳鉄道としての本領を遺憾なく発揮し始めるというわけであります。\n白馬を越え、南小谷を境に架線が途切れ、一両きりの気動車がエンジン音を響かせて深い峡谷へと分け入る様は、まさに現代に生き残る「昭和の山岳線」そのものといった趣を感じさせてくれるわけです。かつて「塩の道」として人々が歩いた千国街道に沿い、暴れ川として知られる姫川の蛇行に寄り添いながら、古びたスノーシェッドや手掘りのようなトンネルを抜けていく。そこには、幾多の水害や豪雪を乗り越えて鉄路を守り抜いた先人たちの、不屈の意志が今も静かに息づいているようであります。終着の糸魚川で北陸の潮風に触れるまで、山と川、そして雪国の暮らしが濃密に凝縮されたこの一筋の軌跡を辿ることは、我々旅人が、鉄道という乗り物の根源的な力強さを再確認する、贅沢な時間であるというわけであります。",
+    "audio_ja": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR大糸線_2_ja.mp3",
+    "name_en": "Oito Line",
+    "audio_en": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR大糸線_2_en.mp3",
+    "name_fr": "Ligne Oito",
+    "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR大糸線_2_fr.mp3",
+    "name_tw": "大糸線",
+    "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR大糸線_2_tw.mp3",
+    "sheetName": "JR大糸線"
   },
   {
     "ID": "JR大糸線_2",
@@ -13138,6 +13258,21 @@
     "sheetName": "JR徳島線"
   },
   {
+    "ID": "JR高徳線_1",
+    "lat": 34.3506959,
+    "lon": 134.0469117,
+    "name_ja": "高徳線",
+    "text_ja": "高徳線。高松と徳島、四国の東部を担う二大都市を最短距離で結ぶこの鉄路は、かつては「高徳本線」と呼ばれ、宇高連絡船から降り立った旅人を阿波の国へと導く重要な役割を果たしてきたわけであります。もともとは讃岐鉄道や阿波鉄道といった私鉄の断片が繋ぎ合わされた経緯を持ち、国有化後も長らく非電化のまま、ディーゼル急行「阿波」や「よしの川」が煤けた煙を上げて走っていた往時の姿が、今も目に浮かぶというわけであります。\n列車が高松の近代的な高架を滑り出し、屋島や志度といった瀬戸内の歴史を刻む地を過ぎると、車窓には穏やかな播磨灘の海原が広がり、我々旅人の心を和ませてくれるわけです。しかし、この路線の真骨頂は、香川と徳島の県境に立ちはだかる大坂峠の山越えにあります。かつては蒸気機関車が喘ぎながら挑んだこの険しき山道も、今では最新鋭の特急「うずしお」が振り子を効かせて軽快に駆け抜けていきますが、古い切り通しやトンネルの佇まいには、難所を克服せんとした先人たちの執念が今なお刻まれているのを感じさせてくれるわけです。板野を過ぎて吉野川のデルタ地帯へと躍り出れば、そこには南国の明るい光が待っている。この一筋のレールを辿ることは、四国東部の風土を短時間で凝縮して味わう、極めて知的な悦楽であるというわけであります。",
+    "audio_ja": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR高徳線_2_ja.mp3",
+    "name_en": "Kotoku Line",
+    "audio_en": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR高徳線_2_en.mp3",
+    "name_fr": "Ligne Kotoku",
+    "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR高徳線_2_fr.mp3",
+    "name_tw": "高德線",
+    "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR高徳線_2_tw.mp3",
+    "sheetName": "JR高徳線"
+  },
+  {
     "ID": "JR高徳線_2",
     "lat": 34.3506959,
     "lon": 134.0469117,
@@ -13181,7 +13316,7 @@
     "audio_en": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR高徳線_4_en.mp3",
     "name_fr": "Sortie nord du parc Ritsurin",
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR高徳線_4_fr.mp3",
-    "name_tw": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "name_tw": "栗林公园北口",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR高徳線_4_tw.mp3",
     "sheetName": "JR高徳線"
   },
@@ -13245,7 +13380,7 @@
     "audio_en": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR高徳線_8_en.mp3",
     "name_fr": "Vieux Takamatsu Sud",
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR高徳線_8_fr.mp3",
-    "name_tw": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "name_tw": "老高松南",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR高徳線_8_tw.mp3",
     "sheetName": "JR高徳線"
   },
@@ -13549,7 +13684,7 @@
     "audio_en": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR高徳線_27_en.mp3",
     "name_fr": "勝瑞",
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR高徳線_27_fr.mp3",
-    "name_tw": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "name_tw": "勝水",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR高徳線_27_tw.mp3",
     "sheetName": "JR高徳線"
   },
@@ -13600,6 +13735,21 @@
     "name_tw": "德島",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR高徳線_30_tw.mp3",
     "sheetName": "JR高徳線"
+  },
+  {
+    "ID": "JR牟岐線_1",
+    "lat": 34.0746743,
+    "lon": 134.5513898,
+    "name_ja": "牟岐線",
+    "text_ja": "牟岐線。徳島という阿波の都を起点とし、太平洋の荒波が打ち寄せる室戸方面へと南下するこの鉄路は、かつて国鉄が四国を一周させようと描いた壮大な「阿佐線」構想の東側を担う、重要な一翼であったわけであります。徳島駅の賑わいを後にし、阿波富田、二軒屋と進むにつれ、車窓は次第に都市の喧騒を脱し、かつての小松島線との分岐点であった中田（ちゅうでん）や、羽ノ浦といった古くからの要衝を経て、徳島平野の豊かな田園風景の中へと分け入っていくわけです。\n阿南を過ぎれば、いよいよ鉄路は山が海へと迫る峻険な地形に挑み始め、車窓の主役は紺碧の土佐湾へと移り変わる。かつては急行「むろと」がキハ58系を連ねて力走し、沿線の木材や水産物を運ぶ貨物列車も往来したこの路線には、今も随所に「大動脈」になろうとした時代の気概が漂っているというわけであります。とりわけ、日和佐の辺りで見せる海岸線ギリギリの軌跡や、薬王寺の塔を仰ぎ見る情景は、鉄道旅が本来持っている「辺境へ向かう」という純粋な昂揚感を感じさせてくれるわけです。現在は阿波海南から先がDMVへと引き継がれ、路線の性格も変わりつつありますが、この南へと続くレールの響きには、今なお未完の夢を追い続けた鉄道人たちの情熱が息づいている。そんな歴史の集積を噛み締めながら旅をするのは、格別の情趣があるというわけであります。",
+    "audio_ja": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR牟岐線_2_ja.mp3",
+    "name_en": "Mugi Line",
+    "audio_en": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR牟岐線_2_en.mp3",
+    "name_fr": "Ligne Mugi",
+    "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR牟岐線_2_fr.mp3",
+    "name_tw": "麥線",
+    "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR牟岐線_2_tw.mp3",
+    "sheetName": "JR牟岐線"
   },
   {
     "ID": "JR牟岐線_2",
@@ -13709,7 +13859,7 @@
     "audio_en": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR牟岐線_8_en.mp3",
     "name_fr": "Minami-Komatsushima",
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR牟岐線_8_fr.mp3",
-    "name_tw": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "name_tw": "南小松島",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR牟岐線_8_tw.mp3",
     "sheetName": "JR牟岐線"
   },
@@ -14348,7 +14498,7 @@
     "audio_en": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR予讃線_en.mp3",
     "name_fr": "Ligne JR Yosan",
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR予讃線_fr.mp3",
-    "name_tw": "JR予讚線",
+    "name_tw": "於贊線",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR予讃線_tw.mp3",
     "sheetName": "JR予讃線"
   },
@@ -26787,7 +26937,7 @@
     "audio_en": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR土讃線_11_en.mp3",
     "name_fr": "Tsukuda",
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR土讃線_11_fr.mp3",
-    "name_tw": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "name_tw": "佃",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR土讃線_11_tw.mp3",
     "sheetName": "JR土讃線"
   },
@@ -26851,7 +27001,7 @@
     "audio_en": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR土讃線_15_en.mp3",
     "name_fr": "Awa Kawaguchi",
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR土讃線_15_fr.mp3",
-    "name_tw": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "name_tw": "阿波河口",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR土讃線_15_tw.mp3",
     "sheetName": "JR土讃線"
   },
@@ -28264,6 +28414,21 @@
     "sheetName": "しなの鉄道線"
   },
   {
+    "ID": "阿佐海岸鉄道",
+    "lat": 33.606753,
+    "lon": 134.3510181,
+    "name_ja": "阿佐海岸鉄道",
+    "text_ja": "阿波海南。この駅は今や、世界初のDMV（デュアル・モード・ビークル）という、道路と線路を自在に行き来する新たな時代の旗手としての顔を持っているわけであります。かつて国鉄が四国を一周させようと壮大な夢を描いた「阿佐線」の計画線上にありながら、時代の荒波に揉まれ、未完のまま第三セクターとして産声を上げたこの鉄路は、今やバスが鉄路を駆けるという、他に類を見ない進化を遂げたというわけであります。\n\nモードインターチェンジにおいて、ゴムタイヤから鉄輪へと切り替わるその瞬間の、静かながらも確実な「鉄道への変身」の儀式は、現代の合理性と鉄道への執着が奇妙に同居する瞬間を感じさせてくれるわけです。高架橋の上に上がれば、そこにはかつて特急列車が疾走することを前提に造られた堅牢な構造物が続いており、そのオーバースペックとも言える空間を小さな車両が健気に走る姿には、どこか愛おしさを覚えるわけであります。宍喰のトンネルを抜け、土佐湾の雄大な紺碧が視界に飛び込んできたとき、我々はかつてこの地に鉄路を敷こうと汗を流した先人たちの、北への、あるいは南への想いに触れることができるというわけであります。わずかな営業距離ではありますが、この短い軌跡には、四国の鉄路が辿った数奇な運命と、未来へのささやかな希望が凝縮されているわけであります。",
+    "audio_ja": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/阿佐海岸鉄道_ja.mp3",
+    "name_en": "Asa Kaigan Railway",
+    "audio_en": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/阿佐海岸鉄道_en.mp3",
+    "name_fr": "Chemin de fer Asa Kaigan",
+    "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/阿佐海岸鉄道_fr.mp3",
+    "name_tw": "阿佐海岸鐵道",
+    "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/阿佐海岸鉄道_tw.mp3",
+    "sheetName": "阿佐海岸鉄道"
+  },
+  {
     "ID": "阿佐海岸鉄道_2",
     "lat": 33.606753,
     "lon": 134.3510181,
@@ -28307,7 +28472,7 @@
     "audio_en": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/阿佐海岸鉄道_4_en.mp3",
     "name_fr": "Shishikui",
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/阿佐海岸鉄道_4_fr.mp3",
-    "name_tw": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "name_tw": "石石葵",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/阿佐海岸鉄道_4_tw.mp3",
     "sheetName": "阿佐海岸鉄道"
   },
