@@ -1,5 +1,20 @@
 [
   {
+    "ID": "V00",
+    "lat": 37.9122465,
+    "lon": 139.0613474,
+    "name_ja": "越後線",
+    "audio_ja": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/越後線_2_ja.mp3",
+    "name_en": "Echigo Line",
+    "audio_en": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/越後線_2_en.mp3",
+    "name_fr": "Ligne Echigo",
+    "text_fr": "Ligne Echigo. Le chemin de fer qui relie Niigata, autrefois porte d'entrée du pays du nord à l'embouchure de la rivière Shinano, jusqu'à Kashiwazaki, a commencé sa vie comme un chemin de fer privé appelé Echigo Railway. C'est peut-être pour cette raison qu'il existe encore une certaine ténacité autochtone et locale dans les origines de la lignée.\nAlors que le train quitte la plate-forme surélevée moderne de Niigata et traverse le plus grand fleuve du Japon, le fleuve Shinano, la vue panoramique sur les vastes étendues d'eau et les plaines d'Echigo qui s'étendent depuis la fenêtre du train nous donne une idée de la grandeur du voyage qui est sur le point de commencer. Il s'agissait autrefois d'une simple ligne locale non électrifiée, mais après son électrification en 1982, elle remplit désormais deux fonctions : comme moyen de transport pour se rendre au travail ou à l'école dans la région de Niigata, et comme itinéraire de voyage à travers la campagne reculée surplombant le mont Yahiko.\nAlors que le train passe derrière des villes portuaires telles que Teradomari et Izumozaki, qui prospéraient autrefois grâce aux navires Kitamae-bune et aux traversées vers Sado, le bruit du rail semble refléter l'esprit indomptable du peuple Echigo qui a enduré la brise marine. À l'approche de la destination finale, Kashiwazaki, on aperçoit des rizières à perte de vue dominant la fenêtre du train, et le bleu de la mer du Japon pointant de temps en temps. Le contraste de ces couleurs est le véritable plaisir de parcourir la route d'Echigo.",
+    "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/越後線_2_fr.mp3",
+    "name_tw": "越後線",
+    "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/越後線_2_tw.mp3",
+    "sheetName": "越後線"
+  },
+  {
     "ID": "V01",
     "lat": 37.9122465,
     "lon": 139.0613474,
@@ -1071,8 +1086,8 @@
   },
   {
     "ID": "予土線",
-    "lat": 33.16147207,
-    "lon": 133.074705,
+    "lat": 33.21235688,
+    "lon": 133.1372887,
     "name_ja": "予土線",
     "audio_ja": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/予土線_ja.mp3",
     "name_en": "Yodo Line",
@@ -2929,7 +2944,7 @@
     "name_fr": "Gare d'Ukifugi",
     "text_fr": "Fouet flottant. La gare est isolée dans un endroit où le chemin de fer serpente doucement le long de la côte de Tosa, là où les vagues agitées de l'océan Pacifique s'écrasent. Cette gare, créée en 1960 lors de l'ouverture de la ligne Nakamura des chemins de fer nationaux, préserve les souvenirs du chemin de fer situé à la pointe sud-ouest de Shikoku, où passaient autrefois les locomotives à vapeur et les trains express diesel, arrosés par le courant de Kuroshio.\n\nLorsque vous atterrissez sur la plateforme, vous pouvez entendre le puissant rugissement de l'océan directement jusqu'à vos oreilles, au-delà des pins qui servent de brise-vent. Le nom de lieu « Ukibuchi », qui a une consonance quelque peu fantastique et littéraire, rappelle l'histoire qui s'est déroulée ici autrefois, et les scènes de voyage éphémères mais belles, comme l'écume des vagues qui vont et viennent. Cette zone, autrefois connue comme la base de chasse à la baleine de Tosa, est aujourd'hui transformée en un lieu sacré pour le surf, où se rassemblent les surfeurs de tout le pays, et la vue de jeunes en combinaisons de plongée assis sur les bancs des stations sans pilote nous donne une idée de la culture moderne de Kuroshio.\n\nLes autoroutes et les chemins de fer nationaux passent juste à côté de la gare et de l'infini océan Pacifique. La vue depuis la fenêtre du train créée par ces éléments est exactement ce que Shunzo Miyawaki aimait, « Le Japon au-delà de la fenêtre du train ». Il n'y a pas de bâtiments de gare luxueux ni de déjeuners en gare, mais l'odeur de l'océan, le bruit des joints de train et les voies ferrées qui s'étendent jusqu'à l'horizon. Cela seul est un luxe plus que suffisant pour ceux qui aiment les trains.",
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/土佐くろしお鉄道_土佐くろしお鉄道_13_fr.mp3",
-    "name_tw": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "name_tw": "浮鞭站",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/土佐くろしお鉄道_土佐くろしお鉄道_13_tw.mp3",
     "sheetName": "土佐くろしお鉄道"
   },
@@ -4529,6 +4544,21 @@
     "sheetName": "白新線"
   },
   {
+    "ID": "妙高はねうまライン",
+    "lat": 36.8722009,
+    "lon": 138.2121958,
+    "name_ja": "妙高はねうまライン",
+    "audio_ja": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/妙高はねうまライン_2_ja.mp3",
+    "name_en": "Myoko Haneuma Line",
+    "audio_en": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/妙高はねうまライン_2_en.mp3",
+    "name_fr": "Ligne Myoko Haneuma",
+    "text_fr": "Ligne Myoko Haneuma. Ce chemin de plus de 30 kilomètres reliant Myoko Kogen à Naoetsu constituait autrefois un tronçon important de la ligne principale Shin-Etsu, l'une des principales artères des chemins de fer nationaux du Japon, reliant Shinano et Echigo. En raison des temps turbulents du prolongement du Hokuriku Shinkansen à Kanazawa, il a maintenant été remplacé par le « chemin de fer Echigo Tokimeki », mais la fierté de la grande ligne principale, avec les express limités « Asama » et « Hakusan », ainsi que les longs trains de marchandises qui la traversaient autrefois, est toujours vivante dans la structure robuste le long des voies et dans l'intérieur spacieux de la gare.\nAlors que le train traverse l'air froid du plateau et descend, la forme majestueuse du mont Myoko, également connu sous le nom de « Echigo Fuji », s'approche de la fenêtre du train et, au début du printemps, la forme enneigée d'un « cheval cabré » apparaît sur ses pentes. Il nous donne le sentiment qu'il s'agit d'un symbole d'une nature restée inchangée depuis l'Antiquité, annonçant la fin des hivers rigoureux de la région et le début de l'agriculture. Un certain nombre de sites du patrimoine ferroviaire, tels que les vestiges des lacets de la gare de Nihongi et le plus ancien hangar à locomotives en bois et en brique sèche du Japon, nous racontent tranquillement, en tant que voyageurs, comment ce chemin de fer a surmonté le terrain accidenté et a soutenu la logistique du nord du Japon. Bien que le voyage à travers l'élégance de la ville fortifiée de Takada jusqu'à Naoetsu, un point stratégique sur la mer du Japon, soit court, c'est une période luxueuse remplie de l'histoire et du climat de Shinetsu.",
+    "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/妙高はねうまライン_2_fr.mp3",
+    "name_tw": "妙高羽馬線",
+    "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/妙高はねうまライン_2_tw.mp3",
+    "sheetName": "妙高はねうまライン"
+  },
+  {
     "ID": "妙高はねうまライン_2",
     "lat": 36.8722009,
     "lon": 138.2121958,
@@ -4720,6 +4750,21 @@
     "product_fr": "Magasin Heihachi Kamaboko « Ensemble Kamaboko spécialisé Naoetsu »\nUn goût traditionnel qui perdure depuis l'ère Taisho à Naoetsu, une ville portuaire qui prospérait comme port d'escale des navires Kitamaebune. Fabriqué à partir de poisson frais de la mer du Japon et soigneusement pétri dans un moulin en pierre, le kamaboko possède une élasticité étonnamment ferme et la saveur du poisson qui déborde à chaque bouchée. Le « Véritable kamaboko » utilise le moins de conservateurs possible et fait ressortir le goût original des ingrédients. C'est un délice que l'on souhaite savourer luxueusement avec du wasabi et de la sauce soja tout en sentant la brise marine de Naoetsu.",
     "product_tw": "平八魚糕店“直江津特產魚糕套餐”\n作為北前船停靠港而繁榮的港口城市直江津，自大正時代以來一直延續的傳統味道。使用來自日本海的新鮮魚，在石磨中精心揉製而成的魚糕具有驚人的緊實彈性，每一口都溢出魚的香味。 「正宗魚糕」盡可能少使用防腐劑，最大限度地發揮食材的本來味道。一邊感受直江津的海風，一邊享受芥末和醬油的奢華美味。",
     "sheetName": "妙高はねうまライン"
+  },
+  {
+    "ID": "日本海ひすいライン",
+    "lat": 37.170264,
+    "lon": 138.2422616,
+    "name_ja": "日本海ひすいライン",
+    "audio_ja": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/日本海ひすいライン_2_ja.mp3",
+    "name_en": "Japan Sea Hisui Line",
+    "audio_en": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/日本海ひすいライン_2_en.mp3",
+    "name_fr": "Ligne Hisui de la mer du Japon",
+    "text_fr": "Japan Sea Hisui Line. Ce chemin de fer reliant Naoetsu à Ichifuri était autrefois l'artère principale de la « ligne principale Hokuriku », une ligne qui traversait la mer du Japon et reliait le Kansai, le Tohoku et Hokkaido. En raison de l'extension du Hokuriku Shinkansen, son exploitation a désormais été reprise par le chemin de fer Echigo Tokimeki, mais sa solide plate-forme électrifiée à double voie et ses longs tunnels portent encore l'impression de son ancienne gloire, lorsque des trains express limités comme le Shiratori express et des trains de marchandises lourds le parcouraient fièrement.\nLorsque le train quitte le vaste domaine de Naoetsu et se dirige vers les rives de la mer du Japon, près de la rivière Arima, les falaises escarpées d'Oyashirazu et de Koshirazu, considérées comme « les plus dangereuses du monde », vous attendent. Ce passage difficile, où les locomotives à vapeur risquaient autrefois leur vie contre la brise marine, traverse désormais tranquillement une série de tunnels, mais lorsque vous entrez dans un espace souterrain profond comme la gare de Tsutsuishi, vous pouvez sentir la ténacité avec laquelle les chemins de fer ont surmonté ce terrain accidenté. Le voyage au-delà d'Itoigawa, son histoire en tant que zone de production de jade et la faille dans la terre appelée Fossa Magna peuvent être considérés comme un voyage qui retrace les origines de la terre japonaise. Même s'il s'agit d'un tronçon électrifié, je ne peux m'empêcher de ressentir un étrange sentiment de voyage en voyant avancer les monoplaces diesel, où la majesté du passé coexiste avec la tranquillité du présent.",
+    "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/日本海ひすいライン_2_fr.mp3",
+    "name_tw": "日本海翡翠線",
+    "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/日本海ひすいライン_2_tw.mp3",
+    "sheetName": "日本海ひすいライン"
   },
   {
     "ID": "日本海ひすいライン_2",
@@ -4946,7 +4991,7 @@
     "sheetName": "日本海ひすいライン"
   },
   {
-    "ID": "五能線_2",
+    "ID": "五能線",
     "lat": 40.19154909,
     "lon": 140.0657487,
     "map_url": "https://www.google.com/maps/search/?api=1&query=%E4%BA%94%E8%83%BD%E7%B7%9A%20%E4%BA%94%E8%83%BD%E7%B7%9A%E9%A7%85",
@@ -4957,7 +5002,7 @@
     "name_fr": "五能線",
     "text_fr": "Ligne Gono. Ce chemin de fer, qui part de Higashi-Noshiro, un embranchement de la ligne principale Ou, et traverse les plaines de Tsugaru tout en étant baigné par les vagues agitées de la mer du Japon, est l'incarnation même de l'expression « voyager jusqu'au bout ». Cette ligne, autrefois appelée « ligne Noshiro » et « ligne Goshogawara », a finalement été reliée en une seule chaîne en 1933. En passant par Hachimori et Iwadate, la mer bleue du Japon s'étend à perte de vue sur votre gauche, et la verdure escarpée de la chaîne de montagnes Shirakami, site du patrimoine mondial, se profile à votre droite, vous présentant à la fois la majesté et la dureté de la nature.\n\nLe chemin du Hachiroku (type 8620), qui a subi les dégâts du sel et a bravé la brise marine, a désormais été hérité par un train touristique moderne appelé Resort Shirakami, mais le parfum de la mer qui flotte dans les bâtiments des gares des anciennes villes portuaires telles que Fukaura et Ajigasawa conserve toujours la même atmosphère de voyage. Après avoir admiré les rochers aux formes étranges de Senjojiki et dépassé Ajigasawa, le train se dirige vers l'intérieur des terres. Le magnifique sommet du mont Iwaki, également connu sous le nom de « Tsugaru Fuji », domine la fenêtre du train et des vergers de pommiers à perte de vue nous accueillent. Voyager le long de cette ligne, qui est un condensé de la mer, des montagnes et du mode de vie indigène de Tsugaru, nous rappelle la « pureté du voyage » irremplaçable à notre époque où l'efficacité est valorisée.",
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/五能線_2_fr.mp3",
-    "name_tw": "五能線",
+    "name_tw": "戈諾線",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/五能線_2_tw.mp3",
     "sheetName": "五能線"
   },
@@ -6568,6 +6613,21 @@
     "sheetName": "信越本線"
   },
   {
+    "ID": "U00",
+    "lat": 37.79,
+    "lon": 139.1208,
+    "name_ja": "羽越本線",
+    "audio_ja": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/羽越本線_2_ja.mp3",
+    "name_en": "Uetsu Main Line",
+    "audio_en": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/羽越本線_2_en.mp3",
+    "name_fr": "Ligne principale Uetsu",
+    "text_fr": "Ligne principale Uetsu. Ce chemin de fer de 270 kilomètres de long qui s'étend vers le nord de Niitsu à Akita en longeant les vagues de la mer du Japon jouait autrefois un rôle important dans la magnifique artère connue sous le nom de « Ligne de la mer du Japon ». Cette ligne, qui existait dans son intégralité depuis l'ère Taisho jusqu'au début de l'ère Showa, a servi de lien logistique clé entre la région du Kansai, Tohoku et Hokkaido, et les souvenirs de sa gloire, où de lourds trains de marchandises et des trains prestigieux comme le les expressions limitées « Swan » et « Nihonkai » en compétition, sont encore préservées dans les échos des rails.\nLaissant derrière elle les vastes ruines de la gare de triage de Niitsu, traversant la rivière Agano et continuant vers le nord en passant par Shibata et Murakami, la plaine d'Echigo à perte de vue alterne avec l'approche des vagues de la mer du Japon. En particulier, la façon dont le chemin de fer se faufile à travers les rochers aux formes étranges de Sasagawa Nagare est un parfait exemple de la façon dont un chemin de fer peut défier la beauté de la nature. Le voyage vers Akita, en passant par les riches ceintures céréalières de Tsuruoka, Sakata et la plaine de Shonai, et en admirant les magnifiques sommets de Dewa Sanzan et du mont Chokai, n'est pas seulement un voyage, mais un moment luxueux où vous pourrez profiter du climat et de l'histoire du pays du nord avec vos cinq sens. Les vestiges de cette époque, où les locomotives à vapeur bravaient la brise marine et roulaient pleines de suie, sont encore visibles dans l'apparence des anciens bâtiments de gare et dans les charpentes en acier des viaducs. C'est le véritable plaisir de voyager sur la ligne principale d'Uetsu.",
+    "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/羽越本線_2_fr.mp3",
+    "name_tw": "羽越幹線",
+    "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/羽越本線_2_tw.mp3",
+    "sheetName": "羽越本線"
+  },
+  {
     "ID": "U01",
     "lat": 37.79,
     "lon": 139.1208,
@@ -7566,6 +7626,21 @@
     "sheetName": "羽越本線"
   },
   {
+    "ID": "F00",
+    "lat": 38.04776578,
+    "lon": 140.1489347,
+    "name_ja": "フラワー長井線",
+    "audio_ja": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/フラワー長井線_2_ja.mp3",
+    "name_en": "Flower Nagai Line",
+    "audio_en": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/フラワー長井線_2_en.mp3",
+    "name_fr": "Ligne Fleur Nagai",
+    "text_fr": "Ligne Fleur Nagai. Ce chemin de fer de 30 kilomètres reliant Akayu à Arato s'appelait autrefois la ligne Nagai des chemins de fer nationaux et, depuis son ouverture au début de l'ère Taisho, il a continué à transporter les riches fruits et la vie des habitants du bassin d'Okitama. Alors que nous quittons la plate-forme d'Akayu, qui est le point de connexion de la ligne principale Ou, nous, en tant que voyageurs, sommes accueillis par un paysage rural paisible, avec les célèbres vergers fruitiers de Yamagata s'étendant depuis la fenêtre du train et le débit impétueux de la rivière Mogami au loin.\nComme le nom « Flower Nagai Line » le suggère, des fleurs saisonnières telles que des iris, des dahlias et des azalées blanches fleurissent le long de la ligne, ajoutant de la couleur au chemin de fer par ailleurs inorganique. Cependant, derrière cette splendeur, vous pouvez sentir que le solide héritage de l'époque du ministère des Chemins de fer est toujours bien vivant, comme la chaleur des bons vieux bâtiments en bois des gares de Nishi-Otsuka et Miyauchi, et le pont de la rivière Mogami, qui était un pont en treillis de fabrication britannique de l'ère Meiji. Même si vous êtes impressionné par les voitures diesel légères et modernes, si vous fermez les yeux, vous pouvez sentir la suie rejetée par les locomotives à vapeur et entendre l'agitation des gens qui se sont rassemblés pour récupérer les marchandises. Cela vous donne un avant-goût du voyage à plusieurs niveaux. Dans un monde d'aujourd'hui où l'efficacité est privilégiée, l'apparition de cette ligne, où l'heure est soigneusement marquée à chaque gare, nous rappelle le vrai bonheur du voyage en train.",
+    "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/フラワー長井線_2_fr.mp3",
+    "name_tw": "花永井線",
+    "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/F00_tw.mp3",
+    "sheetName": "フラワー長井線"
+  },
+  {
     "ID": "F01",
     "lat": 38.04776578,
     "lon": 140.1489347,
@@ -8204,6 +8279,21 @@
     "name_tw": "長岡站",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/上越線_J23_tw.mp3",
     "sheetName": "上越線"
+  },
+  {
+    "ID": "H00",
+    "lat": 37.06717609,
+    "lon": 138.8757706,
+    "name_ja": "ほくほく線",
+    "audio_ja": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/ほくほく線_2_ja.mp3",
+    "name_en": "Hokuhoku line",
+    "audio_en": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/ほくほく線_2_en.mp3",
+    "name_fr": "Ligne Hokuhoku",
+    "text_fr": "Muikamachi. Lorsque vous passez de la plate-forme de la ligne Joetsu à la plate-forme de la ligne Hokuhoku située un peu plus haut, vous vous retrouverez condensé dans l'histoire mouvementée du chemin de fer inachevé qui était autrefois connu sous le nom de « Ligne Hokuetsu Nord ». La construction a commencé comme une ligne de contournement pour les chemins de fer nationaux japonais, mais la construction a été interrompue en raison des vagues turbulentes de restructuration des entreprises. Il a été relancé en tant que troisième secteur, et le souvenir de la gloire du service express limité « Hakutaka » qui roulait autrefois à 160 km/h, la ligne conventionnelle la plus rapide du Japon, perdure encore dans la structure robuste et de haute qualité à côté des voies ferrées.\nLorsque le train quitte le domaine de Muikamachi et quitte les plaines d'Uonuma, il est suivi par une série de tunnels. En particulier, la trajectoire du tunnel, illustrée par le tunnel Nabe Tachiyama, creusé après une bataille acharnée contre la pression terrestre, est véritablement un témoignage de la ténacité humaine et de la technologie du génie civil. Les montagnes profondes d'Echigo et les rues enneigées de Tokamachi apparaissent un instant entre les tunnels. L'agitation du passé a disparu, et maintenant une ou deux voitures passent tranquillement, et même si elle conserve sa dignité d'artère majeure, elle a un sentiment de solitude digne. Le voyage depuis l'arrivée sur la ligne principale Shinetsu à Saigata jusqu'à la lumière de la mer du Japon est un moment luxueux à la poursuite des rémanences du rêve de l'ère Showa.",
+    "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/ほくほく線_2_fr.mp3",
+    "name_tw": "北北線",
+    "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/ほくほく線_2_tw.mp3",
+    "sheetName": "ほくほく線"
   },
   {
     "ID": "H01",
@@ -11918,6 +12008,21 @@
     "sheetName": "磐越西線"
   },
   {
+    "ID": "Y00",
+    "lat": 37.69924642,
+    "lon": 138.8319916,
+    "name_ja": "弥彦線",
+    "audio_ja": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/弥彦線_2_ja.mp3",
+    "name_en": "Yahiko Line",
+    "audio_en": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/弥彦線_2_en.mp3",
+    "name_fr": "Ligne Yahiko",
+    "text_fr": "Gare de Yahiko. Lorsque vous descendez à cette gare, la première chose qui attire votre attention est un bâtiment de style sanctuaire avec d'impressionnants piliers vermillon, digne d'une gare devant les portes d'Echigo Ichinomiya et du sanctuaire Yahiko. Le chemin de fer d'Echigo a été créé en 1912 pour transporter les visiteurs vers le sanctuaire. Il a une histoire magnifique puisqu'il traversait autrefois Tsubame, jusqu'à Higashi Sanjo, puis traversait les montagnes jusqu'à Echigo Nagasawa. Bien qu'il ne s'agisse désormais que d'une courte section jusqu'à Higashi Sanjo, vous pouvez toujours ressentir l'atmosphère unique de la foi et de l'industrie d'Echigo depuis la fenêtre du train.\nAlors que le train quitte Yahiko et se dirige vers le cœur de la plaine d'Echigo, levant les yeux vers le torii géant de Yahagi, les magnifiques rizières s'étendent à perte de vue, nous invitant les voyageurs dans une atmosphère paisible. À la gare de Tsubame-Sanjo, la vue du Joetsu Shinkansen, symbole des temps modernes, qui le croise vous procure une sensation étrange, comme si vous regardiez une ligne de faille dans le temps. Poursuivant son chemin, le train serpente à travers les ruelles de Tsubame, qui prospérait autrefois en tant que « ville d'artisans », et traverse un long pont de fer au-dessus de la rivière Shinano pour atteindre Higashisanjo. Sur ce trajet d'un peu plus de 17 kilomètres, on sent que les prières à Dieu et la fierté de notre artisanat sont encore vivantes à travers les joints des rails. Le train de la série 115 traversait autrefois cette plaine avec son rugissement distinctif, mais maintenant les trains modernes passent silencieusement, mais la ligne de crête du mont Yahiko qui s'écoule par la fenêtre du train conserve la même noblesse que ce jour-là, à l'époque Showa.",
+    "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/弥彦線_2_fr.mp3",
+    "name_tw": "彌彥線",
+    "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/弥彦線_2_tw.mp3",
+    "sheetName": "弥彦線"
+  },
+  {
     "ID": "Y01",
     "lat": 37.69924642,
     "lon": 138.8319916,
@@ -12081,6 +12186,21 @@
     "name_tw": "東三條站",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/弥彦線_Y08_tw.mp3",
     "sheetName": "弥彦線"
+  },
+  {
+    "ID": "JR大糸線_1",
+    "lat": 36.23072165,
+    "lon": 137.9644632,
+    "name_ja": "大糸線",
+    "audio_ja": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR大糸線_2_ja.mp3",
+    "name_en": "Oito Line",
+    "audio_en": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR大糸線_2_en.mp3",
+    "name_fr": "Ligne Oito",
+    "text_fr": "Ligne Oito. Ce chemin de fer de 100 kilomètres qui relie Matsumoto, l'ancienne capitale de Shinshu, à Itoigawa sur la mer du Japon tout en admirant les montagnes escarpées des Alpes du Nord, a deux origines et expressions différentes : le côté sud était autrefois ouvert par un chemin de fer privé appelé Shinano Railway, et le côté nord a été creusé par les chemins de fer nationaux japonais à travers la vallée escarpée de Himekawa. Alors que le train quitte Matsumoto et traverse la campagne paisible d'Azumino et passe Shinano Omachi, les sommets éternellement enneigés de Kashimayari et de Goryu se profilent au-dessus de la fenêtre du train avec une présence écrasante, et le train commence à démontrer pleinement son véritable potentiel en tant que chemin de fer de montagne.\nAprès avoir traversé Hakuba, le caténaire se termine à Minami-Otari, et la vue d'une seule voiture diesel s'enfonçant dans un profond ravin avec le bruit de son moteur résonnant dans l'air vous donne l'impression d'une « ligne de montagne Showa » qui survit encore aujourd'hui. Le long de la Chikoku Kaido, autrefois connue sous le nom de « route du sel », l'itinéraire traverse d'anciens hangars à neige et des tunnels qui semblent avoir été creusés à la main, tout en suivant les méandres de la rivière Hime, connue comme une rivière en furie. Il semble que la volonté indomptable de nos prédécesseurs, qui ont surmonté de nombreuses inondations et de fortes chutes de neige pour protéger la voie ferrée, perdure encore tranquillement. Parcourir ce chemin, qui est un condensé dense de montagnes, de rivières et de vie dans un pays enneigé, jusqu'à ce que nous touchions la brise marine d'Hokuriku à Itoigawa, la dernière étape, est un moment luxueux pour nous, voyageurs, pour réaffirmer la force fondamentale du chemin de fer en tant que véhicule.",
+    "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR大糸線_2_fr.mp3",
+    "name_tw": "大糸線",
+    "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR大糸線_2_tw.mp3",
+    "sheetName": "JR大糸線"
   },
   {
     "ID": "JR大糸線_2",
@@ -13138,6 +13258,21 @@
     "sheetName": "JR徳島線"
   },
   {
+    "ID": "JR高徳線_1",
+    "lat": 34.3506959,
+    "lon": 134.0469117,
+    "name_ja": "高徳線",
+    "audio_ja": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR高徳線_2_ja.mp3",
+    "name_en": "Kotoku Line",
+    "audio_en": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR高徳線_2_en.mp3",
+    "name_fr": "Ligne Kotoku",
+    "text_fr": "Ligne Kotoku. Ce chemin de fer, qui relie Takamatsu et Tokushima, les deux principales villes de la partie orientale de Shikoku, sur la distance la plus courte, s'appelait autrefois la « ligne principale de Takatoku » et jouait un rôle important en guidant les voyageurs débarquant du ferry d'Udaka vers la province d'Awa. À l'origine, il s'agissait d'une combinaison de fragments de chemins de fer privés tels que le chemin de fer de Sanuki et le chemin de fer d'Awa, et même après la nationalisation, il est resté longtemps non électrifié, et l'image du passé, lorsque les trains express diesel « Awa » et « Yoshinokawa » circulaient avec de la suie et de la fumée, est encore visible.\nAlors que le train quitte les voies ferrées modernes et surélevées de Takamatsu, passant par des sites historiques de la région de Setouchi tels que Yashima et Shido, l'océan calme de la mer d'Harima s'étend depuis la fenêtre du train, apaisant le cœur de nous, voyageurs. Cependant, la véritable valeur de cet itinéraire réside dans la traversée du col d'Osaka, qui se situe entre les frontières préfectorales de Kagawa et de Tokushima. Cette route de montagne escarpée, qui était autrefois parcourue par des locomotives à vapeur, est aujourd'hui parcourue par le train express ultramoderne « Uzushio » avec un effet pendulaire, mais l'apparence des anciennes découpes et tunnels nous donne encore une idée de la ténacité de nos prédécesseurs à surmonter des terrains difficiles. Une fois que vous aurez dépassé Itano et que vous vous dirigerez vers la zone du delta de la rivière Yoshino, vous trouverez la lumière vive d'un pays tropical qui vous attend. Suivre cette ligne droite est un plaisir extrêmement intellectuel qui permet de condenser et de profiter du climat de l'est de Shikoku en peu de temps.",
+    "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR高徳線_2_fr.mp3",
+    "name_tw": "高德線",
+    "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR高徳線_2_tw.mp3",
+    "sheetName": "JR高徳線"
+  },
+  {
     "ID": "JR高徳線_2",
     "lat": 34.3506959,
     "lon": 134.0469117,
@@ -13181,7 +13316,7 @@
     "name_fr": "Sortie nord du parc Ritsurin",
     "text_fr": "栗林公園北口。 Cette gare sert d'entrée arrière au jardin Ritsurin, d'une beauté comparable aux trois jardins célèbres du Japon, et constitue un arrêt sur une voie ferrée surélevée offrant une vue vraiment spectaculaire. Si vous regardez depuis la plate-forme, vous verrez la verdure profonde du parc qui bloque l'agitation de la ville, vous donnant le sentiment d'une oasis dans la ville. Il y avait autrefois une station de signalisation à proximité de cette zone, et la structure, qui exploitait efficacement le site limité, reflète les difficultés liées à la construction du chemin de fer. Dès la sortie de la gare, un espace tranquille empli du parfum des pins vous attend, vous promettant un peu de repos pendant votre voyage.",
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR高徳線_4_fr.mp3",
-    "name_tw": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "name_tw": "栗林公园北口",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR高徳線_4_tw.mp3",
     "sheetName": "JR高徳線"
   },
@@ -13245,7 +13380,7 @@
     "name_fr": "Vieux Takamatsu Sud",
     "text_fr": "Vieux Takamatsu Sud. Située dans un coin d'un quartier résidentiel à forte densité, c'est une petite gare aux allures de halte pour les habitants. Comme le nom du lieu, Old Takamatsu, l'indique, cette zone a une histoire cachée remontant à avant la formation du centre de Takamatsu, et les ruelles autour de la gare ont un soupçon du passé. Bien qu'il s'agisse d'une structure simple avec un seul quai, on y entend chaque jour le bruit des trains qui arrivent à heure fixe, et le rythme de la vie des gens y est gravé. Cela vous donne l'impression d'être à un tournant au début de votre voyage, lorsque les bâtiments modernes reculent et que le mode de vie indigène devient plus évident.",
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR高徳線_8_fr.mp3",
-    "name_tw": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "name_tw": "老高松南",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR高徳線_8_tw.mp3",
     "sheetName": "JR高徳線"
   },
@@ -13549,7 +13684,7 @@
     "name_fr": "勝瑞",
     "text_fr": "Katsuzui. Située juste à côté des ruines du château de Shozui, qui fut le centre politique et culturel de l'Awa médiévale, c'est une station historique qui cache la prospérité du clan Miyoshi, qui régnait autrefois sur cette région, sous terre. Bien que la zone soit actuellement davantage une zone résidentielle, les vestiges des douves et des temples et sanctuaires autour de la gare conservent encore de fortes traces de son ancien statut de « capitale d'Awa ». Lorsque le train express ralentit jusqu'à l'arrêt, la verdure du site historique visible depuis la fenêtre du train nous rappelle tranquillement qu'un chemin de fer moderne circule au-dessus d'une couche d'histoire. Si vous vous tenez sur la plate-forme en imaginant à quoi ressemblerait la ville telle que rêvée par les puissants d'autrefois, l'atmosphère de votre voyage deviendra encore plus profonde.",
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR高徳線_27_fr.mp3",
-    "name_tw": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "name_tw": "勝水",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR高徳線_27_tw.mp3",
     "sheetName": "JR高徳線"
   },
@@ -13600,6 +13735,21 @@
     "name_tw": "德島",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR高徳線_30_tw.mp3",
     "sheetName": "JR高徳線"
+  },
+  {
+    "ID": "JR牟岐線_1",
+    "lat": 34.0746743,
+    "lon": 134.5513898,
+    "name_ja": "牟岐線",
+    "audio_ja": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR牟岐線_2_ja.mp3",
+    "name_en": "Mugi Line",
+    "audio_en": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR牟岐線_2_en.mp3",
+    "name_fr": "Ligne Mugi",
+    "text_fr": "Ligne Mugi. Partant de Tokushima, la capitale d'Awa, et se dirigeant vers le sud en direction de Muroto, là où les vagues agitées de l'océan Pacifique s'écrasent, ce chemin de fer était autrefois une partie importante du côté est du grand plan « Asa Line » des chemins de fer nationaux japonais pour faire le tour de Shikoku. En quittant l'agitation de la gare de Tokushima et en direction d'Awa-Tomita et Nikenya, le train s'échappe progressivement de l'agitation de la ville et traverse d'anciens lieux stratégiques tels que Chuden, qui était la jonction avec l'ancienne ligne Komatsushima, et Hanoura, avant d'entrer dans la riche campagne de la plaine de Tokushima.\nAprès avoir dépassé Anan, le chemin de fer commence enfin à s'attaquer au terrain escarpé où les montagnes s'approchent de la mer, et la principale caractéristique de la fenêtre du train se transforme en la baie de Tosa, d'un bleu profond. Dans le passé, la ligne express « Muroto » côtoyait la série Kiha 58, et des trains de marchandises transportant du bois et des produits marins allaient et venaient également le long de la ligne, et même aujourd'hui, l'esprit de l'époque où la ligne était destinée à devenir une « artère majeure » se fait encore sentir partout. En particulier, les vues de la côte près d'Hiwasa et la vue de la pagode du temple Yakuoji vous font ressentir la pure exaltation de « se diriger vers la frontière » inhérente au voyage en train. Actuellement, la route d'Awa-Kainan a été reprise par le DMV et le caractère de la ligne change, mais la passion des cheminots qui ont continué à poursuivre leurs rêves inachevés est toujours vivante dans le bruit des rails qui continuent vers le sud. Il y a quelque chose de spécial à voyager tout en savourant une telle accumulation d’histoire.",
+    "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR牟岐線_2_fr.mp3",
+    "name_tw": "麥線",
+    "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR牟岐線_2_tw.mp3",
+    "sheetName": "JR牟岐線"
   },
   {
     "ID": "JR牟岐線_2",
@@ -13709,7 +13859,7 @@
     "name_fr": "Minami-Komatsushima",
     "text_fr": "Minamikomatsushima. À l'époque où le port de Komatsushima régnait comme porte maritime vers Shikoku, cette station servait de point clé reliant le port et l'intérieur des terres, témoin des joies, des colères et des chagrins des gens qui ne peuvent être décrits avec des mots. Maintenant que la ligne Komatsushima a été supprimée, cette gare a repris son rôle de gare centrale de la ville, mais la désolation et l'animation typiques d'une ville portuaire chatouillent toujours le nez des voyageurs. Alors que je me tiens sur le quai, où se mélangent l'odeur du sel transporté par la brise marine et l'odeur du pétrole du train, je ne peux m'empêcher de penser à la longue histoire du chemin de fer qui reliait l'autre côté de la mer.",
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR牟岐線_8_fr.mp3",
-    "name_tw": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "name_tw": "南小松島",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR牟岐線_8_tw.mp3",
     "sheetName": "JR牟岐線"
   },
@@ -14348,7 +14498,7 @@
     "name_fr": "Ligne JR Yosan",
     "text_fr": "Ligne Yosan. Partant de Takamatsu, la « porte d'entrée » où les voyageurs faisaient autrefois leurs premiers pas vers Shikoku lorsqu'ils débarquaient du ferry d'Utaka, ce chemin de fer longe la mer intérieure de Seto jusqu'à l'extrémité d'Iyo et d'Uwajima, et possède une grandeur digne d'être appelée l'artère de Shikoku. Immédiatement après avoir quitté Takamatsu, vous pouvez voir le paysage moderne de l'immense charpente en acier du pont Seto Ohashi qui traverse la plaine de Sanuki, et la vue sur l'océan calme rempli de belles îles lorsque vous émergez de la côte après avoir passé Tadotsu, vous tente de voyager autant que par le passé.\n\nCette ligne de chemin de fer, où le Shiokaze Limited Express rugissait autrefois avec son lourd bruit de diesel, et avant cela, les locomotives à vapeur comme la C57 émettaient de la fumée blanche, est désormais électrifiée avec des trains pendulaires qui parcourent la zone. Cependant, en passant devant le temple Kannon-ji et en entrant dans la préfecture d'Ehime, en admirant la vue majestueuse du mont Ishizuchi, vous pouvez toujours ressentir l'atmosphère de l'ancienne route principale. En particulier, la vue tranquille sur la mer d'Iyonada qui s'étend depuis la fenêtre de l'ancienne ligne « Umiwari » qui bifurque de Mukaibara via Nagahama nous amène tranquillement à nous demander quelle est l'essence du voyage ferroviaire à notre époque où l'efficacité est valorisée. Ce long voyage, passant par les pentes jaune d'or du mont Mikan, vers la destination finale, Uwajima, offre une sensation luxueuse de découvrir la richesse et l'histoire du pays de Shikoku à chaque arrêt.",
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR予讃線_fr.mp3",
-    "name_tw": "JR予讚線",
+    "name_tw": "於贊線",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR予讃線_tw.mp3",
     "sheetName": "JR予讃線"
   },
@@ -26787,7 +26937,7 @@
     "name_fr": "Tsukuda",
     "text_fr": "Tsukuda. C'est un carrefour de voyages, où se croisent la ligne Dosan et la ligne Tokushima, et où le temps s'écoule tranquillement sur les rives de la rivière Yoshino. La vue de deux lignes fusionnant et se dirigeant vers un seul pont de fer nous donne le sentiment d'une étrange connexion, comme si des voyageurs d'horizons différents jouissaient d'une compagnie éphémère. Bien que la gare elle-même ait une structure simple, la variété des trains qui la traversent témoigne de la richesse du réseau ferroviaire qui s'étendait autrefois sur tout Shikoku. Juste avant de traverser la rivière Yoshino, entendre le bruit unique des joints ferroviaires et contempler la majesté de la puissante rivière qui s'étend depuis la fenêtre du train vous donne l'impression d'être à la gorge de la province d'Awa. Parce qu'il ne s'agit pas d'une destination touristique tapageuse, c'est une halte unique où l'on peut prendre son temps pour apprécier l'immensité des routes reliées par le chemin de fer.",
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR土讃線_11_fr.mp3",
-    "name_tw": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "name_tw": "佃",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR土讃線_11_tw.mp3",
     "sheetName": "JR土讃線"
   },
@@ -26851,7 +27001,7 @@
     "name_fr": "Awa Kawaguchi",
     "text_fr": "Embouchure de la rivière Awa. Lorsque vous montez sur la plate-forme, la première chose qui attire votre attention sont les adorables statues de chiens viverrins. Cette zone est connue depuis l'Antiquité comme un lieu où perdure la légende du chien viverrin, et il est très amusant de voir que même la gare fait partie de cette histoire. Cependant, contrairement à cette atmosphère tranquille, les montagnes qui se profilent en arrière-plan deviennent de plus en plus abruptes, et les eaux vives de la rivière Yoshino provoquent également des vagues blanches qui rongent les rochers. Cette station est également historiquement une base d'exportation de ressources forestières vers la ville, et vous pouvez sentir les traces de l'industrie du passé se chevaucher avec le silence des chiens viverrins qui veillent sur vous. Cette station, où cohabitent histoires, réalité et nature dure, offre aux voyageurs un moment de paix, mais préfigure également la rudesse du voyage au cœur des montagnes qui s'annoncent.",
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR土讃線_15_fr.mp3",
-    "name_tw": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "name_tw": "阿波河口",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR土讃線_15_tw.mp3",
     "sheetName": "JR土讃線"
   },
@@ -28264,6 +28414,21 @@
     "sheetName": "しなの鉄道線"
   },
   {
+    "ID": "阿佐海岸鉄道",
+    "lat": 33.606753,
+    "lon": 134.3510181,
+    "name_ja": "阿佐海岸鉄道",
+    "audio_ja": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/阿佐海岸鉄道_ja.mp3",
+    "name_en": "Asa Kaigan Railway",
+    "audio_en": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/阿佐海岸鉄道_en.mp3",
+    "name_fr": "Chemin de fer Asa Kaigan",
+    "text_fr": "Awa Kainan. Cette gare constitue désormais le porte-étendard d'une nouvelle ère dans laquelle le premier DMV (Dual Mode Vehicle) au monde peut circuler librement entre les routes et les voies ferrées. Bien qu'il ait été initialement prévu pour la « Ligne Asa », un grand rêve des chemins de fer nationaux du Japon visant à faire le tour de Shikoku, ce chemin de fer, laissé inachevé en raison des turbulences de l'époque et né comme chemin de fer du troisième secteur, a maintenant connu une évolution sans précédent avec des bus circulant sur le chemin de fer.\n\nA l'échangeur mode, moment où les pneus en caoutchouc sont remplacés par des roues en acier, le rituel tranquille mais certain de la « transformation en chemin de fer » nous fait ressentir un moment où la rationalité moderne et notre obsession du chemin de fer cohabitent étrangement. Lorsque vous arrivez au sommet du viaduc, vous verrez une structure robuste qui a été autrefois construite sur la base de trains express limités qui la traversaient, et il y a quelque chose d'attachant à regarder de petits trains circuler sans problème dans cet espace trop spécifique. Lorsque nous traversons le tunnel de Shishikui et que le bleu profond et majestueux de la baie de Tosa apparaît, nous pouvons revivre les pensées de nos ancêtres, qui ont travaillé dur pour construire des chemins de fer sur ces terres, au nord et au sud. Bien qu'il ne s'agisse que d'une courte distance commerciale, cette courte trajectoire condense le sort étrange des chemins de fer de Shikoku et un modeste espoir pour l'avenir.",
+    "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/阿佐海岸鉄道_fr.mp3",
+    "name_tw": "阿佐海岸鐵道",
+    "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/阿佐海岸鉄道_tw.mp3",
+    "sheetName": "阿佐海岸鉄道"
+  },
+  {
     "ID": "阿佐海岸鉄道_2",
     "lat": 33.606753,
     "lon": 134.3510181,
@@ -28307,7 +28472,7 @@
     "name_fr": "Shishikui",
     "text_fr": "Shishikui. À cheval sur la frontière préfectorale entre les préfectures de Tokushima et de Kochi, cette gare est connue comme la base du chemin de fer Asa Kaigan. Lorsque vous entrez dans le bâtiment de la gare, vous pouvez ressentir les souvenirs de l'ancien « chef de gare d'Ise Ebi » et le contact chaleureux de la population locale qui a travaillé si dur pour soutenir ce petit chemin de fer. La construction de cette ligne, avec ses viaducs continus, est une véritable « spécification de ligne principale » vraiment splendide, avec l'hypothèse qu'elle sera prolongée dans le futur, et de ce fait, le contraste avec la petite taille du matériel roulant donne aux voyageurs un sentiment de solitude et, par conséquent, un profond sentiment d'affection. Si vous regardez depuis la fenêtre de la gare, vous pouvez voir le littoral sauvage mais magnifique baigné par le courant Kuroshio au-delà des toits complexes du village de pêcheurs, et c'est ce qui vous donne le sentiment que c'est l'atmosphère unique de cette région, située à la frontière entre Tosa et Awa. L'industrie ferroviaire est peut-être dans une situation difficile, mais les gens qui travaillent ici semblent continuer à chérir et à protéger les « relations » que les chemins de fer unissent, ce qui éclaire une lumière chaleureuse dans le cœur des voyageurs.",
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/阿佐海岸鉄道_4_fr.mp3",
-    "name_tw": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "name_tw": "石石葵",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/阿佐海岸鉄道_4_tw.mp3",
     "sheetName": "阿佐海岸鉄道"
   },
