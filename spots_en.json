@@ -1,5 +1,20 @@
 [
   {
+    "ID": "V00",
+    "lat": 37.9122465,
+    "lon": 139.0613474,
+    "name_ja": "越後線",
+    "audio_ja": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/越後線_2_ja.mp3",
+    "name_en": "Echigo Line",
+    "text_en": "Echigo Line. The railway that runs from Niigata, once the gateway to the northern country at the mouth of the Shinano River, to Kashiwazaki, originally began life as a private railway called Echigo Railway. Perhaps for this reason, there is still a certain indigenous, locally-based tenacity to the line's origins.\nAs the train slides off Niigata's modern elevated platform and crosses Japan's largest river, the Shinano River, the panoramic view of the vast water and Echigo plains stretching out from the train window gives us a sense of the grandeur of the journey that is about to begin. It used to be a plain, non-electrified local line, but after it was electrified in 1982, it now has two roles: as a means of commuting to work or school in the Niigata area, and as a journey route through the remote countryside overlooking Mt. Yahiko.\nAs the train passes behind port towns such as Teradomari and Izumozaki, which once flourished due to Kitamae-bune ships and crossings to Sado, the sound of the rail seems to reflect the indomitable spirit of the Echigo people who endured the sea breeze. As we approach the final destination, Kashiwazaki, we see rice fields as far as the eye can see dominating the train window, and the blue of the Sea of ​​Japan peeking out from time to time. The contrast of these colors is the real thrill of traveling along the Echigo Route.",
+    "audio_en": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/越後線_2_en.mp3",
+    "name_fr": "Ligne Echigo",
+    "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/越後線_2_fr.mp3",
+    "name_tw": "越後線",
+    "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/越後線_2_tw.mp3",
+    "sheetName": "越後線"
+  },
+  {
     "ID": "V01",
     "lat": 37.9122465,
     "lon": 139.0613474,
@@ -1071,8 +1086,8 @@
   },
   {
     "ID": "予土線",
-    "lat": 33.16147207,
-    "lon": 133.074705,
+    "lat": 33.21235688,
+    "lon": 133.1372887,
     "name_ja": "予土線",
     "audio_ja": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/予土線_ja.mp3",
     "name_en": "Yodo Line",
@@ -2929,7 +2944,7 @@
     "audio_en": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/土佐くろしお鉄道_土佐くろしお鉄道_13_en.mp3",
     "name_fr": "Gare d'Ukifugi",
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/土佐くろしお鉄道_土佐くろしお鉄道_13_fr.mp3",
-    "name_tw": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "name_tw": "浮鞭站",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/土佐くろしお鉄道_土佐くろしお鉄道_13_tw.mp3",
     "sheetName": "土佐くろしお鉄道"
   },
@@ -4529,6 +4544,21 @@
     "sheetName": "白新線"
   },
   {
+    "ID": "妙高はねうまライン",
+    "lat": 36.8722009,
+    "lon": 138.2121958,
+    "name_ja": "妙高はねうまライン",
+    "audio_ja": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/妙高はねうまライン_2_ja.mp3",
+    "name_en": "Myoko Haneuma Line",
+    "text_en": "Myoko Haneuma Line. This 30-plus kilometer path from Myoko Kogen to Naoetsu once served as an important section of the Shin-Etsu Main Line, one of Japan National Railways' major arteries, connecting Shinano and Echigo. Due to the turbulent times of the Kanazawa extension of the Hokuriku Shinkansen, it has now been replaced by the ``Echigo Tokimeki Railway,'' but the pride of the great trunk line, with the limited expresses ``Asama'' and ``Hakusan,'' as well as the long freight trains that once ran through it, is still alive in the sturdy structure along the tracks and the spacious interior of the station.\nAs the train cuts through the cold air of the plateau and descends, the majestic shape of Mt. Myoko, also known as ``Echigo Fuji,'' approaches from the train window, and in early spring, the snow shape of a ``prancing horse'' appears on its slopes. It gives us the feeling that it is a symbol of nature that has remained unchanged since ancient times, announcing the end of the region's harsh winters and the beginning of agriculture. A number of railway heritage sites, such as the remains of the switchbacks at Nihongi Station and Japan's oldest active wooden dry brick engine shed, quietly tell us, as travelers, how this railway overcame the rugged terrain and supported the logistics of northern Japan. Although the journey through the elegance of the castle town of Takada to Naoetsu, a strategic point on the Sea of ​​Japan, is short, it is a luxurious time filled with the history and climate of Shinetsu.",
+    "audio_en": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/妙高はねうまライン_2_en.mp3",
+    "name_fr": "Ligne Myoko Haneuma",
+    "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/妙高はねうまライン_2_fr.mp3",
+    "name_tw": "妙高羽馬線",
+    "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/妙高はねうまライン_2_tw.mp3",
+    "sheetName": "妙高はねうまライン"
+  },
+  {
     "ID": "妙高はねうまライン_2",
     "lat": 36.8722009,
     "lon": 138.2121958,
@@ -4720,6 +4750,21 @@
     "product_fr": "Magasin Heihachi Kamaboko « Ensemble Kamaboko spécialisé Naoetsu »\nUn goût traditionnel qui perdure depuis l'ère Taisho à Naoetsu, une ville portuaire qui prospérait comme port d'escale des navires Kitamaebune. Fabriqué à partir de poisson frais de la mer du Japon et soigneusement pétri dans un moulin en pierre, le kamaboko possède une élasticité étonnamment ferme et la saveur du poisson qui déborde à chaque bouchée. Le « Véritable kamaboko » utilise le moins de conservateurs possible et fait ressortir le goût original des ingrédients. C'est un délice que l'on souhaite savourer luxueusement avec du wasabi et de la sauce soja tout en sentant la brise marine de Naoetsu.",
     "product_tw": "平八魚糕店“直江津特產魚糕套餐”\n作為北前船停靠港而繁榮的港口城市直江津，自大正時代以來一直延續的傳統味道。使用來自日本海的新鮮魚，在石磨中精心揉製而成的魚糕具有驚人的緊實彈性，每一口都溢出魚的香味。 「正宗魚糕」盡可能少使用防腐劑，最大限度地發揮食材的本來味道。一邊感受直江津的海風，一邊享受芥末和醬油的奢華美味。",
     "sheetName": "妙高はねうまライン"
+  },
+  {
+    "ID": "日本海ひすいライン",
+    "lat": 37.170264,
+    "lon": 138.2422616,
+    "name_ja": "日本海ひすいライン",
+    "audio_ja": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/日本海ひすいライン_2_ja.mp3",
+    "name_en": "Japan Sea Hisui Line",
+    "text_en": "Japan Sea Hisui Line. This railway from Naoetsu to Ichifuri was once the main artery of the ``Hokuriku Main Line,'' a line that ran through the Sea of ​​Japan connecting Kansai, Tohoku, and Hokkaido. Due to the extension of the Hokuriku Shinkansen, its operation has now been taken over by the Echigo Tokimeki Railway, but its sturdy double-track electrified roadbed and long tunnels still bear the impression of its former glory, when limited express trains such as the Shiratori express and heavy freight trains proudly ran through it.\nWhen the train leaves the vast grounds of Naoetsu and heads out onto the shores of the Sea of ​​Japan near the Arima River, the precipitous cliffs of Oyashirazu and Koshirazu, feared to be ``the world's most dangerous'', await. This difficult passage, where steam locomotives once risked their lives against the sea breeze, now passes quietly through a series of tunnels, but when you step into a space deep underground like Tsutsuishi Station, you can feel the tenacity with which railways have overcome this rugged terrain. The journey past Itoigawa, its history as a jade producing area, and the rift in the earth called Fossa Magna can be said to be a journey that traces the origins of Japan's land. Even though it is an electrified section, I can't help but feel a strange sense of travel as I see the single-car diesel cars moving along, where the majesty of the past coexists with the tranquility of the present.",
+    "audio_en": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/日本海ひすいライン_2_en.mp3",
+    "name_fr": "Ligne Hisui de la mer du Japon",
+    "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/日本海ひすいライン_2_fr.mp3",
+    "name_tw": "日本海翡翠線",
+    "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/日本海ひすいライン_2_tw.mp3",
+    "sheetName": "日本海ひすいライン"
   },
   {
     "ID": "日本海ひすいライン_2",
@@ -4946,7 +4991,7 @@
     "sheetName": "日本海ひすいライン"
   },
   {
-    "ID": "五能線_2",
+    "ID": "五能線",
     "lat": 40.19154909,
     "lon": 140.0657487,
     "map_url": "https://www.google.com/maps/search/?api=1&query=%E4%BA%94%E8%83%BD%E7%B7%9A%20%E4%BA%94%E8%83%BD%E7%B7%9A%E9%A7%85",
@@ -4957,7 +5002,7 @@
     "audio_en": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/五能線_2_en.mp3",
     "name_fr": "五能線",
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/五能線_2_fr.mp3",
-    "name_tw": "五能線",
+    "name_tw": "戈諾線",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/五能線_2_tw.mp3",
     "sheetName": "五能線"
   },
@@ -6568,6 +6613,21 @@
     "sheetName": "信越本線"
   },
   {
+    "ID": "U00",
+    "lat": 37.79,
+    "lon": 139.1208,
+    "name_ja": "羽越本線",
+    "audio_ja": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/羽越本線_2_ja.mp3",
+    "name_en": "Uetsu Main Line",
+    "text_en": "Uetsu Main Line. This 270-kilometre-long railway that runs north from Niitsu to Akita along the waves of the Sea of ​​Japan once played an important part of the magnificent artery known as the ``Sea of ​​Japan Line.'' This line, which was in its entirety from the Taisho era to the early Showa era, served as a key logistics link between the Kansai region, Tohoku, and Hokkaido, and the memories of its glory, where heavy freight trains and prestigious trains such as the limited expresses ``Swan'' and ``Nihonkai'' competed, are still preserved in the echoes of the rails.\nLeaving behind the vast ruins of Niitsu's railroad yard, crossing the Agano River and continuing north through Shibata and Murakami, the Echigo Plain as far as the eye can see alternates with the approaching waves of the Sea of ​​Japan. In particular, the way the railway weaves through the strangely shaped rocks of Sasagawa Nagare is a perfect example of how a railway can challenge the beauty of nature. The journey to Akita, passing through the rich grain belts of Tsuruoka, Sakata, and the Shonai Plain, and looking up at the magnificent peaks of Dewa Sanzan and Mt. Chokai, is not just a journey, but a luxurious time where you can enjoy the climate and history of the northern country with all five senses. The remnants of those days, when steam locomotives braved the sea breeze and ran full of soot, can still be seen in the appearance of old station buildings and the steel frames of overpasses. That is the true pleasure of traveling on the Uetsu Main Line.",
+    "audio_en": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/羽越本線_2_en.mp3",
+    "name_fr": "Ligne principale Uetsu",
+    "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/羽越本線_2_fr.mp3",
+    "name_tw": "羽越幹線",
+    "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/羽越本線_2_tw.mp3",
+    "sheetName": "羽越本線"
+  },
+  {
     "ID": "U01",
     "lat": 37.79,
     "lon": 139.1208,
@@ -7566,6 +7626,21 @@
     "sheetName": "羽越本線"
   },
   {
+    "ID": "F00",
+    "lat": 38.04776578,
+    "lon": 140.1489347,
+    "name_ja": "フラワー長井線",
+    "audio_ja": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/フラワー長井線_2_ja.mp3",
+    "name_en": "Flower Nagai Line",
+    "text_en": "Flower Nagai Line. This 30-kilometer railway from Akayu to Arato was once called the National Railways Nagai Line, and since its opening in the early Taisho era, it has continued to transport the rich fruits and lives of the people of the Okitama Basin. As we pull out of the Akayu platform, which is the connecting point from the Ou Main Line, we, as travelers, are greeted by a peaceful rural landscape, with Yamagata's famous fruit orchards spreading out from the train window, and the rushing flow of the Mogami River in the distance.\nAs the name ``Flower Nagai Line'' suggests, seasonal flowers such as irises, dahlias, and white azaleas bloom along the line, adding color to the otherwise inorganic railroad. However, behind the splendor, you can feel that the sturdy heritage from the Ministry of Railways era is still alive and well, such as the warmth of the good old wooden buildings of the Nishi-Otsuka and Miyauchi station buildings, and the Mogami River Bridge, which was a repurposed British-made truss bridge from the Meiji era. Even though you are being swayed by the light, modern diesel cars, if you close your eyes, you can smell the soot spewed out by the steam locomotives and hear the hustle and bustle of the people who gathered to collect cargo.It gives you a taste of the multi-layered journey. In today's world where efficiency is prioritized, the appearance of this line, where time is carefully marked at each station, reminds us of the true joy of train travel.",
+    "audio_en": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/フラワー長井線_2_en.mp3",
+    "name_fr": "Ligne Fleur Nagai",
+    "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/フラワー長井線_2_fr.mp3",
+    "name_tw": "花永井線",
+    "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/F00_tw.mp3",
+    "sheetName": "フラワー長井線"
+  },
+  {
     "ID": "F01",
     "lat": 38.04776578,
     "lon": 140.1489347,
@@ -8204,6 +8279,21 @@
     "name_tw": "長岡站",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/上越線_J23_tw.mp3",
     "sheetName": "上越線"
+  },
+  {
+    "ID": "H00",
+    "lat": 37.06717609,
+    "lon": 138.8757706,
+    "name_ja": "ほくほく線",
+    "audio_ja": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/ほくほく線_2_ja.mp3",
+    "name_en": "Hokuhoku line",
+    "text_en": "Muikamachi. When you step from the Joetsu Line platform to the Hokuhoku Line platform located a step higher, you will find yourself condensed into the turbulent history of the unfinished railroad that was once known as the ``Hokuetsu North Line.'' Construction was originally started as a bypass line for the Japanese National Railways, but construction was halted due to the turbulent waves of business restructuring. It was revived as the third sector, and the memory of the glory of the limited express ``Hakutaka'' that once ran at 160km/h, the fastest conventional line in Japan, still lives on in the sturdy, high-standard structure next to the railroad tracks.\nWhen the train leaves the grounds of Muikamachi and leaves the plains of Uonuma, it is followed by a series of tunnels. In particular, the trajectory of the tunnel, exemplified by the Nabe Tachiyama Tunnel, which was carved out after a fierce battle against the earth's pressure, is truly a testament to human tenacity and civil engineering technology. The deep mountains of Echigo and the snowy streets of Tokamachi appear for a moment between tunnels. The hustle and bustle of the past has disappeared, and now one or two cars are quietly passing by, and while it retains its dignity as a major artery, it has a dignified sense of solitude. The journey from joining the Shinetsu Main Line at Saigata to catching the light of the Sea of ​​Japan is a luxurious time chasing the afterglow of the Showa era dream.",
+    "audio_en": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/ほくほく線_2_en.mp3",
+    "name_fr": "Ligne Hokuhoku",
+    "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/ほくほく線_2_fr.mp3",
+    "name_tw": "北北線",
+    "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/ほくほく線_2_tw.mp3",
+    "sheetName": "ほくほく線"
   },
   {
     "ID": "H01",
@@ -11918,6 +12008,21 @@
     "sheetName": "磐越西線"
   },
   {
+    "ID": "Y00",
+    "lat": 37.69924642,
+    "lon": 138.8319916,
+    "name_ja": "弥彦線",
+    "audio_ja": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/弥彦線_2_ja.mp3",
+    "name_en": "Yahiko Line",
+    "text_en": "Yahiko Station. When you get off at this station, the first thing that catches your eye is a shrine-style station building with impressive vermilion pillars, befitting a station in front of the gates of Echigo Ichinomiya and Yahiko Shrine. The Echigo Railway was established in 1912 to transport visitors to the shrine, and it has a magnificent history as it once ran through Tsubame, to Higashi Sanjo, and then over the mountains to Echigo Nagasawa. Although it is now a short section to Higashi Sanjo, you can still feel the unique atmosphere of Echigo's faith and industry interwoven from the train window.\nAs the train leaves Yahiko and heads towards the heart of the Echigo Plain, looking up at Yahagi's giant torii gate, the beautiful rice fields stretch out as far as the eye can see, inviting us travelers into a peaceful atmosphere. At Tsubame-Sanjo Station, the sight of the Joetsu Shinkansen, a symbol of modern times, intersecting with it gives you a strange feeling, as if you are looking at a fault line in time. Continuing onward, the train winds through the back alleys of Tsubame, which once flourished as a ``town of craftsmen,'' and crosses a long iron bridge over the Shinano River to reach Higashisanjo. On this journey of just over 17 kilometers, we can feel that the prayers to God and the pride of our handicrafts are still alive through the joints of the rails. The 115-series train once raced across this plain with its distinctive roar, but now modern trains pass silently, but the ridgeline of Mt. Yahiko flowing out of the train window retains the same nobility as it did on that day in the Showa era.",
+    "audio_en": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/弥彦線_2_en.mp3",
+    "name_fr": "Ligne Yahiko",
+    "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/弥彦線_2_fr.mp3",
+    "name_tw": "彌彥線",
+    "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/弥彦線_2_tw.mp3",
+    "sheetName": "弥彦線"
+  },
+  {
     "ID": "Y01",
     "lat": 37.69924642,
     "lon": 138.8319916,
@@ -12081,6 +12186,21 @@
     "name_tw": "東三條站",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/弥彦線_Y08_tw.mp3",
     "sheetName": "弥彦線"
+  },
+  {
+    "ID": "JR大糸線_1",
+    "lat": 36.23072165,
+    "lon": 137.9644632,
+    "name_ja": "大糸線",
+    "audio_ja": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR大糸線_2_ja.mp3",
+    "name_en": "Oito Line",
+    "text_en": "Oito line. This 100-kilometre railroad that runs from Matsumoto, the ancient capital of Shinshu, to Itoigawa on the Sea of ​​Japan while looking up at the rugged mountains of the Northern Alps, has two different origins and expressions: the south side was once opened by a private railway called the Shinano Railway, and the north side was carved out by the Japanese National Railways through the steep Himekawa Valley. As the train leaves Matsumoto and passes through the peaceful countryside of Azumino and passes Shinano Omachi, the eternally snow-capped peaks of Kashimayari and Goryu loom over the train window with an overwhelming presence, and the train begins to fully demonstrate its true potential as a mountain railway.\nAfter crossing Hakuba, the overhead wire ends at Minami-Otari, and the sight of a single diesel car plowing into a deep ravine with the sound of its engine echoing through the air gives you the feeling of a ``Showa mountain line'' that still survives today. Along the Chikoku Kaido, which was once known as the ``Salt Road,'' the route passes through old snow sheds and tunnels that look like they were dug by hand, while following the meandering Hime River, known as a raging river. It seems that the indomitable will of our predecessors, who overcame numerous floods and heavy snowfalls to protect the railway, still lives on quietly. Tracing this path, which is a dense condensation of mountains, rivers, and life in a snowy country, until we touch the Hokuriku sea breeze at Itoigawa, the last stop, is a luxurious time for us travelers to reaffirm the fundamental strength of the railway as a vehicle.",
+    "audio_en": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR大糸線_2_en.mp3",
+    "name_fr": "Ligne Oito",
+    "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR大糸線_2_fr.mp3",
+    "name_tw": "大糸線",
+    "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR大糸線_2_tw.mp3",
+    "sheetName": "JR大糸線"
   },
   {
     "ID": "JR大糸線_2",
@@ -13138,6 +13258,21 @@
     "sheetName": "JR徳島線"
   },
   {
+    "ID": "JR高徳線_1",
+    "lat": 34.3506959,
+    "lon": 134.0469117,
+    "name_ja": "高徳線",
+    "audio_ja": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR高徳線_2_ja.mp3",
+    "name_en": "Kotoku Line",
+    "text_en": "Kotoku line. This railway, which connects Takamatsu and Tokushima, the two major cities in the eastern part of Shikoku, in the shortest distance, was once called the ``Takatoku Main Line,'' and it played an important role in guiding travelers who disembarked from the Udaka Ferry to Awa Province. Originally, it was a combination of fragments of private railways such as the Sanuki Railway and the Awa Railway, and even after nationalization it remained non-electrified for a long time, and the image of the past, when the diesel express trains ``Awa'' and ``Yoshinokawa'' ran with soot and smoke, can still be seen.\nAs the train slides off Takamatsu's modern elevated railway tracks, passing by historic sites in the Setouchi region such as Yashima and Shido, the calm ocean of Harima Sea spreads out from the train window, soothing the hearts of us travelers. However, the true value of this route lies in crossing the Osaka Pass, which stands between the prefectural borders of Kagawa and Tokushima. This steep mountain road, which was once tackled by steam locomotives, is now traversed by the state-of-the-art express train ``Uzushio'' with a pendulum effect, but the appearance of the old cutouts and tunnels still gives us a sense of the tenacity of our predecessors in overcoming difficult terrain. Once you pass Itano and head out into the delta area of ​​the Yoshino River, you will find the bright light of a tropical country waiting for you. Following this straight line is an extremely intellectual pleasure that allows you to condense and enjoy the climate of eastern Shikoku in a short period of time.",
+    "audio_en": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR高徳線_2_en.mp3",
+    "name_fr": "Ligne Kotoku",
+    "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR高徳線_2_fr.mp3",
+    "name_tw": "高德線",
+    "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR高徳線_2_tw.mp3",
+    "sheetName": "JR高徳線"
+  },
+  {
     "ID": "JR高徳線_2",
     "lat": 34.3506959,
     "lon": 134.0469117,
@@ -13181,7 +13316,7 @@
     "audio_en": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR高徳線_4_en.mp3",
     "name_fr": "Sortie nord du parc Ritsurin",
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR高徳線_4_fr.mp3",
-    "name_tw": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "name_tw": "栗林公园北口",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR高徳線_4_tw.mp3",
     "sheetName": "JR高徳線"
   },
@@ -13245,7 +13380,7 @@
     "audio_en": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR高徳線_8_en.mp3",
     "name_fr": "Vieux Takamatsu Sud",
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR高徳線_8_fr.mp3",
-    "name_tw": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "name_tw": "老高松南",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR高徳線_8_tw.mp3",
     "sheetName": "JR高徳線"
   },
@@ -13549,7 +13684,7 @@
     "audio_en": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR高徳線_27_en.mp3",
     "name_fr": "勝瑞",
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR高徳線_27_fr.mp3",
-    "name_tw": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "name_tw": "勝水",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR高徳線_27_tw.mp3",
     "sheetName": "JR高徳線"
   },
@@ -13600,6 +13735,21 @@
     "name_tw": "德島",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR高徳線_30_tw.mp3",
     "sheetName": "JR高徳線"
+  },
+  {
+    "ID": "JR牟岐線_1",
+    "lat": 34.0746743,
+    "lon": 134.5513898,
+    "name_ja": "牟岐線",
+    "audio_ja": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR牟岐線_2_ja.mp3",
+    "name_en": "Mugi Line",
+    "text_en": "Mugi Line. Starting from Tokushima, the capital of Awa, and heading south toward Muroto, where the rough waves of the Pacific Ocean crash, this railway was once an important part of the east side of the Japanese National Railways' grand \"Asa Line\" plan to circumnavigate Shikoku. As you leave the bustle of Tokushima Station and proceed to Awa-Tomita and Nikenya, the train gradually escapes from the hustle and bustle of the city and passes through ancient strategic locations such as Chuden, which was the junction with the former Komatsushima Line, and Hanoura, before entering the rich countryside of the Tokushima Plain.\nAfter passing Anan, the railway finally begins to tackle the steep terrain where mountains approach the sea, and the main feature of the train window changes to the deep blue Tosa Bay. In the past, the ``Muroto'' express line ran alongside the Kiha 58 series, and freight trains carrying lumber and marine products along the line also came and went, and even today, the spirit of the era when the line was intended to become a ``major artery'' can still be felt everywhere. In particular, the sights of the coastline near Hiwasa and the sight of looking up at the pagoda of Yakuoji Temple make you feel the pure exhilaration of ``heading to the frontier'' that is inherent in train travel. Currently, the route from Awa-Kainan has been taken over by the DMV, and the character of the line is changing, but the passion of the railroad workers who continued to pursue their unfinished dreams is still alive in the sound of the rails that continue south. There is something special about traveling while savoring such an accumulation of history.",
+    "audio_en": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR牟岐線_2_en.mp3",
+    "name_fr": "Ligne Mugi",
+    "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR牟岐線_2_fr.mp3",
+    "name_tw": "麥線",
+    "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR牟岐線_2_tw.mp3",
+    "sheetName": "JR牟岐線"
   },
   {
     "ID": "JR牟岐線_2",
@@ -13709,7 +13859,7 @@
     "audio_en": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR牟岐線_8_en.mp3",
     "name_fr": "Minami-Komatsushima",
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR牟岐線_8_fr.mp3",
-    "name_tw": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "name_tw": "南小松島",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR牟岐線_8_tw.mp3",
     "sheetName": "JR牟岐線"
   },
@@ -14348,7 +14498,7 @@
     "audio_en": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR予讃線_en.mp3",
     "name_fr": "Ligne JR Yosan",
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR予讃線_fr.mp3",
-    "name_tw": "JR予讚線",
+    "name_tw": "於贊線",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR予讃線_tw.mp3",
     "sheetName": "JR予讃線"
   },
@@ -26787,7 +26937,7 @@
     "audio_en": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR土讃線_11_en.mp3",
     "name_fr": "Tsukuda",
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR土讃線_11_fr.mp3",
-    "name_tw": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "name_tw": "佃",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR土讃線_11_tw.mp3",
     "sheetName": "JR土讃線"
   },
@@ -26851,7 +27001,7 @@
     "audio_en": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR土讃線_15_en.mp3",
     "name_fr": "Awa Kawaguchi",
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR土讃線_15_fr.mp3",
-    "name_tw": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "name_tw": "阿波河口",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR土讃線_15_tw.mp3",
     "sheetName": "JR土讃線"
   },
@@ -28264,6 +28414,21 @@
     "sheetName": "しなの鉄道線"
   },
   {
+    "ID": "阿佐海岸鉄道",
+    "lat": 33.606753,
+    "lon": 134.3510181,
+    "name_ja": "阿佐海岸鉄道",
+    "audio_ja": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/阿佐海岸鉄道_ja.mp3",
+    "name_en": "Asa Kaigan Railway",
+    "text_en": "Awa Kainan. This station now stands as the standard-bearer for a new era in which the world's first DMV (Dual Mode Vehicle) can move freely between roads and railways. Although it was originally planned for the ``Asa Line'', a grand dream of Japan National Railways to circumnavigate Shikoku, this railway, which was left unfinished due to the turbulence of the times and was born as a third sector railway, has now undergone an unparalleled evolution with buses running on the railway.\n\nAt the mode interchange, the moment when rubber tires are replaced by steel wheels, the quiet but certain ritual of ``transformation into a railway'' makes us feel a moment when modern rationality and our obsession with railways strangely coexist. When you get to the top of the viaduct, you'll see a sturdy structure that was once built with the premise of limited express trains running through it, and there's something endearing about watching small trains run smoothly through this over-spec space. When we pass through the Shishikui Tunnel and the majestic deep blue of Tosa Bay comes into view, we are able to experience the thoughts of our ancestors, who worked hard to build railroads in this land, to the north and south. Although it is only a short business distance, this short trajectory condenses the strange fate of Shikoku's railways and a modest hope for the future.",
+    "audio_en": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/阿佐海岸鉄道_en.mp3",
+    "name_fr": "Chemin de fer Asa Kaigan",
+    "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/阿佐海岸鉄道_fr.mp3",
+    "name_tw": "阿佐海岸鐵道",
+    "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/阿佐海岸鉄道_tw.mp3",
+    "sheetName": "阿佐海岸鉄道"
+  },
+  {
     "ID": "阿佐海岸鉄道_2",
     "lat": 33.606753,
     "lon": 134.3510181,
@@ -28307,7 +28472,7 @@
     "audio_en": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/阿佐海岸鉄道_4_en.mp3",
     "name_fr": "Shishikui",
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/阿佐海岸鉄道_4_fr.mp3",
-    "name_tw": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "name_tw": "石石葵",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/阿佐海岸鉄道_4_tw.mp3",
     "sheetName": "阿佐海岸鉄道"
   },
