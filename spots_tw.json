@@ -1,5 +1,20 @@
 [
   {
+    "ID": "V00",
+    "lat": 37.9122465,
+    "lon": 139.0613474,
+    "name_ja": "越後線",
+    "audio_ja": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/越後線_2_ja.mp3",
+    "name_en": "Echigo Line",
+    "audio_en": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/越後線_2_en.mp3",
+    "name_fr": "Ligne Echigo",
+    "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/越後線_2_fr.mp3",
+    "name_tw": "越後線",
+    "text_tw": "越後線。從曾是北國門戶的信濃川河口新潟到柏崎的鐵路，最初是一條名為越後鐵道的私人鐵路。也許正因為如此，該系列的起源仍然具有一定的本土性、在地化的韌性。\n當列車駛下新潟現代化的高架月台，橫渡日本第一大河信濃川時，車窗外一望無際的遼闊水域和越後平原盡收眼底，讓我們感受到即將開始的旅程的壯麗。它曾經是一條普通的非電氣化地方線路，但在 1982 年電氣化後，現在有兩個作用：作為新潟地區上班或上學的通勤工具，以及作為穿越偏遠鄉村、俯瞰彌彥山的旅行路線。\n當列車經過寺泊、出雲崎等曾經因北前船和佐渡渡口而繁榮的港口城鎮時，鐵軌的聲音似乎反映了越後人民忍受海風的頑強精神。當我們接近最終目的地柏崎時，車窗外盡是稻田，蔚藍的日本海不時探出頭來。這些顏色的對比是越後路線旅行的真正快感。",
+    "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/越後線_2_tw.mp3",
+    "sheetName": "越後線"
+  },
+  {
     "ID": "V01",
     "lat": 37.9122465,
     "lon": 139.0613474,
@@ -1071,8 +1086,8 @@
   },
   {
     "ID": "予土線",
-    "lat": 33.16147207,
-    "lon": 133.074705,
+    "lat": 33.21235688,
+    "lon": 133.1372887,
     "name_ja": "予土線",
     "audio_ja": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/予土線_ja.mp3",
     "name_en": "Yodo Line",
@@ -2209,7 +2224,7 @@
     "name_fr": "Kamobé",
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_44_fr.mp3",
     "name_tw": "鴨部",
-    "text_tw": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "text_tw": "卡貝。過了鏡川橋後，寬敞的複線路段就到了盡頭，停靠站位於最終通往伊野的單線路段的「門口」。自 1902 年開業以來，這個地方就擁有狹窄的街道和擁擠的私人住宅的歷史，提供了令人嘆為觀止的「生活方式」景觀，即使是非有軌電車愛好者也會驚嘆不已。\n\n電車從屋簷下駛過的景象，從昭和時代以來就沒有改變過，清楚地顯示城市和鐵路呼吸著同樣的節奏。迎面而來的汽車和火車並肩而過，呈現出一種獨特的景觀，融合了土佐人的堅強和情感，這在當今組織良好的城市規劃中是看不到的。\n\n當我們看著單軌鐵路消失在黃昏中，在一個只追求效率的現代，正是這些承載著「妥協」精神的鐵路讓我們質疑什麼是真正的財富。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_44_tw.mp3",
     "trigger_dist": 0.3,
     "sheetName": "とさでん交通"
@@ -2928,7 +2943,7 @@
     "audio_en": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/土佐くろしお鉄道_土佐くろしお鉄道_13_en.mp3",
     "name_fr": "Gare d'Ukifugi",
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/土佐くろしお鉄道_土佐くろしお鉄道_13_fr.mp3",
-    "name_tw": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "name_tw": "浮鞭站",
     "text_tw": "浮鞭。車站孤零零地矗立在鐵路沿著土佐海岸線緩緩彎曲的地方，太平洋的洶湧波濤在這裡洶湧澎湃。該車站於1960年國鐵中村線開通時設立，保留了四國西南端的鐵路記憶，蒸汽機車和柴油特快列車在黑潮的噴灑下曾經穿過這裡。\n\n當你登上平台時，隔著用作防風林的松樹，你就能聽到大海強有力的轟鳴聲直接傳入你的耳中。 「浮淵」這個地名，帶著幾分奇幻和文藝的味道，讓人想起這裡曾經流淌過的歷史，以及那些轉瞬即逝卻又美麗的旅行場景，就像泡沫一樣來來去去。這個曾經被稱為土佐捕鯨基地的地區，現在已經搖身一變成為衝浪聖地，來自全國各地的衝浪者聚集於此，穿著潛水服的年輕人坐在無人站長凳上的景象，讓我們感受到現代的黑潮文化。\n\n國家高速公路和鐵路就在車站旁，還有一望無際的太平洋。這些元素營造出的車窗外的景色，正是宮脅俊三所喜愛的「車窗外的日本」。這裡沒有豪華的車站建築，也沒有車站午餐，有的只是大海的味道、火車接頭的聲音、以及一望無際的鐵軌。對於那些熱愛火車的人來說，僅此一點就已經足夠奢侈了。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/土佐くろしお鉄道_土佐くろしお鉄道_13_tw.mp3",
     "sheetName": "土佐くろしお鉄道"
@@ -4529,6 +4544,21 @@
     "sheetName": "白新線"
   },
   {
+    "ID": "妙高はねうまライン",
+    "lat": 36.8722009,
+    "lon": 138.2121958,
+    "name_ja": "妙高はねうまライン",
+    "audio_ja": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/妙高はねうまライン_2_ja.mp3",
+    "name_en": "Myoko Haneuma Line",
+    "audio_en": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/妙高はねうまライン_2_en.mp3",
+    "name_fr": "Ligne Myoko Haneuma",
+    "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/妙高はねうまライン_2_fr.mp3",
+    "name_tw": "妙高羽馬線",
+    "text_tw": "妙高羽馬線。這條從妙高高原到直江津的全長30多公里的道路，曾經是連接信濃和越後的日本國鐵大動脈之一信越本線的重要路段。由於北陸新幹線金澤支線的動盪時期，現在已被「越後心跳鐵道」所取代，但特快「淺間號」和「白山號」以及曾經穿過的長貨運列車的大干線的自豪感，仍然在堅固的鐵軌結構和寬敞的車站內部中得以體現。\n當火車穿過高原的冷空氣下降時，被稱為“越後富士”的妙高山的雄偉形狀從車窗逐漸逼近，早春時節，山坡上會出現“躍馬”的雪景。它給我們的感覺是，它是自古以來不變的自然的象徵，宣告著該地區嚴冬的結束和農業的開始。日本木站之字形道遺跡、日本最古老的仍在使用的木製乾磚機棚等眾多鐵路遺產地，靜靜地告訴我們，作為旅行者，這條鐵路如何克服崎嶇的地形，支撐著日本北部的後勤。穿越優雅的高田城下町，前往日本海戰略要地直江津的旅程雖然短暫，但卻充滿了信越的歷史和氣候，度過了一段奢華的時光。",
+    "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/妙高はねうまライン_2_tw.mp3",
+    "sheetName": "妙高はねうまライン"
+  },
+  {
     "ID": "妙高はねうまライン_2",
     "lat": 36.8722009,
     "lon": 138.2121958,
@@ -4720,6 +4750,21 @@
     "product_fr": "Magasin Heihachi Kamaboko « Ensemble Kamaboko spécialisé Naoetsu »\nUn goût traditionnel qui perdure depuis l'ère Taisho à Naoetsu, une ville portuaire qui prospérait comme port d'escale des navires Kitamaebune. Fabriqué à partir de poisson frais de la mer du Japon et soigneusement pétri dans un moulin en pierre, le kamaboko possède une élasticité étonnamment ferme et la saveur du poisson qui déborde à chaque bouchée. Le « Véritable kamaboko » utilise le moins de conservateurs possible et fait ressortir le goût original des ingrédients. C'est un délice que l'on souhaite savourer luxueusement avec du wasabi et de la sauce soja tout en sentant la brise marine de Naoetsu.",
     "product_tw": "平八魚糕店“直江津特產魚糕套餐”\n作為北前船停靠港而繁榮的港口城市直江津，自大正時代以來一直延續的傳統味道。使用來自日本海的新鮮魚，在石磨中精心揉製而成的魚糕具有驚人的緊實彈性，每一口都溢出魚的香味。 「正宗魚糕」盡可能少使用防腐劑，最大限度地發揮食材的本來味道。一邊感受直江津的海風，一邊享受芥末和醬油的奢華美味。",
     "sheetName": "妙高はねうまライン"
+  },
+  {
+    "ID": "日本海ひすいライン",
+    "lat": 37.170264,
+    "lon": 138.2422616,
+    "name_ja": "日本海ひすいライン",
+    "audio_ja": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/日本海ひすいライン_2_ja.mp3",
+    "name_en": "Japan Sea Hisui Line",
+    "audio_en": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/日本海ひすいライン_2_en.mp3",
+    "name_fr": "Ligne Hisui de la mer du Japon",
+    "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/日本海ひすいライン_2_fr.mp3",
+    "name_tw": "日本海翡翠線",
+    "text_tw": "日本海翡翠線。這條從直江津到一振的鐵路曾經是連接關西、東北和北海道的穿越日本海的「北陸本線」的主要道路。由於北陸新幹線的擴建，其運營現已由越後心跳鐵道接管，但其堅固的雙線電氣化路基和長長的隧道仍保留著昔日的輝煌，白鳥特快等特快列車和重型貨運列車傲然駛過。\n當火車離開直江津的廣闊土地，駛向有馬川附近的日本海沿岸時，被稱為“世界上最危險”的大矢津和小志的陡峭懸崖正在等待著您。這條曾經蒸汽機車冒著生命危險頂著海風的艱難通道，現在靜靜地穿過一系列隧道，但當你走進筒石站這樣的地下深處的空間時，你可以感受到鐵路克服崎嶇地形的頑強精神。經過糸魚川的旅程、其作為玉石產地的歷史以及被稱為大窩的地球裂谷，可以說是一次追尋日本土地起源的旅程。雖然是電氣化路段，但看著單車柴油車行駛，昔日的雄偉與現在的寧靜並存，我不禁有一種奇異的旅行感。",
+    "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/日本海ひすいライン_2_tw.mp3",
+    "sheetName": "日本海ひすいライン"
   },
   {
     "ID": "日本海ひすいライン_2",
@@ -4946,7 +4991,7 @@
     "sheetName": "日本海ひすいライン"
   },
   {
-    "ID": "五能線_2",
+    "ID": "五能線",
     "lat": 40.19154909,
     "lon": 140.0657487,
     "map_url": "https://www.google.com/maps/search/?api=1&query=%E4%BA%94%E8%83%BD%E7%B7%9A%20%E4%BA%94%E8%83%BD%E7%B7%9A%E9%A7%85",
@@ -4956,7 +5001,7 @@
     "audio_en": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/五能線_2_en.mp3",
     "name_fr": "五能線",
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/五能線_2_fr.mp3",
-    "name_tw": "五能線",
+    "name_tw": "戈諾線",
     "text_tw": "戈諾線。這條鐵路以奧羽本線的分支點東能代為起點，一邊被日本海的波濤沖刷，一邊穿過津輕平原，正是「走到最後」這句話的體現。這條曾被稱為「能代線」和「五所川原線」的線路，最終在1933年連接成一條鏈。八森與岩館，左邊一望無際的蔚藍日本海，右邊是世界遺產白神山脈的陡峭綠意，讓你同時感受到大自然的雄偉與嚴酷。\n\n飽受鹽害、冒著海風的八六號（8620型）的道路，如今已被名為「度假村白神」的現代觀光列車所繼承，但深浦、鰺澤等老港口城鎮的車站建築中飄蕩的海香依然保留著同樣的旅行氛圍。欣賞完千疊敷的奇岩怪石，經過鰺澤後，列車駛向內陸。車窗外映入眼簾的是被稱為「津輕富士」的岩木山雄偉山峰，一望無際的蘋果園映入眼簾。沿著這條集海、山、津輕本土生活方式於一體的線路旅行，讓我們想起在這個講究效率的時代，無可取代的「旅行的純粹」。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/五能線_2_tw.mp3",
     "sheetName": "五能線"
@@ -6568,6 +6613,21 @@
     "sheetName": "信越本線"
   },
   {
+    "ID": "U00",
+    "lat": 37.79,
+    "lon": 139.1208,
+    "name_ja": "羽越本線",
+    "audio_ja": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/羽越本線_2_ja.mp3",
+    "name_en": "Uetsu Main Line",
+    "audio_en": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/羽越本線_2_en.mp3",
+    "name_fr": "Ligne principale Uetsu",
+    "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/羽越本線_2_fr.mp3",
+    "name_tw": "羽越幹線",
+    "text_tw": "羽越幹線。這條全長270公里的鐵路，從新津向北，沿著日本海的波浪，一直延伸到秋田，曾經是被稱為「日本海線」的宏偉大動脈的重要組成部分。這條鐵路從大正時代到昭和初期，一直是關西地區、東北和北海道之間的重要物流紐帶，承載著重型貨運列車和名車的輝煌記憶。諸如“天鵝號”和“日本海號”競爭的特快列車，仍然保留在鐵軌的迴聲中。\n離開新津鐵路站場的廣闊廢墟，跨越阿賀野川，繼續向北穿過柴田和村上，目力所及的越後平原與正在逼近的日本海波濤交替出現。尤其是，鐵路蜿蜒穿過笹川流的奇形怪石，是鐵路如何挑戰自然之美的完美範例。秋田之旅，穿越鶴岡、坂田、莊內平原的富饒穀物帶，仰望雄偉的出羽三山和鳥海山，這不僅僅是一次旅行，更是一次可以用五種感官感受北國氣候和歷史的奢華時光。古老的車站建築和天橋的鋼架上，仍能看到當年蒸汽機車迎著海風、滿身煙灰奔跑的痕跡。這就是乘坐羽越本線旅行的真正樂趣。",
+    "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/羽越本線_2_tw.mp3",
+    "sheetName": "羽越本線"
+  },
+  {
     "ID": "U01",
     "lat": 37.79,
     "lon": 139.1208,
@@ -7566,6 +7626,21 @@
     "sheetName": "羽越本線"
   },
   {
+    "ID": "F00",
+    "lat": 38.04776578,
+    "lon": 140.1489347,
+    "name_ja": "フラワー長井線",
+    "audio_ja": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/フラワー長井線_2_ja.mp3",
+    "name_en": "Flower Nagai Line",
+    "audio_en": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/フラワー長井線_2_en.mp3",
+    "name_fr": "Ligne Fleur Nagai",
+    "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/フラワー長井線_2_fr.mp3",
+    "name_tw": "花永井線",
+    "text_tw": "花永井線。这条从赤汤到荒户全长30公里的铁路曾被称为国铁长井线，自大正初期开通以来，源源不断地输送着置玉盆地人民的丰富果实和生活。当我们从奥羽本线的连接站赤汤站台驶出时，映入眼帘的是宁静的田园风光，山形著名的果园从车窗展开，远处最上川湍急的流水。\n正如“花长井​​线”这个名字所暗示的那样，鸢尾花、大丽花、白杜鹃花等季节性花卉沿着线路盛开，为原本无机的铁路增添了色彩。然而，在辉煌的背后，你可以感受到铁道部时代的坚固遗产仍然存在，例如西大冢和宫内车站大楼的古老木制建筑的温暖，以及由明治时代英国制造的桁架桥改造而成的最上河桥。即使你被轻快的现代柴油车所晃动，只要闭上眼睛，你就能闻到蒸汽机车喷出的烟灰味，听到人们聚集在一起取货的喧嚣声，让你体会到多层次的旅程。在效率優先的當今世界，這條在每個車站都仔細標記時間的線路的出現，讓我們想起了火車旅行的真正樂趣。",
+    "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/F00_tw.mp3",
+    "sheetName": "フラワー長井線"
+  },
+  {
     "ID": "F01",
     "lat": 38.04776578,
     "lon": 140.1489347,
@@ -8204,6 +8279,21 @@
     "text_tw": "長岡站。自1909年開業以來，它已成為北越商業之都長岡的心臟，並克服了戰爭破壞的重建和新幹線的開通，體現了一種不屈不撓的精神。夏天，當巨大的煙花照亮夜空時，上越線滿載火車帶來的旅客的景象證明了鐵路為這座城市創造了和平與繁榮。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/上越線_J23_tw.mp3",
     "sheetName": "上越線"
+  },
+  {
+    "ID": "H00",
+    "lat": 37.06717609,
+    "lon": 138.8757706,
+    "name_ja": "ほくほく線",
+    "audio_ja": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/ほくほく線_2_ja.mp3",
+    "name_en": "Hokuhoku line",
+    "audio_en": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/ほくほく線_2_en.mp3",
+    "name_fr": "Ligne Hokuhoku",
+    "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/ほくほく線_2_fr.mp3",
+    "name_tw": "北北線",
+    "text_tw": "五日町。當從上越線月台踏上更高一級的北北線月台時，您會發現自己被濃縮在曾經被稱為「北越北線」的未完工鐵路的動盪歷史中。該工程最初是作為日本國鐵的繞行線而開始建造的，但由於業務重組的動盪而停止了建設。作為第三區段而復活，曾經以160公里/小時的速度運行的日本最快的常規線路特急“白鷹”的輝煌記憶仍然存在於鐵軌旁堅固的高標準結構中。\n當火車離開六日町並離開魚沼平原時，後面會經過一系列隧道。尤其是鍋立山隧道，它的隧道軌跡是經過與地球壓力的激烈鬥爭而形成的，確實是人類堅韌和土木工程技術的證明。越後的深山和十日町的白雪街道在隧道之間短暫出現。往日的喧囂已不復存在，如今一兩輛車靜靜駛過，它在保留著大動脈尊嚴的同時，又有一種凝重的孤獨感。從在齋瀉加入信越本線到捕捉日本海的光芒，這段旅程是追逐昭和時代夢想餘輝的奢華時光。",
+    "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/ほくほく線_2_tw.mp3",
+    "sheetName": "ほくほく線"
   },
   {
     "ID": "H01",
@@ -11918,6 +12008,21 @@
     "sheetName": "磐越西線"
   },
   {
+    "ID": "Y00",
+    "lat": 37.69924642,
+    "lon": 138.8319916,
+    "name_ja": "弥彦線",
+    "audio_ja": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/弥彦線_2_ja.mp3",
+    "name_en": "Yahiko Line",
+    "audio_en": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/弥彦線_2_en.mp3",
+    "name_fr": "Ligne Yahiko",
+    "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/弥彦線_2_fr.mp3",
+    "name_tw": "彌彥線",
+    "text_tw": "彌彥站。當你在這個車站下車時，首先映入眼簾的是一座神社式的車站建築，朱紅色的柱子令人印象深刻，與越後一宮和彌彥神社門前的車站很相配。越後鐵道於1912年開通，用於運送遊客前往神社，它曾經穿過燕市，到達東三條，然後翻山越嶺到達越後長澤，有著悠久的歷史。雖然現在距離東三條只有很短的一段路程，但從車窗仍能感受到越後信仰與工業交織的獨特氛圍。\n火車離開彌彥，駛向越後平原的中心，抬頭仰望矢作巨大的鳥居，美麗的稻田一望無際，讓我們這些旅人沉浸在寧靜的氛圍中。在燕三條站，近代象徵的上越新幹線與其交匯，給人一種彷彿看到了時間斷層線的奇異感覺。繼續前行，列車蜿蜒穿過曾經作為「工匠之鄉」而繁榮的燕市的後巷，穿過信濃川上一座長長的鐵橋，到達東三條。在這短短17公里多一點的旅程中，我們能透過鐵軌的接縫感受到對上帝的祈禱和我們手工藝的驕傲依然鮮活。 115系列車曾經以其特有的轟鳴聲馳騁在這片平原上，如今現代列車悄無聲息地駛過，但從車窗外流淌出來的彌彥山山脊線卻依然保留著昭和時代那一天的高貴。",
+    "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/弥彦線_2_tw.mp3",
+    "sheetName": "弥彦線"
+  },
+  {
     "ID": "Y01",
     "lat": 37.69924642,
     "lon": 138.8319916,
@@ -12081,6 +12186,21 @@
     "text_tw": "東三條站。在信越本線與彌彥線交彙的車站下車，你就會感受到作為重要鐵路樞紐的自豪感，甚至還能感受到蒸汽機車排放的煙灰痕跡。廣闊的場地內排列著許多鐵軌，無聲地提醒著人們，這裡是運送燕三條工匠製作的五金產品到全國各地的流通動脈。當你站在站台上，聆聽重型貨運列車呼嘯而過時，你可以直接通過腳底感受到支撐日本現代化的鐵路的重量。\n\n該車站歷史的一個重要組成部分是它與彌彥線的連接，彌彥線通往越後一宮的彌彥神社。從大正時代到昭和時代，我們都可以看到虔誠的信徒和商販在這個車站穿過天橋，忙碌地換乘火車。從現在安靜的外觀很難想像，以前的車站大樓卻充滿了人們的熱情和三條特有的商業精神。在車站前混亂的氛圍中，你可以找到一些昭和時代的懷舊痕跡，讓你感受到車站特有的旅行氛圍。\n\n出了車站，進城，就會發現自己來到了三條鐵匠們打造的“工匠聖地”。即使是現在，我仍然感覺自己能從某個後巷聽到錘子敲擊手中適合的所有工具的聲音，例如刀子和工具。在經濟高速增長時期，三條的五金產品遍布世界各地，而這個東三條站就是他們旅程的起點。這裡確實充滿了汗水和油污所覆蓋的“工作鐵路”的美感，這與聚集了最先進技術的新幹線燕三條車站有些不同。\n\n黃昏時分，鐵軌被染成茜紅色，泛著暗淡的光芒，對於喜歡鐵路旅行的人來說，尤其令人感動。那些夜行列車長長喇叭駛過這個車站的日子裡，有多少人在窗外的燈光下感到賓至如歸，又有多少人堅定了走向新世界的決心？儘管時代變了，電車的形狀也發生了變化，但東三條作為交通樞紐的使命仍然銘刻在每條鏽跡斑斑的鐵軌上。\n\n當我回到站台搭乘彌彥線的短途列車時，我發現當地的學生和下班回家的人們排成一排。越後未變成旅遊勝地的日常生活就在這裡，對旅人有一種奇異的平靜作用。鐵路相交、人民相交、工匠精神相交的地方。東三條站至今仍為我們講述著一個堪稱“鐵路起源”的深刻故事。 ”",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/弥彦線_Y08_tw.mp3",
     "sheetName": "弥彦線"
+  },
+  {
+    "ID": "JR大糸線_1",
+    "lat": 36.23072165,
+    "lon": 137.9644632,
+    "name_ja": "大糸線",
+    "audio_ja": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR大糸線_2_ja.mp3",
+    "name_en": "Oito Line",
+    "audio_en": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR大糸線_2_en.mp3",
+    "name_fr": "Ligne Oito",
+    "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR大糸線_2_fr.mp3",
+    "name_tw": "大糸線",
+    "text_tw": "大糸線。這條從信州古都鬆本一直延伸到日本海上的糸魚川，同時仰望北阿爾卑斯山崎嶇山脈的這條長達100公里的鐵路，有兩種不同的起源和表述：南側曾經是一條名為信濃鐵道的私人鐵路開闢的，北側則是由日本國鐵通過陡峭的姬川山谷開闢出來的。當火車離開松本，穿過寧靜的安曇野鄉村，經過信濃大町時，永遠白雪皚皚的鹿島摩山和五龍山峰以壓倒性的姿態出現在車窗上，火車開始充分展示其作為山地鐵路的真正潛力。\n穿過白馬後，高架電線在南小谷結束，一輛柴油車駛入深谷，引擎的聲音在空氣中迴盪，給人一種至今仍存在的「昭和山線」的感覺。沿著曾經被稱為「鹽路」的築國街道，這條路線穿過古老的雪棚和看起來像是手工挖掘的隧道，同時沿著蜿蜒的姬川（被稱為洶湧的河流）行駛。看來，前輩們克服無數次洪水和大雪，守護鐵路的不屈意志，依然在靜靜地延續著。沿著這條濃縮了雪國山川與生活的道路，直到最後一站糸魚川感受北陸的海風，對於我們這些旅行者來說，是一次再次確認鐵道作為交通工具的根本力量的奢侈時光。",
+    "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR大糸線_2_tw.mp3",
+    "sheetName": "JR大糸線"
   },
   {
     "ID": "JR大糸線_2",
@@ -12446,7 +12566,7 @@
     "name_fr": "Inao",
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR大糸線_24_fr.mp3",
     "name_tw": "稻直",
-    "text_tw": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "text_tw": "伊奈奧。這個車站位於木崎湖的東岸，在山與湖面之間的一小塊平地上，有一種「水邊車站」的感覺。清澈的藍色湖水在月台前鋪展開來，對岸的綠色植物倒映在水面上，美得像一幅畫。過去，這裡看起來只是木崎湖釣魚和散步遊客的臨時登船處，但它的簡單卻是這個車站的真正價值。它給我們一種錯覺，只有海浪聲和偶爾傳來的鐵路道口警報聲在告訴我們這個世界的時間流逝。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR大糸線_24_tw.mp3",
     "sheetName": "JR大糸線"
   },
@@ -13138,6 +13258,21 @@
     "sheetName": "JR徳島線"
   },
   {
+    "ID": "JR高徳線_1",
+    "lat": 34.3506959,
+    "lon": 134.0469117,
+    "name_ja": "高徳線",
+    "audio_ja": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR高徳線_2_ja.mp3",
+    "name_en": "Kotoku Line",
+    "audio_en": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR高徳線_2_en.mp3",
+    "name_fr": "Ligne Kotoku",
+    "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR高徳線_2_fr.mp3",
+    "name_tw": "高德線",
+    "text_tw": "高德線。這條鐵路以最短的距離連接四國東部的高松和德島這兩個主要城市，曾被稱為“高德本線”，在引導從宇高渡輪下船前往阿波國的旅客方面發揮了重要作用。原本是讚岐鐵道、阿波鐵道等私鐵的碎片組合而成，國有化後也長期處於非電氣化狀態，柴油特快列車「阿波號」和「吉野川號」冒著煙塵行駛的往日景象依然可見。\n當列車駛下高松現代化的高架鐵軌，途經屋島、志道等瀨戶內地區的歷史遺跡時，車窗外展現出平靜的播磨海，撫慰著我們旅客的心。然而，這條路線的真正價值在於穿越位於香川縣和德島縣邊界之間的大阪關。這條曾經由蒸汽機車行駛的陡峭山路，如今由具有鐘擺效應的最先進的特快列車“漩渦”穿越，但古老的切口和隧道的出現，仍然讓我們感受到前人克服困難地形的頑強精神。一旦穿過板野，前往吉野川三角洲地區，您就會發現熱帶國家的明亮光芒正在等待著您。沿著這條直線走下去，是一種極其知性的樂趣，可以讓你在短時間內濃縮、享受四國東部的氣候。",
+    "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR高徳線_2_tw.mp3",
+    "sheetName": "JR高徳線"
+  },
+  {
     "ID": "JR高徳線_2",
     "lat": 34.3506959,
     "lon": 134.0469117,
@@ -13180,7 +13315,7 @@
     "audio_en": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR高徳線_4_en.mp3",
     "name_fr": "Sortie nord du parc Ritsurin",
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR高徳線_4_fr.mp3",
-    "name_tw": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "name_tw": "栗林公园北口",
     "text_tw": "栗林公园北口。该站是风景秀丽可与日本三大名园相媲美的栗林公园的后门，也是高架铁路线上的一站，景色非常壮观。从平台上往下看，公园的绿意浓浓，遮挡了城市的喧嚣，有一种都市绿洲的感觉。該地區附近曾經有一個信號站，其結構有效地利用了有限的場地，體現了修建鐵路的艱辛。一出車站，充滿松樹清香的寧靜空間就在眼前，讓您在旅途中得到片刻的休息。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR高徳線_4_tw.mp3",
     "sheetName": "JR高徳線"
@@ -13244,7 +13379,7 @@
     "audio_en": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR高徳線_8_en.mp3",
     "name_fr": "Vieux Takamatsu Sud",
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR高徳線_8_fr.mp3",
-    "name_tw": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "name_tw": "老高松南",
     "text_tw": "老高松南。位於高密度住宅區的一角，有一個小車站，有居民停靠的氛圍。正如这个地方的名字“老高松”所暗示的那样，这个地区在高松市中心形成之前就隐藏着一段历史，而车站周围的后巷也透露着过去的痕迹。雖然結構簡單，只有一個月台，但每天都有固定時間到車站的火車聲，那裡刻畫著人們生活的節奏。它讓你感覺自己正處於旅程開始的轉折點，現代建築退去，本土生活方式變得更加明顯。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR高徳線_8_tw.mp3",
     "sheetName": "JR高徳線"
@@ -13548,7 +13683,7 @@
     "audio_en": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR高徳線_27_en.mp3",
     "name_fr": "勝瑞",
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR高徳線_27_fr.mp3",
-    "name_tw": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "name_tw": "勝水",
     "text_tw": "勝水。緊鄰中世紀阿波政治文化中心正瑞城遺址，是一個歷史性的車站，在地下隱藏著曾經統治該地區的三好氏的繁榮。雖然該地區目前更多的是住宅區，但車站周圍的護城河遺跡以及寺廟和神社仍然保留著其昔日「阿波首都」地位的強烈痕跡。當特快列車緩緩停下時，車窗外的古蹟綠意靜靜地提醒著我們，一條現代鐵路正運行在一層歷史之上。如果你站在平台上想著古代權貴夢想中的城市是什麼樣子，你的旅行氛圍將會更加深厚。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR高徳線_27_tw.mp3",
     "sheetName": "JR高徳線"
@@ -13600,6 +13735,21 @@
     "text_tw": "德島。作為高德線的終點站和跨越安波國的交通基地，這裡始終充滿熱情和活力。盡頭月台匯集了全縣鐵路的心跳，從這裡又開始了新的旅程，賦予車站一種只有終點站才有的深刻的旅行感。車站便當的聲音和蒸汽機車的煙灰味已經消失，但站在這個平台上眺望眉山時，對連接土佐、伊予、贊岐的鐵路的嚮往依然在旅人的心中浮現。這個車站安靜而莊重地標誌著四國鐵路編織的漫長故事的結束。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR高徳線_30_tw.mp3",
     "sheetName": "JR高徳線"
+  },
+  {
+    "ID": "JR牟岐線_1",
+    "lat": 34.0746743,
+    "lon": 134.5513898,
+    "name_ja": "牟岐線",
+    "audio_ja": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR牟岐線_2_ja.mp3",
+    "name_en": "Mugi Line",
+    "audio_en": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR牟岐線_2_en.mp3",
+    "name_fr": "Ligne Mugi",
+    "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR牟岐線_2_fr.mp3",
+    "name_tw": "麥線",
+    "text_tw": "麥線。這條鐵路以阿房首府德島為起點，向南直達太平洋波濤洶湧的室戶，曾是日本國鐵環行四國的宏偉“阿佐線”計劃東側的重要組成部分。離開德島站的喧囂，前往阿波富田、二間屋，列車逐漸逃離城市的喧囂，經過與舊小松島線交匯處的中電、羽之浦等古代戰略要地，進入德島平原富饒的鄉村。\n過了阿南，鐵路終於開始應對山臨海的險峻地勢，車窗的主要景物變成了深藍色的土佐灣。過去，「室戶」特快線與木葉58系並行，沿線也有運載木材和水產品的貨運列車來來往往，時至今日，仍處處能感受到該線欲成為「大動脈」的時代精神。尤其是日和佐附近的海岸線景觀和仰望藥王寺寶塔的景色，讓您感受到電車旅行中固有的“前往邊境”的純粹興奮感。目前，從阿波海南出發的路線已被DMV接管，線路的性質正在發生變化，但繼續向南延伸的鐵軌聲中，鐵路工人繼續追求未竟夢想的熱情依然存在。一邊旅行一邊品味如此豐富的歷史累積是很特別的。",
+    "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR牟岐線_2_tw.mp3",
+    "sheetName": "JR牟岐線"
   },
   {
     "ID": "JR牟岐線_2",
@@ -13708,7 +13858,7 @@
     "audio_en": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR牟岐線_8_en.mp3",
     "name_fr": "Minami-Komatsushima",
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR牟岐線_8_fr.mp3",
-    "name_tw": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "name_tw": "南小松島",
     "text_tw": "南小松島。在小松島港作為四國海上門戶的時代，這個車站是連接港口和內陸的樞紐，見證了人們無法用言語描述的喜怒哀樂。現在小松島線已經廢止，這個車站接替了城市中心站的角色，但港口城市特有的荒涼和熱鬧仍然讓旅客感到鼻子癢癢。站在月台上，海風帶著的鹽味和火車油的味道混合在一起，我不禁想起那條通往大海彼岸的鐵路的漫長故事。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR牟岐線_8_tw.mp3",
     "sheetName": "JR牟岐線"
@@ -14347,7 +14497,7 @@
     "audio_en": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR予讃線_en.mp3",
     "name_fr": "Ligne JR Yosan",
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR予讃線_fr.mp3",
-    "name_tw": "JR予讚線",
+    "name_tw": "於贊線",
     "text_tw": "於贊線。這條鐵路以曾是旅客從宇鷹渡輪踏上四國第一步的「門戶」高松為起點，沿著瀨戶內海延伸到伊予、宇和島的盡頭，堪稱四國動脈的宏偉氣勢。剛離開高松，抬頭就能看到橫跨贊岐平原的瀨戶大橋巨大鋼架的現代風景，越過多度津後從海岸線出來，看到平靜的大海上佈滿了美麗的島嶼，這些都讓您一如往常地想去旅行。\n\n這條鐵路線曾經是特快「潮風號」發出沉重柴油聲的轟鳴聲，而在此之前，C57等蒸汽機車冒著白煙，現在卻由穿梭於該地區的擺式列車實現了電氣化。然而，當你經過觀音寺進入愛媛縣，抬頭仰望石鎚山的雄偉景色時，你仍然可以感受到昔日主道的氛圍。尤其是，從向原經長濱分支的舊「海割」線的車窗望出去的伊與田海的寧靜景色，靜靜地讓我們思考在註重效率的時代，鐵路旅行的本質是什麼。這段漫長的旅程，穿過蜜柑山的金黃色山坡，前往最終目的地宇和島，每一站都給人一種奢華的感覺，揭開四國土地的豐富和歷史。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR予讃線_tw.mp3",
     "sheetName": "JR予讃線"
@@ -26786,7 +26936,7 @@
     "audio_en": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR土讃線_11_en.mp3",
     "name_fr": "Tsukuda",
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR土讃線_11_fr.mp3",
-    "name_tw": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "name_tw": "佃",
     "text_tw": "佃。這裡是旅行的十字路口，島贊線與德島線並肩交匯，時間在吉野川河畔靜靜流逝。兩條線匯合，通往一座鐵橋的景象，給人一種奇怪的連結感，彷彿來自不同階層的旅人正在享受轉瞬即逝的陪伴。雖然車站本身結構簡單，但通過車站的列車種類繁多，證明了曾經橫跨四國的鐵路網絡的豐富性。即將渡過吉野川時，聽到鐵軌接合處特有的聲音，透過車窗眺望浩浩蕩蕩的河水，讓人強烈地感受到自己正身處阿波國的咽喉。因為它不是一個浮華的旅遊目的地，但它是一個獨特的站點，您可以在這裡慢慢欣賞鐵路連接的廣闊道路。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR土讃線_11_tw.mp3",
     "sheetName": "JR土讃線"
@@ -26850,7 +27000,7 @@
     "audio_en": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR土讃線_15_en.mp3",
     "name_fr": "Awa Kawaguchi",
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR土讃線_15_fr.mp3",
-    "name_tw": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "name_tw": "阿波河口",
     "text_tw": "阿波河口。當你走上平台時，首先映入眼簾的是可愛的貉子雕像。這個地區自古以來就以貉的傳說而聞名，有趣的是，連火車站也是貉故事的一部分。然而與這種寧靜的氣氛相反，背景中若隱若現的山脈卻變得越來越陡峭，吉野川的流水也掀起白色的浪花，啃咬著岩石。這個車站也有作為向城市輸出森林資源的基地的歷史，你可以感受到過去工業的腳步與貉狗守望著你的沉默重疊。這個故事、現實與嚴酷自然並存的車站，為旅行者提供了片刻的寧靜，但也預示著前方深山之旅的崎嶇。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR土讃線_15_tw.mp3",
     "sheetName": "JR土讃線"
@@ -28264,6 +28414,21 @@
     "sheetName": "しなの鉄道線"
   },
   {
+    "ID": "阿佐海岸鉄道",
+    "lat": 33.606753,
+    "lon": 134.3510181,
+    "name_ja": "阿佐海岸鉄道",
+    "audio_ja": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/阿佐海岸鉄道_ja.mp3",
+    "name_en": "Asa Kaigan Railway",
+    "audio_en": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/阿佐海岸鉄道_en.mp3",
+    "name_fr": "Chemin de fer Asa Kaigan",
+    "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/阿佐海岸鉄道_fr.mp3",
+    "name_tw": "阿佐海岸鐵道",
+    "text_tw": "阿波海南。該車站現已成為新時代的旗手，世界上第一輛DMV（雙模車輛）可以在公路和鐵路之間自由行駛。雖然最初是為了實現日本國鐵環遊四國的宏偉夢想“阿佐線”而規劃的，但這條因時代動盪而未完工、作為第三部門鐵路而誕生的鐵路，如今經歷了無與倫比的演變，在鐵路上運行著巴士。\n\n在模式轉換時，橡膠輪胎被鋼輪取代的那一刻，安靜卻確定的「變身鐵路」的儀式，讓我們感受到現代理性與我們對鐵路的痴迷奇異共存的時刻。當你到達高架橋的頂部時，你會看到一個堅固的結構，它曾經是以特快列車穿過它為前提而建造的，看著小火車平穩地穿過這個超規格的空間，有一種可愛的感覺。穿過石石魁隧道，映入眼簾的是雄偉的深藍色土佐灣，我們可以體會到先輩們在這片土地上辛勤耕耘、建造南北鐵路的思想。雖然只是短短的商業距離，但這短短的軌跡卻凝聚了四國鐵路的奇異命運和對未來的一絲希望。",
+    "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/阿佐海岸鉄道_tw.mp3",
+    "sheetName": "阿佐海岸鉄道"
+  },
+  {
     "ID": "阿佐海岸鉄道_2",
     "lat": 33.606753,
     "lon": 134.3510181,
@@ -28306,7 +28471,7 @@
     "audio_en": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/阿佐海岸鉄道_4_en.mp3",
     "name_fr": "Shishikui",
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/阿佐海岸鉄道_4_fr.mp3",
-    "name_tw": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "name_tw": "石石葵",
     "text_tw": "石石葵。該車站橫跨德島縣和高知縣的縣界，作為阿佐海岸鐵道的基地而聞名。當你走進車站大樓時，你可以感受到前「伊勢蝦站站長」的回憶，以及為支持這條短途鐵路而辛勤工作的當地人的溫暖。這條線路的建設及其連續的高架橋，是一個真正輝煌的“幹線規範”，假設它將來會延伸，正因為如此，與機車車輛的小規模形成鮮明對比，給火車旅客一種孤獨感，因此產生了深厚的感情。從車站窗口往下看，漁村錯綜複雜的屋頂之外，可以看到被黑潮沖刷的崎嶇而美麗的海岸線，讓人感覺這就是土佐和阿波交界地區的獨特氛圍。鐵路這個行業可能處境艱難，但在這裡工作的人們似乎仍在繼續珍惜和守護著鐵路所連接的“關係”，這在旅行者的心中點亮了一盞溫暖的燈。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/阿佐海岸鉄道_4_tw.mp3",
     "sheetName": "阿佐海岸鉄道"
