@@ -1313,14 +1313,9 @@
     "lon": 132.708605,
     "map_url": "https://www.google.com/maps/search/?api=1&query=%E4%BA%88%E5%9C%9F%E7%B7%9A%20%E6%9D%BE%E4%B8%B8%E9%A7%85",
     "name_ja": "松丸",
-    "audio_ja": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/予土線_予土線_10_ja.mp3",
     "name_en": "Matsumaru",
-    "audio_en": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/予土線_予土線_10_en.mp3",
     "name_fr": "Matsumaru",
-    "text_fr": "Matsumaru. Le chemin de fer d'Oigawa, situé dans la zone pittoresque du centre de la préfecture de Shizuoka, conserve encore le romantisme des chemins de fer de l'ère Showa. La gare de Shin-Kanaya, la base du service SL, est plus qu'une simple station de transfert ; c'est un lieu véritablement émotionnel qui passionne les visiteurs. A l'intérieur des lieux se trouve une puissante locomotive à vapeur, et l'odeur du charbon et le son du sifflet vous donnent l'impression de vous lancer dans un voyage hors du temps qui vous ramène au bon vieil âge d'or des chemins de fer japonais.\n\nLe chemin de fer d'Oigawa, construit depuis la fin de la période Taisho jusqu'au début de la période Showa pour le développement de l'énergie et le transport des ressources forestières, est également connu comme un pionnier dans la préservation des locomotives à vapeur, et la gare de Shin-Kanaya est un endroit clé qui transmet cette technologie et cette passion jusqu'à nos jours. Même à l'époque Reiwa, elle continue de créer de nouvelles attractions comme l'exploitation du train Thomas the Tank Engine, et c'est une gare vraiment intéressante où s'entremêlent les sourires des enfants et la nostalgie des vieux cheminots.",
-    "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/予土線_予土線_10_fr.mp3",
     "name_tw": "松丸",
-    "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/予土線_予土線_10_tw.mp3",
     "product_ja": "松野町産 森のジビエ（鹿肉・猪肉セット）\n愛媛県に入り、最初の主要駅。山深い松野町は、古くから狩猟が盛んな「ジビエの町」です。ここで処理される鹿や猪の肉は、驚くほど臭みがなく、野生のエネルギーに満ち溢れています。赤身の濃い鹿肉はヘルシーで柔らかく、猪肉は脂の甘みが絶品。四国の山々の恵みをダイレクトに感じる、キャンプ飯や特別な日のディナーに最適な野生の御馳走です。",
     "product_en": "Forest game from Matsuno Town (venison/boar meat set)\nThe first major station after entering Ehime Prefecture. Matsuno Town, deep in the mountains, has been known as a game town where hunting has been popular since ancient times. The deer and boar meat processed here is surprisingly odorless and full of wild energy. The lean venison is healthy and tender, and the wild boar meat has an exquisite sweetness from its fat. It is a wild treat that is perfect for camping meals or special occasion dinners, where you can directly feel the blessings of the mountains of Shikoku.",
     "product_fr": "Gibier forestier de la ville de Matsuno (ensemble de viande de venaison/sanglier)\nLa première grande gare après être entrée dans la préfecture d'Ehime. La ville de Matsuno, située au cœur des montagnes, est connue comme une ville de gibier où la chasse est populaire depuis l'Antiquité. La viande de cerf et de sanglier transformée ici est étonnamment inodore et pleine d'énergie sauvage. Le chevreuil maigre est sain et tendre, et la viande de sanglier possède une douceur exquise grâce à sa graisse. C'est un délice sauvage parfait pour les repas de camping ou les dîners d'occasions spéciales, où vous pouvez directement ressentir les bénédictions des montagnes de Shikoku.",
@@ -1504,7 +1499,7 @@
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_2_fr.mp3",
     "name_tw": "戈門鎮",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_2_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "product_ja": "土佐の生姜（高知県産 黄金しょうが）\n路面電車の東の起点、南国市。ここは日本一の生姜の産地です。南国の太陽と豊かな水で育った「黄金しょうが」は、切り口が鮮やかな黄金色。一口かじれば、突き抜けるような爽快な香りと、力強い辛みが全身を駆け巡ります。お取り寄せでは、すりおろしやジンジャーエールベースも人気。土佐の情熱が詰まった、体温まる「大地の結晶」です。",
     "product_en": "Tosa ginger (golden ginger from Kochi prefecture)\nNankoku City is the eastern starting point for the tram. This is Japan's number one producer of ginger. ``Gold ginger'' grown in the tropical sun and abundant water has a bright golden color when cut. When you take a bite, the refreshing aroma and powerful spiciness rush through your entire body. Grated and ginger ale bases are also popular for ordering. It is a ``crystal of the earth'' that warms your body and is filled with Tosa's passion.",
     "product_fr": "Gingembre Tosa (gingembre doré de la préfecture de Kochi)\nLa ville de Nankoku est le point de départ oriental du tramway. C'est le premier producteur de gingembre au Japon. Le « gingembre doré » cultivé sous le soleil tropical et dans une eau abondante a une couleur dorée brillante une fois coupé. Lorsque vous prenez une bouchée, l’arôme rafraîchissant et le piquant puissant se répandent dans tout votre corps. Les bases de soda râpé et au gingembre sont également populaires pour la commande. C'est un « cristal de la terre » qui réchauffe votre corps et est rempli de la passion de Tosa.",
@@ -1525,7 +1520,7 @@
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_3_fr.mp3",
     "name_tw": "後免東町",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_3_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -1542,7 +1537,7 @@
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_4_fr.mp3",
     "name_tw": "中町後免",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_4_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -1559,7 +1554,7 @@
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_5_fr.mp3",
     "name_tw": "後免西町",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_5_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -1576,7 +1571,7 @@
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_6_fr.mp3",
     "name_tw": "東工業前",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_6_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -1593,7 +1588,7 @@
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_7_fr.mp3",
     "name_tw": "住在吉街",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_7_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -1610,7 +1605,7 @@
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_8_fr.mp3",
     "name_tw": "篠原",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_8_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -1627,7 +1622,7 @@
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_9_fr.mp3",
     "name_tw": "小笠森街",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_9_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -1644,7 +1639,7 @@
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_10_fr.mp3",
     "name_tw": "長崎",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_10_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -1661,7 +1656,7 @@
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_11_fr.mp3",
     "name_tw": "明美",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_11_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -1678,7 +1673,7 @@
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_12_fr.mp3",
     "name_tw": "一條橋",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_12_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -1695,7 +1690,7 @@
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_13_fr.mp3",
     "name_tw": "青和學園前",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_13_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -1712,7 +1707,7 @@
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_14_fr.mp3",
     "name_tw": "領石通",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_14_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -1729,7 +1724,7 @@
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_15_fr.mp3",
     "name_tw": "北浦",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_15_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -1746,7 +1741,7 @@
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_16_fr.mp3",
     "name_tw": "船渡",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_16_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -1763,7 +1758,7 @@
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_17_fr.mp3",
     "name_tw": "鹿兒島",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_17_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -1780,7 +1775,7 @@
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_18_fr.mp3",
     "name_tw": "田邊島街",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_18_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -1797,7 +1792,7 @@
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_19_fr.mp3",
     "name_tw": "瑞穗街",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_19_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -1814,7 +1809,7 @@
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_20_fr.mp3",
     "name_tw": "五台山通",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_20_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -1831,7 +1826,7 @@
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_21_fr.mp3",
     "name_tw": "千代町3丁目",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_21_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -1848,7 +1843,7 @@
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_22_fr.mp3",
     "name_tw": "千代町2丁目",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_22_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -1865,7 +1860,7 @@
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_23_fr.mp3",
     "name_tw": "千代町1丁目",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_23_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -1882,7 +1877,7 @@
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_24_fr.mp3",
     "name_tw": "千代町",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_24_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -1899,7 +1894,7 @@
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_25_fr.mp3",
     "name_tw": "會城",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_25_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -1916,7 +1911,7 @@
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_26_fr.mp3",
     "name_tw": "彩園場町",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_26_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -1933,7 +1928,7 @@
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_27_fr.mp3",
     "name_tw": "電鐵航廈前",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_27_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -1950,7 +1945,7 @@
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_28_fr.mp3",
     "name_tw": "播磨屋橋",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_28_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "product_ja": "藁焼き かつおのたたき（明神水産）\n東西南北が交差する、とさでんの心臓部。土佐に来たら、この香りを嗅がずには帰れません。本場の藁焼きは、一気に数千度の炎で表面を焼き固めることで、中に旨味を閉じ込め、藁の香ばしさを纏わせます。厚切りにした身に塩を振り、ニンニクを添えて。口に入れた瞬間に広がる「土佐の海」の力強さに、誰もが虜になるはずです。",
     "product_en": "Straw-grilled bonito tataki (Myojin Suisan)\nThe heart of Tosaden, where east, west, north, and south intersect. When you come to Tosa, you can't leave without smelling this scent. Authentic straw grilling involves baking the surface of the food with a flame of several thousand degrees all at once, trapping the flavor inside and giving it the aroma of straw. Sprinkle salt on the thickly sliced ​​meat and add garlic. Everyone will be captivated by the power of the Tosa Sea that spreads the moment you put it in your mouth.",
     "product_fr": "Tataki de bonite grillée sur paille (Myojin Suisan)\nLe cœur de Tosaden, où se croisent l’est, l’ouest, le nord et le sud. Quand on vient à Tosa, on ne peut pas repartir sans sentir cette odeur. Les grillades authentiques sur paille consistent à cuire la surface des aliments avec une flamme de plusieurs milliers de degrés en même temps, emprisonnant la saveur à l'intérieur et lui donnant l'arôme de la paille. Saupoudrez de sel la viande en tranches épaisses et ajoutez l'ail. Tout le monde sera captivé par la puissance de la mer Tosa qui se propage dès que vous la mettez dans votre bouche.",
@@ -1971,7 +1966,7 @@
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_29_fr.mp3",
     "name_tw": "堀爪",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_29_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -1988,7 +1983,7 @@
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_30_fr.mp3",
     "name_tw": "大橋通",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_30_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -2005,7 +2000,7 @@
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_31_fr.mp3",
     "name_tw": "高知城前",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_31_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -2022,7 +2017,7 @@
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_32_fr.mp3",
     "name_tw": "縣政府前",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_32_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -2039,7 +2034,7 @@
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_33_fr.mp3",
     "name_tw": "格蘭德街",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_33_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -2056,7 +2051,7 @@
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_34_fr.mp3",
     "name_tw": "增方",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_34_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -2073,7 +2068,7 @@
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_35_fr.mp3",
     "name_tw": "上町1丁目",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_35_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -2090,7 +2085,7 @@
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_36_fr.mp3",
     "name_tw": "上町2丁目",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_36_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -2107,7 +2102,7 @@
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_37_fr.mp3",
     "name_tw": "上町4丁目",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_37_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -2124,7 +2119,7 @@
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_38_fr.mp3",
     "name_tw": "上町5丁目",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_38_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -2141,7 +2136,7 @@
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_39_fr.mp3",
     "name_tw": "旭町1丁目",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_39_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -2158,7 +2153,7 @@
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_40_fr.mp3",
     "name_tw": "朝日站前通",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_40_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -2175,7 +2170,7 @@
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_41_fr.mp3",
     "name_tw": "旭町3丁目",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_41_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -2192,7 +2187,7 @@
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_42_fr.mp3",
     "name_tw": "螢橋",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_42_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -2209,7 +2204,7 @@
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_43_fr.mp3",
     "name_tw": "鏡川橋",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_43_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -2226,7 +2221,7 @@
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_44_fr.mp3",
     "name_tw": "鴨部",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_44_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -2243,7 +2238,7 @@
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_45_fr.mp3",
     "name_tw": "曙町東町",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_45_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -2260,7 +2255,7 @@
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_46_fr.mp3",
     "name_tw": "曙町",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_46_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -2277,7 +2272,7 @@
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_47_fr.mp3",
     "name_tw": "朝倉站",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_47_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -2294,7 +2289,7 @@
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_48_fr.mp3",
     "name_tw": "朝倉",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_48_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "product_ja": "土佐の文旦（ぶんたん）\n大学キャンパスが近く、若々しい活気あふれる朝倉エリア。冬から春にかけて、街中に漂うのが文旦の甘酸っぱい香りです。水晶のように輝く大粒の果肉は、プリッとした弾力が特徴。口の中で一粒一粒が弾け、上品な甘みとほのかな苦みが広がります。高知の春を告げる「黄色い宝石」。一度食べると忘れられない、爽快な余韻が魅力です。",
     "product_en": "Buntan from Tosa\nThe Asakura area is close to the university campus and full of youthful vigor. From winter to spring, the sweet and sour scent of pomelo wafts through the city. The large pulp, which shines like crystal, is characterized by its firmness and elasticity. Each grain bursts in your mouth, giving off an elegant sweetness and subtle bitterness. The \"yellow jewel\" heralds spring in Kochi. It has a refreshing aftertaste that you will never forget once you eat it.",
     "product_fr": "Buntan de Tosa\nLe quartier d'Asakura est proche du campus universitaire et plein de vigueur juvénile. De l’hiver au printemps, le parfum aigre-doux du pomelo flotte dans la ville. La grosse pulpe, qui brille comme du cristal, se caractérise par sa fermeté et son élasticité. Chaque grain éclate en bouche, dégageant une douceur élégante et une amertume subtile. Le « joyau jaune » annonce le printemps à Kochi. Il a un arrière-goût rafraîchissant que vous n’oublierez jamais une fois que vous l’aurez mangé.",
@@ -2315,7 +2310,7 @@
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_49_fr.mp3",
     "name_tw": "朝倉神社前",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_49_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -2332,7 +2327,7 @@
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_50_fr.mp3",
     "name_tw": "宮殿深處",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_50_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -2349,7 +2344,7 @@
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_51_fr.mp3",
     "name_tw": "口腔內",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_51_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -2366,7 +2361,7 @@
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_53_fr.mp3",
     "name_tw": "北山",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_53_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -2383,7 +2378,7 @@
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_56_fr.mp3",
     "name_tw": "八代通",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_56_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -2400,7 +2395,7 @@
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_57_fr.mp3",
     "name_tw": "中山",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_57_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -2417,7 +2412,7 @@
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_58_fr.mp3",
     "name_tw": "伊野商業陣地",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_58_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -2434,7 +2429,7 @@
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_59_fr.mp3",
     "name_tw": "北內",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_59_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -2451,7 +2446,7 @@
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_60_fr.mp3",
     "name_tw": "浪川",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_60_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -2468,7 +2463,7 @@
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_61_fr.mp3",
     "name_tw": "井野",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_61_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "product_ja": "土佐和紙 懐紙・レターセット\nとさでんの西の終着点、伊野。ここは「和紙の町」として一千年の歴史を誇ります。仁淀川の清流で漉かれた土佐和紙は、薄く、強く、そして美しい。手にした瞬間に感じる、天然素材ならではの温もりと優しさは、デジタルな時代だからこそ心に響きます。大切な人へ、土佐の清流の音を添えて送る。そんな贅沢を叶えてくれる伝統工芸品です。",
     "product_en": "Tosa Washi Kaishi/Letter Set\nIno is the western terminus of Tosaden. This place boasts a 1,000-year history as the ``Washi Paper Town.'' Tosa washi paper made in the clear waters of the Niyodo River is thin, strong, and beautiful. The warmth and gentleness that can only be felt from natural materials as soon as you hold them in your hands resonates with your heart in this digital age. Send it to your loved ones along with the sound of Tosa's clear streams. It is a traditional craft that makes such luxury come true.",
     "product_fr": "Tosa Washi Kaishi/Ensemble de lettres\nIno est le terminus ouest de Tosaden. Cet endroit possède une histoire millénaire sous le nom de « Ville du papier Washi ». Le papier washi Tosa fabriqué dans les eaux claires de la rivière Niyodo est fin, solide et beau. La chaleur et la douceur que l’on ne peut ressentir que dans les matériaux naturels dès que vous les tenez entre vos mains résonnent avec votre cœur à l’ère du numérique. Envoyez-le à vos proches avec le son des flux clairs de Tosa. C’est un artisanat traditionnel qui permet de réaliser un tel luxe.",
@@ -2489,7 +2484,7 @@
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_62_fr.mp3",
     "name_tw": "高知站",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_62_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "product_ja": "高知アイス「土佐の果実」セット\n高知の玄関口。ここからお届けするのは、高知の果実を丸ごと味わうような贅沢アイスです。日本一の生産量を誇るユズ、文旦、そして幻の果実・小夏。一口含めば、南国高知の澄み切った青空と、果樹園を吹き抜ける爽やかな風が浮かびます。素材の味を邪魔しない、スッキリとした後味。まさに「食べる高知」そのものです。",
     "product_en": "Kochi Ice “Tosa Fruit” Set\nThe gateway to Kochi. What we deliver here is a luxurious ice cream that lets you enjoy the whole fruit of Kochi. Yuzu, pomelo, and the mysterious fruit Konatsu, which boasts the highest production volume in Japan. One sip and you'll be reminded of the clear blue skies of tropical Kochi and the refreshing breeze blowing through the orchard. A refreshing aftertaste that doesn't interfere with the taste of the ingredients. This is exactly what \"Eating Kochi\" is all about.",
     "product_fr": "Ensemble Kochi Ice « Tosa Fruit »\nLa porte d'entrée de Kochi. Ce que nous livrons ici est une glace luxueuse qui vous permet de savourer tous les fruits de Kochi. Du yuzu, du pomelo et du mystérieux fruit Konatsu, qui possède le volume de production le plus élevé du Japon. Une gorgée et vous vous souviendrez du ciel bleu clair de Kochi tropical et de la brise rafraîchissante soufflant dans le verger. Un arrière-goût rafraîchissant qui n'interfère pas avec le goût des ingrédients. C’est exactement ce qu’est « Eating Kochi ».",
@@ -2510,7 +2505,7 @@
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_63_fr.mp3",
     "name_tw": "高知大橋",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_63_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -2527,7 +2522,7 @@
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_64_fr.mp3",
     "name_tw": "蓮池町街",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_64_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -2544,7 +2539,7 @@
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_65_fr.mp3",
     "name_tw": "李子樹",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_65_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -2561,7 +2556,7 @@
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_66_fr.mp3",
     "name_tw": "三橋通1丁目",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_66_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -2578,7 +2573,7 @@
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_67_fr.mp3",
     "name_tw": "三橋通2丁目",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_67_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -2595,7 +2590,7 @@
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_68_fr.mp3",
     "name_tw": "三橋通3丁目",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_68_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -2612,7 +2607,7 @@
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_69_fr.mp3",
     "name_tw": "三橋通4丁目",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_69_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -2629,7 +2624,7 @@
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_70_fr.mp3",
     "name_tw": "碼頭車庫前",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_70_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -2646,7 +2641,7 @@
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_71_fr.mp3",
     "name_tw": "三橋通5丁目",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_71_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "product_ja": "土佐あかうし（精肉・ステーキ用）\n高知港を望む南北線の終点。ここでご紹介するのは、年間数百頭しか出荷されない「幻の和牛」土佐あかうしです。黒毛和牛とは一線を画す、きめ細やかな赤身の旨味。脂が重すぎず、噛むほどに肉本来の濃厚な味わいが溢れ出します。ステーキで焼けば、その香りは甘く芳醇。土佐の豊かな山々が育んだ、美食家垂涎の至宝です。",
     "product_en": "Tosa Akaushi (for meat/steak)\nThe terminal point of the Namboku Line overlooking Kochi Port. What we would like to introduce here is Tosa Akaushi, the ``phantom Wagyu beef'' of which only a few hundred cows are shipped each year. The delicate flavor of the lean meat sets it apart from Kuroge Wagyu beef. The fat is not too heavy, and the more you bite into it, the richer flavor of the meat overflows. When grilled with steak, the aroma is sweet and mellow. A treasure grown in the rich mountains of Tosa that will be coveted by gourmets.",
     "product_fr": "Tosa Akaushi (pour viande/steak)\nLe point terminal de la ligne Namboku surplombant le port de Kochi. Ce que nous aimerions vous présenter ici, c'est le Tosa Akaushi, le « bœuf Wagyu fantôme » dont seules quelques centaines de vaches sont expédiées chaque année. La saveur délicate de la viande maigre la distingue du bœuf Kuroge Wagyu. La graisse n'est pas trop lourde et plus vous la mordez, plus la saveur riche de la viande déborde. Lorsqu'il est grillé avec un steak, l'arôme est doux et moelleux. Un trésor cultivé dans les riches montagnes de Tosa qui sera convoité par les gourmets.",
@@ -2668,7 +2663,7 @@
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_69_fr.mp3",
     "name_tw": "宇治住宅社區前",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_69_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -2685,7 +2680,7 @@
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_70_fr.mp3",
     "name_tw": "枝川",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_70_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -2702,7 +2697,7 @@
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_71_fr.mp3",
     "name_tw": "鳴谷",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_71_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -2719,7 +2714,7 @@
     "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_72_fr.mp3",
     "name_tw": "井野站前",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_72_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -16839,6 +16834,17 @@
     "sheetName": "大井川鉄道井川線"
   },
   {
+    "ID": "JR釧網本線",
+    "lat": 42.99065217,
+    "lon": 144.3820506,
+    "name_ja": "釧網本線",
+    "name_en": "Senmo Main Line",
+    "name_fr": "Ligne principale Senmo",
+    "name_tw": "釧網本線",
+    "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR釧網本線_tw.mp3",
+    "sheetName": "JR釧網本線"
+  },
+  {
     "ID": "JR釧網本線_2",
     "lat": 42.99065217,
     "lon": 144.3820506,
@@ -20295,7 +20301,18 @@
     "sheetName": "JR吾妻線"
   },
   {
-    "ID": "わたらせ渓谷鐵道線_2",
+    "ID": "わたらせ渓谷鐵道線_1",
+    "lat": 36.4113225,
+    "lon": 139.3326744,
+    "name_ja": "わたらせ渓谷鐵道線",
+    "name_en": "Watarase Keikoku Railway Line",
+    "name_fr": "Ligne ferroviaire Watarase Keikoku",
+    "name_tw": "渡良瀨溪谷鐵道",
+    "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/わたらせ渓谷鐵道線_1_tw.mp3",
+    "sheetName": "わたらせ渓谷鐵道線"
+  },
+  {
+    "ID": "わたらせ渓谷鐵道線",
     "lat": 36.4113225,
     "lon": 139.3326744,
     "map_url": "https://www.google.com/maps/search/?api=1&query=%E3%82%8F%E3%81%9F%E3%82%89%E3%81%9B%E6%B8%93%E8%B0%B7%E9%90%B5%E9%81%93%E7%B7%9A%20%E6%A1%90%E7%94%9F%E9%A7%85",
