@@ -1313,14 +1313,9 @@
     "lon": 132.708605,
     "map_url": "https://www.google.com/maps/search/?api=1&query=%E4%BA%88%E5%9C%9F%E7%B7%9A%20%E6%9D%BE%E4%B8%B8%E9%A7%85",
     "name_ja": "松丸",
-    "audio_ja": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/予土線_予土線_10_ja.mp3",
     "name_en": "Matsumaru",
-    "audio_en": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/予土線_予土線_10_en.mp3",
     "name_fr": "Matsumaru",
-    "audio_fr": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/予土線_予土線_10_fr.mp3",
     "name_tw": "松丸",
-    "text_tw": "松丸。大井川鐵道，位於靜岡縣中部的風景區，至今仍保留著昭和時代鐵道的浪漫。新金谷站是 SL 服務的基地，它不僅僅是一個轉乘站；它也是 SL 服務的基礎。這是一個真正令人興奮的地方，讓遊客興奮不已。館內，強勁的蒸汽機車，煤氣的味道和汽笛的聲音，讓你彷彿進入了一段永恆的旅程，帶你回到日本鐵路的黃金時代。\n\n大井川鐵道自大正末期至昭和初期為電力開發和林業資源運輸而修建，也被譽為保存蒸汽機車的先驅，而新金谷站則是將其技術和熱情傳承至今的關鍵地點。即使到了令和時代，也不斷創造出托馬斯小火車的運行等新的看點，孩子們的笑容和鐵路老男孩的懷舊交織在一起，是一個真正有趣的車站。",
-    "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/予土線_予土線_10_tw.mp3",
     "product_ja": "松野町産 森のジビエ（鹿肉・猪肉セット）\n愛媛県に入り、最初の主要駅。山深い松野町は、古くから狩猟が盛んな「ジビエの町」です。ここで処理される鹿や猪の肉は、驚くほど臭みがなく、野生のエネルギーに満ち溢れています。赤身の濃い鹿肉はヘルシーで柔らかく、猪肉は脂の甘みが絶品。四国の山々の恵みをダイレクトに感じる、キャンプ飯や特別な日のディナーに最適な野生の御馳走です。",
     "product_en": "Forest game from Matsuno Town (venison/boar meat set)\nThe first major station after entering Ehime Prefecture. Matsuno Town, deep in the mountains, has been known as a game town where hunting has been popular since ancient times. The deer and boar meat processed here is surprisingly odorless and full of wild energy. The lean venison is healthy and tender, and the wild boar meat has an exquisite sweetness from its fat. It is a wild treat that is perfect for camping meals or special occasion dinners, where you can directly feel the blessings of the mountains of Shikoku.",
     "product_fr": "Gibier forestier de la ville de Matsuno (ensemble de viande de venaison/sanglier)\nLa première grande gare après être entrée dans la préfecture d'Ehime. La ville de Matsuno, située au cœur des montagnes, est connue comme une ville de gibier où la chasse est populaire depuis l'Antiquité. La viande de cerf et de sanglier transformée ici est étonnamment inodore et pleine d'énergie sauvage. Le chevreuil maigre est sain et tendre, et la viande de sanglier possède une douceur exquise grâce à sa graisse. C'est un délice sauvage parfait pour les repas de camping ou les dîners d'occasions spéciales, où vous pouvez directement ressentir les bénédictions des montagnes de Shikoku.",
@@ -1504,7 +1499,7 @@
     "name_tw": "戈門鎮",
     "text_tw": "戈門鎮。這裡是從高知市出發、目的地為「後免」的電車靜靜停靠的地方，作為東部終點站。自1902年土佐電鐵開通以來，該地區一直作為連接南國市中心和縣首府的大動脈的終點站，支撐著人們的生活。過去，延續至安藝的安藝線從這裡分岔，這裡是繁華的樞紐，直達列車匆匆而過。\n\n如果你在電車站旁抬頭看，你會看到現代後免奈哈里線的巨大高架橋，矗立在那裡，注視著沿著道路緩慢行駛的舊火車。新舊鐵路交叉的景象象徵著土佐的堅韌，克服了1960年安藝線廢除的悲慘命運，重新恢復了平成時代的鐵路紐帶。\n\n附近，麵包超人的創作者柳瀨隆繪製的人物融入街角，撫慰遊客的心靈。黃昏時分，伴著回程的火車鈴聲，回想木車在背景中奔跑的日子，讓人感覺這座聽起來神秘的「戈門」小鎮仍然洋溢著溫暖、包羅萬象的愛。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_2_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "product_ja": "土佐の生姜（高知県産 黄金しょうが）\n路面電車の東の起点、南国市。ここは日本一の生姜の産地です。南国の太陽と豊かな水で育った「黄金しょうが」は、切り口が鮮やかな黄金色。一口かじれば、突き抜けるような爽快な香りと、力強い辛みが全身を駆け巡ります。お取り寄せでは、すりおろしやジンジャーエールベースも人気。土佐の情熱が詰まった、体温まる「大地の結晶」です。",
     "product_en": "Tosa ginger (golden ginger from Kochi prefecture)\nNankoku City is the eastern starting point for the tram. This is Japan's number one producer of ginger. ``Gold ginger'' grown in the tropical sun and abundant water has a bright golden color when cut. When you take a bite, the refreshing aroma and powerful spiciness rush through your entire body. Grated and ginger ale bases are also popular for ordering. It is a ``crystal of the earth'' that warms your body and is filled with Tosa's passion.",
     "product_fr": "Gingembre Tosa (gingembre doré de la préfecture de Kochi)\nLa ville de Nankoku est le point de départ oriental du tramway. C'est le premier producteur de gingembre au Japon. Le « gingembre doré » cultivé sous le soleil tropical et dans une eau abondante a une couleur dorée brillante une fois coupé. Lorsque vous prenez une bouchée, l’arôme rafraîchissant et le piquant puissant se répandent dans tout votre corps. Les bases de soda râpé et au gingembre sont également populaires pour la commande. C'est un « cristal de la terre » qui réchauffe votre corps et est rempli de la passion de Tosa.",
@@ -1525,7 +1520,7 @@
     "name_tw": "後免東町",
     "text_tw": "後免東町。這是一個充滿魅力的電車站，傳達了曾經被稱為「後免」的南國市舊城區的驕傲。直到1960年，開往安藝的安藝線電車都從這裡運行，從高知市直達電車頻繁的時代的喧囂可以在狹窄的小巷和街道外觀中看到。\n\n一站到巴士站，充滿昭和風情的商店街就展現在眼前，迎接您的是準備晚餐的人們的香味和當地人的穩定活動。這裡也與漫畫家柳瀨隆有著千絲萬縷的聯繫，透過街角的石像和招牌，你可以感受到他祖先居住在這裡的歷史正在悄悄傳承。\n\n火車在路面上劃過鐵軌的嘎嘎聲，並沒有被汽車的喧囂所淹沒，而是像這座城市的心跳一樣迴盪。雖然前往終點站後免町的路程只有一小段，但車窗外經過木屋屋簷的樣子，讓人想起電車的親切感。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_3_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -1542,7 +1537,7 @@
     "name_tw": "中町後免",
     "text_tw": "後免中町（後免中町）。位於南國市購物區中心的電車軌道與日常生活的氣息交織在一起，是一個真正薄弱而有力的車站。這個建於明治時代末年的電車站曾經是該地區的一種茶室，當直達安藝線的服務很流行時，購物者和學生會擠在一起等待電車。\n\n公車站旁邊，與柳瀨隆相關的人物守護著小巷，讓人感覺昭和兒童走過的那一天的記憶與現代兒童的笑臉相連。江戶時代的免稅優惠（這個地方的名字由此而來）賦予了小鎮居民一種平靜而又理性的氣質。\n\n火車隆隆開走後的寂靜，夾雜著商圈的喧囂和遠方的喧囂，給人一種追求效率的現代出行所無法體會到的安心感。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_4_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -1559,7 +1554,7 @@
     "name_tw": "後免西町",
     "text_tw": "禦免西町（禦免西町）。車站位於南國市的行政中心市政廳附近，位於一條小巷的入口處，這裡仍然保留著前驛站城鎮的喧囂。江戶時代，在土佐藩主金山野中的建議下，得到免稅的「後免」這個名字不只是一個象徵，更是紮根於這一地區的自由獨立精神的象徵。\n\n火車在鐵軌上緩緩行駛，上下車的穿著制服的學生和跑腿的家庭主婦，讓我們感受到當地公共交通自明治時代開通以來無論多少年都沒有改變的原始風景。沿著車站走一圈，你會發現古老的倉庫式建築和歷史悠久的寺廟星羅棋布，靜靜地見證著電車與安藝線柴油車競爭的歲月。\n\n雖然近年來因再開發，景色逐漸發生了變化，但發車訊號的鳴響聲依然如故，將昭和時代的記憶與令和時代的天空聯繫在一起。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_5_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -1576,7 +1571,7 @@
     "name_tw": "東工業前",
     "text_tw": "東京工業公司前面。顧名思義，這裡是年輕人的熱情與對未來的憧憬交匯的一站，俯瞰著旁邊的高知縣立高知東部工業高中的校舍。這條從明治時代就延續下來的鐵路，即使在昭和時代經濟高速成長時期，也持續輸送著許多立志成為工程師的年輕人，從下而上為日本的工業發展發揮了支撐作用。\n\n站在公車站，你可以聽到放學後熱鬧的聲音和國道上汽車的喧囂，營造出一種獨特的熱鬧氛圍。承載著與舊安藝線相連的夢想的鐵軌，在夕陽的映照下發出暗淡的光芒，與學生們努力製作的目光直視相呼應，給人一種可靠的感覺。\n\n一輛破舊的火車車廂搖搖晃晃地前行，發車信號發出嘰嘰喳喳的聲音，提醒我們穩步前進的價值，即使時代變遷，這一點也不會改變。這個小站，科技、傳統和年輕活力在這裡產生共鳴，仍然充滿著我們在現代幾乎已經忘記的簡單熱情。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_6_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -1593,7 +1588,7 @@
     "name_tw": "住在吉街",
     "text_tw": "住在吉街。巴士站位於南國市後免邊境，安靜但又有一定的存在感，向西穿過市中心，到達青翠的鄉村。自1909年開業以來，這個地方已經迎接了無數學生和當地居民，它確實是一個活生生的遺跡，刻畫了土佐的生活歷史。\n\n顧名思義，它位於住吉神社附近，住吉神社自古以來守護著這一地區的和平，曾經是參拜者和做當地生意的人們熙熙攘攘的地方。昭和時代的鼎盛時期，從後免線直達安藝線的雄偉列車經過這裡，作為連接高知市和東部地區的大動脈的一部分，您可以感受到該地區的歷史，與鐵路的強大聲音相呼應。\n\n雖然現在已經融入了安靜的住宅區，但等待嘎嘎作響的電車駛來，又讓我們找回了為了效率而失去的有軌電車的親切感。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_7_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -1610,7 +1605,7 @@
     "name_tw": "篠原",
     "text_tw": "篠原。距離南國市中心稍遠一點，車窗上開始變綠，國道195號沿線就會出現這一站。自1909年通車以來，這條鐵路一直載著人們度過土佐嚴酷的夏季和溫和的冬季，它的堅韌不拔。\n\n如果你站在公車站，你可以透過一排排塑膠大棚看到，這些大棚仍然保留著該地區曾經是一個廣闊的農村地區的痕跡。在昭和時代的鼎盛時期，這裡每天都能看到身穿農服、背著籃子前往高知市場的熱鬧景象。\n\n如今，這裡正在變成一個安靜的住宅區，但黃昏時分，遠處傳來的火車行駛聲似乎讓人想起了昭和時代。如果你忘了旅行的匆忙，臣服於一節車廂的悠閒節奏，你會再次感受到鐵路一直貼近當地人心的歲月的厚重。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_8_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -1627,7 +1622,7 @@
     "name_tw": "小笠森街",
     "text_tw": "Kogome-dori（Kogome-dori）。這是一個真正不起眼的車站，位於沿著國道延伸的鐵路上，位於分隔南國市和高知市邊界的小後川河畔。自1901年開放以來，這個地區作為農村向城市過渡的節點，吸引了許多人。\n\n特別是在20世紀60年代，附近的高知國立工業大學開學後，車站裡每天都能看到肩負著日本未來的有抱負的年輕工程師，背著沉重的行囊等待火車。以前，安藝線的直達列車穿過這一地區，但現在，只有一輛電車穿過國界河，發出悠長而安靜的聲音。它樸實無華的外觀讓我們想起了“鞦韆的樂趣”，這正是當今世界唯一追求效率的旅行的起源。\n\n當你站在黃昏的月台上，匆匆趕回家的學生們的喧囂過去後，空氣中瀰漫著懷舊的放學氣味，與河對岸吹來的微風混合在一起，讓你敏銳地感受到鐵路的悠久歷史。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_9_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -1644,7 +1639,7 @@
     "name_tw": "長崎",
     "text_tw": "長崎。巴士站位於高知市的東端，是跨越高知市與南國市之間的小後川的第一個地方，最後進入縣城的中心地帶。自1902年通車以來，該地區也發揮控制單線路段穿越的信號站的作用，曾是安藝線直達列車勇敢穿越的鐵路戰略要地。\n\n國道旁鋪設的細鐵軌，讓你忽略過往車輛的喧囂，留住電車特有的永恆時光。車站後方是一片寧靜的鄉村，黃昏時分，火車頭燈像螢火蟲一樣照亮道路，讓人感受到昭和時代的旅行氛圍。\n\n在信號站等待迎面而來的火車的那些安靜時刻，讓我懂得了旅行時「等待」的奢侈。看著火車帶著接頭的迴響聲離開，讓我們想起鐵路的悠久歷史，一直深深地貼在當地人的心上。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_10_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -1661,7 +1656,7 @@
     "name_tw": "明美",
     "text_tw": "明美橋。這是高知市大津寧靜街道上與國道平行的鐵路上的一個安靜的車站。自1902年通車以來，作為連接土佐東部的關鍵點，許多人從這個小平台來到小鎮。\n\n該站的名稱源自於橫跨附近流經的船入川的橋樑。當安藝線還在運行時，行駛在這區域的柴油車帶來的風壓，在鏽跡斑斑的鐵軌顏色中，仍然給人一種休眠的感覺。週邊的大津地區曾經是繁榮的農村，擁有廣闊的濕地，如今卻房屋鱗次櫛比，靜靜地見證著時代的變遷。\n\n如果你沉浸在火車駛來的隆隆聲中，日常生活的喧囂就會消失，你會覺得土佐的時間過得更慢。當你被河對岸的風吹過，等待下一趟火車的聲音的那一刻，在這個講究效率的時代，是一種無可取代的內心平靜。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_11_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -1678,7 +1673,7 @@
     "name_tw": "一條橋",
     "text_tw": "一條橋。在高知市大津的舊街景仍在呼吸的地方，這座公車站就像一座「路標」。自1902年開通以來，它一直矗立在橫跨船成川的一座橋腳下，持續靜靜地守護著人來人往。它見證了土佐電車所經歷的艱辛和輝煌的歷史。\n\n它太簡陋了，不能稱之為家，而有軌電車固有的“親密感”，唯一的邊界是道路上的安全區，在這裡仍然強烈存在。昭和時代的炎熱，當直達安藝線的勇敢列車穿過這個狹窄的空間時，仍然感覺它正在融化在鐵軌的暗淡光芒中。\n\n晚上小吃的氣味開始從附近的房屋中飄出，火車車廂敲響懷舊的鐘聲，然後消失在下一個城鎮。在以方便為唯一追求的現代出行中，這一幕為我們呈現了無可取代的「原汁原味的駐足景觀」。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_12_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -1695,7 +1690,7 @@
     "name_tw": "青和學園前",
     "text_tw": "青和學園前。它成立於 1985 年，在後免線上相對較新，但現在已成為通往不可或缺的學校建築的門戶。該路段距離鄰近的一丈橋站僅一箭之遙，距離軌道僅 60 多米，是日本最短的連接線路之一，也證明了有軌電車認真響應當地社區和學生的需求。\n\n清晨和傍晚，這裡充滿了青和學園學生們的新鮮活力，古老的火車載著他們的夢想和未來緩緩行駛，讓人感受到昭和時代教育環境中的質樸氛圍。這裡曾經是一所名為「青和女子學院前」的女子學校，但隨著時間的推移，這裡變成了男女同校，車站名稱也發生了變化，但日常生活的聲音，與鐵路道口警報聲和火車鈴聲交織在一起，仍然散發著從那時起就沒有改變的學生城的氣氛。\n\n距離一座橋步行不到一分鐘。乘坐火車進行這種「太短的旅程」的奢侈是一種只有在電車之鄉高知才能找到的樂趣，而且這也感覺像是對強調效率的現代時代的一種適度的抵制。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_13_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -1712,7 +1707,7 @@
     "name_tw": "領石通",
     "text_tw": "靈石街。這裡位於高知市大津的西緣，是向北延伸的菱石道路的分叉處，自古以來就以連接山村和縣城的重要物流樞紐而聞名。不難想像，自從1909年鐵路通車以來，走過陡峭山口的旅行者，當終於看到鐵路的輝煌時，一定鬆了一口氣。\n\n過去，從山上帶來的柴火和農作物都是透過這個站運往城市的市場，有軌電車不僅僅是客車的替代品，而是履行了作為當地經濟支柱的使命。雖然週邊現在已經變成了安靜的住宅區，但車站前路口車流的車流卻讓我們強烈感覺到這裡仍然是一個交通樞紐。\n\n隨著發車訊號的鳴響，列車再次加速，與國道平行行駛，昭和時代的活力和古老土佐道路的痕跡仍然強烈。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_14_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -1729,7 +1724,7 @@
     "name_tw": "北浦",
     "text_tw": "北浦。火車站位於高知市以東，通往與195號國道平行、筆直穿過大津廣闊平原的鐵路的途中。自1902年開放以來，該地區一直是連接農村地區和縣城的重要節點，吸收了土佐的刺眼陽光和海風。\n\n在昭和時代，鄉村曾經一望無際，但現在景色已經變成了展示該地區經濟發展的風景，一排排房屋和工廠屋頂。那些曾經直通安藝線、讓大地轟鳴的勇敢柴油列車的記憶，似乎仍然在鐵軌暗淡的光芒中安靜地沉睡。\n\n黃昏時分，一列載著人們趕回家的火車悄悄駛來。在講求效率的當今世界，這種田園詩般的「慢車」節奏提醒著人們，旅行的本質就是旅行的本質。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_15_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -1746,7 +1741,7 @@
     "name_tw": "船渡",
     "text_tw": "船渡。在橫貫高知市大津平原的御門線中，這裡是古老朝聖之路的交會處，也是信仰與旅行慾望交織在一起的地方。自1902年開業以來，該車站不斷向四國88個地方運送朝聖者以及運送農產品的當地居民，證明了它支持土佐的現代化。\n\n當你站在公車站時，船入川（列車的名字就來自於此）緩緩流淌，讓人回想起水運盛行的時代。在昭和時代的鼎盛時期，從這裡開往安藝的直達列車穿行在該地區，讓人感受到這裡的歷史，發出象徵著該地區活力的強勁聲音。\n\n雖然它目前位於一個安靜的住宅區，但有時可以看到戴著朝聖者帽子的旅行者這一事實證明了該地區的永恆。一輛火車車廂敲響了鈴聲，再次駛入黃昏。它樸實無華的駕駛傳達了令和時代顯而易見的真理：旅行不僅僅是匆忙到達目的地。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_16_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -1763,7 +1758,7 @@
     "name_tw": "鹿兒島",
     "text_tw": "加護。該地區位於高知市東部，靠近水流豐富的國分川，就像電車離開城市喧囂、最終步入鄉村的邊界線。自1902年開通以來，該站還扮演著控制單線路段穿越的信號站的角色，歷史上直達安藝線的勇敢列車在向東行駛之前都會在這裡稍作休息。\n\n車站旁邊是國分川，可以感受到這條河的歷史，它曾經是水陸交通的交會樞紐，默默地支撐著當地的經濟。即使在喧囂的現代，火車過鐵橋的聲音依然如故，黃昏時分，倒映在河面上的火車燈光依然傳遞著昭和時代的旅行精神。火車開走後的寂靜，夾雜著潺潺河水的聲音，告訴我們這個令和時代最明顯的真理：旅行不只是匆匆趕往目的地。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_17_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -1780,7 +1775,7 @@
     "name_tw": "田邊島街",
     "text_tw": "田邊島通（田邊島通）。穿過國分川後，巴士站位於JR土贊線巨大高架橋開始並列運行的地方，就在高知市區開始人口密度增加之前。 1902年開業時，這裡還是一片農村地區，但如今這裡林立著房屋和小工廠，清楚地展示了當地城市的強勁發展。\n\n抬頭一看，一列特快列車如疾風般衝下一座現代化的混凝土高架橋，一輛有軌電車在你的腳下轟隆隆地踩著地面，節奏自明治、大正時代以來從未改變過。這條「空陸」鐵路的對比，讓我們感受到了追求效率的現代與崇尚情感的過去並存的高知獨特風景。\n\n我在房屋之間尋找著被流淌的河流包圍的時代的痕跡，等待著下一趟火車的聲音。這些安靜的時刻，讓我們回想起令和時代的昭和文人所喜愛的「思想之旅」。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_18_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -1797,7 +1792,7 @@
     "name_tw": "瑞穗街",
     "text_tw": "瑞穗街。巴士站位於高知市東部，在市區即將增加密度的邊界線上，繞著葛島山麓行駛。自1902年開園以來，這裡一直是一片肥沃的稻田，顧名思義，象徵著“瑞穗之國”，收穫季節，金色的稻穗隨火車的風搖曳，讓人感受到這裡的歷史。\n\n在昭和時代的鼎盛時期，安藝線的直達列車自豪地穿過該地區，使其成為連接縣東部和縣城的繁華大動脈。如今，商業設施和住宅在國道沿線整齊排列，昔日的田園風光也變了樣，但公車站簡陋而堅毅的外觀表明，有軌電車依然是日常生活的中流砥柱。\n\n黃昏時分，在熙熙攘攘的車流中，一列火車駛來，敲響了懷舊的鐘聲。如果我們聆聽那樸實無華的鐵路的聲音，我們將會重新發現我們在這個效率時代、在這片名為瑞穗的土地上留下的「心靈的肥沃」。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_19_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -1814,7 +1809,7 @@
     "name_tw": "五台山通",
     "text_tw": "五台山街。如果你俯視高知市，你會看到一條細長的島山線延伸到平靜流淌的加賀美河之外。前方的高知站是通往太平洋的門戶，曾經是滿載木炭的貨運列車來來去去的樞紐，支撐著人們的生活。如今，它已被改造成一座美麗的車站大樓，與有軌電車的連接順暢，麵包超人列車在孩子們的歡呼聲中出發，帶回了新舊旅行的感覺。這裡的歷史與未來交織在一起，呈現出令人感動的一幕。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_20_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -1831,7 +1826,7 @@
     "name_tw": "千代町3丁目",
     "text_tw": "千代町3丁目。這是位於穿過桂島大橋、最後進入縣首府高知市區的最前端的一站，背靠國分川的潮濕微風。該地區自1902年通車以來，一直作為連接東邊後免和西邊播磨屋大橋的中轉站，發揮了人民生活咽喉支撐的重要作用。\n\n在昭和時代，這個地區曾經是工廠煙囪林立的地方，有軌電車繁忙地運送通勤者和商人。火車的可靠性，踏入喧囂的城市，發出沉重的隆隆聲，讓你感受到城市本身的心跳。\n\n如今，大型商店在國道沿線鱗次櫛比，地區面貌也發生了變化，但埋在瀝青中的鐵軌的光彩依然保持著鐵路一如既往的驕傲。看著一列火車在熙熙攘攘的車流中緩緩駛走，令人耳目一新，想起現代人在匆忙中已經忘記的“城市旁的豐富”。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_21_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -1848,7 +1843,7 @@
     "name_tw": "千代町2丁目",
     "text_tw": "千代町2丁目。縣府高知縣的市區日益密集，已成為戰略樞紐，有軌電車傲然穿梭於國道沿線的商店和建築物之間。自 1902 年開業以來，這裡一直是通往該國東部的門戶和當地商業中心，讓您感受到它作為一個始終受到人民熱情歡迎的地方的歷史。\n\n過去，該公司的總部和車輛段位於鄰近的千代町，是名副其實的土佐鐵路的骨幹，晝夜不停地迴響著火車的聲音。昭和經濟高速成長期，大型商業設施鱗次櫛比，提著購物袋的市民陸續上下電車，熱鬧景象司空見慣。\n\n如今，這座城市被賦予了新的面貌和現代化的面貌，但一列火車生動地駛過等待紅綠燈的一排汽車的景象，讓你感受到有軌電車同樣的堅固。黃昏時分，建築窗光倒映在鐵軌上，鳴響的出發鐘聲融入了城市的喧囂。景色呈現出一種永不褪色的都市旅行感，儘管已被時間的浪潮沖刷。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_22_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -1865,7 +1860,7 @@
     "name_tw": "千代町1丁目",
     "text_tw": "千代町1丁目。該站位於國道沿線，人們對縣府高知縣的中心播磨屋大橋的期待逐漸高漲。自1901年開業以來，這座建築一直作為政府機關和醫療機構的門戶，在連接公民和政府的生活中發揮著誠實的作用。\n\n昭和時代，附近的高知警察署散發著威嚴的氣息，腦海中浮現出身穿制服的警察和市民在電車台階上忙碌爬上爬下的景象。至今仍保留的平靜的城市景觀，讓我們感覺到有軌電車不僅僅是一種交通工具，而是支撐城市秩序與心靈平靜的血液的一部分。\n\n如今，警察局已搬遷，景色也一點點改變，但火車穿過紅綠燈、輕快地鳴響鈴聲的景象，依然呈現著土佐日常生活的美感。儘管摩天大樓越來越多，但鐵軌嘎吱作響的聲音仍然以昭和時代的頻率迴盪，給旅行者一種難以形容的輕鬆感。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_23_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -1882,7 +1877,7 @@
     "name_tw": "千代町",
     "text_tw": "千代町。伴隨著火車駛過街道的聲音，您可以享受終於踏入高知市中心的喜悅。自 1902 年開業以來，該地區是東方遊客第一次接觸城市喧囂的地方，一直是商業和工業交匯的熱鬧中心。\n\n土佐電鐵的總部和車輛段曾經位於該車站附近，可以說是土佐電鐵的心臟，作為許多列車日夜運行的地方，可以感受到土佐電鐵的歷史。在昭和時代的鼎盛時期，安藝線的直達列車傲然通過，履行著支撐城市繁榮的大動脈的使命。\n\n如今，現代化的建築沿著國道鱗次櫛比，昔日的面貌也發生了變化，但火車呼嘯而過的聲音和懷舊的鈴聲，依然讓我們感受到土佐的日常生活。沉浸在鐵路平靜地穿過瀝青海的聲音中，在這裡您可以重新發現只追求效率的現代人已經忘記的「城市的呼吸」。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_24_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -1899,7 +1894,7 @@
     "name_tw": "會城",
     "text_tw": "會惠鎮。作為縣首府高知的東大門，這裡保留著曾經煙囪林立、工業用錘聲迴響的工廠小鎮的記憶。自1902年開業以來，該地區不僅是乘客上下車的地方，也是貨物的集散地，讓我們感受到它的歷史是土佐現代化背後的強大推動力。\n\n過去，該地區有大型鋸木廠和清酒釀酒廠，從主要有軌電車線路到工廠有一條支線，證明了昭和時代的黃金時代，當時鐵路是工業的命脈。當年大貨車呼嘯而過的炎熱天氣，現在已被隱藏在鋪好的道路下，但在公車站周圍整齊有序的區域中，你仍然可以感受到這座城市作為前「工業之都」的自豪感。\n\n如今，現代化的公寓大樓和辦公室鱗次櫛比，穿梭在街道上的火車顏色也變得更加明亮，但黃昏時分，當一列載著人們趕回家的火車帶著關節的聲音滾滾駛來時，卻深深傳達出歷經時代變遷而不變的「生命鐵路」的珍貴。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_25_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -1916,7 +1911,7 @@
     "name_tw": "彩園場町",
     "text_tw": "彩園場鎮。車站的名字仍然保留著歷史的味道，因為曾經登上土佐藩主山內家餐桌的新鮮蔬菜就是在這個地區肥沃的土壤中培育出來的。自1901年開通以來，電車一直充當著縣首府高知東部的廚房和老百姓的休閒場所，電車不斷承載著人們的能量。\n\n車站旁邊是充滿昭和氣息的彩園場商店街，時令魚類和山野菜排列整齊，伴隨著充滿活力的歌聲，讓人感受到土佐飲食文化的深厚。這個地區曾經是堀川的水運和鐵路線的交會處，有著貨物和資訊紛飛的獨特氛圍。\n\n晚上，購物完回家的家庭主婦們在離開時被火車推著，有說有笑。這種日常生活中不經意的一幕，證明了電車作為城市毛細血管的繼續存在。儘管周圍都是高樓大廈，但在這個車站下車時，你就能在肌膚上舒適地感受到土佐的愛和昭和時代的溫暖。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_26_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -1933,7 +1928,7 @@
     "name_tw": "電鐵航廈前",
     "text_tw": "電鐵航廈前。在通往高知市中心播磨屋橋的主要街道的拐角處，巴士站自豪地守護著您。自1902年開業以來，這裡一直是縣內外遊客與進城市民交匯的「土佐大門」。\n\n高知現代性象徵的西武百貨店曾經矗立在這裡，昭和時代平靜的日常生活充滿了在頂樓大食堂度過的時光和拿著彩色包裝紙登上火車的人們的笑容。百貨公司的魅力與駛入車站的舊火車之間的對比，讓您感受到這座城市所培養的文化的深度。\n\n如今，它已改造成一座現代化的建築，附有巴士總站，履行著「陸地港口」的功能，高速巴士往返於四國各個目的地，遠至東京和大阪。儘管如此，火車在建築物之間的山谷中滑行的景象和清涼的鐘聲有力地提醒我們，無論這座城市變得多麼現代化，高知的主角都是鐵路。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_27_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -1950,7 +1945,7 @@
     "name_tw": "播磨屋橋",
     "text_tw": "播磨屋橋。位於土佐高知縣中部，東西走向的後免伊野線與南北走向的三橋線縱橫交錯，是名副其實的日本第一電車王國的中心地帶。自 1902 年開業以來，這個地方已不僅僅是一個停靠點；它作為土佐的中心而擁有宏偉的存在，來自四國各地的人們和來自大洋彼岸的遊客總是在這裡停留。\n\n火車駛過鐵軌直角相交的鑽石十字路口的景象，伴隨著重金屬的聲音，向令和時代傳遞著機械文明與城市呼吸融為一體的昭和時代的力量。附近矗立著因純信與馬的愛情故事而聞名的朱紅色播磨屋橋，伴隨著夜來武士的旋律，您可以感受到土佐人獨特的旅行精神，熱情與悲傷交織在一起。\n\n在南國一望無際的藍天白雲下，一列號誌燈從四面八方駛來的列車有序地交替行駛，生動地提醒人們，無論時代如何變遷，鐵路仍然是這座城市的主角。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_28_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "product_ja": "藁焼き かつおのたたき（明神水産）\n東西南北が交差する、とさでんの心臓部。土佐に来たら、この香りを嗅がずには帰れません。本場の藁焼きは、一気に数千度の炎で表面を焼き固めることで、中に旨味を閉じ込め、藁の香ばしさを纏わせます。厚切りにした身に塩を振り、ニンニクを添えて。口に入れた瞬間に広がる「土佐の海」の力強さに、誰もが虜になるはずです。",
     "product_en": "Straw-grilled bonito tataki (Myojin Suisan)\nThe heart of Tosaden, where east, west, north, and south intersect. When you come to Tosa, you can't leave without smelling this scent. Authentic straw grilling involves baking the surface of the food with a flame of several thousand degrees all at once, trapping the flavor inside and giving it the aroma of straw. Sprinkle salt on the thickly sliced ​​meat and add garlic. Everyone will be captivated by the power of the Tosa Sea that spreads the moment you put it in your mouth.",
     "product_fr": "Tataki de bonite grillée sur paille (Myojin Suisan)\nLe cœur de Tosaden, où se croisent l’est, l’ouest, le nord et le sud. Quand on vient à Tosa, on ne peut pas repartir sans sentir cette odeur. Les grillades authentiques sur paille consistent à cuire la surface des aliments avec une flamme de plusieurs milliers de degrés en même temps, emprisonnant la saveur à l'intérieur et lui donnant l'arôme de la paille. Saupoudrez de sel la viande en tranches épaisses et ajoutez l'ail. Tout le monde sera captivé par la puissance de la mer Tosa qui se propage dès que vous la mettez dans votre bouche.",
@@ -1971,7 +1966,7 @@
     "name_tw": "堀爪",
     "text_tw": "堀現。背著熙熙攘攘的播磨屋橋繼續往西行駛，就到了這一站，這裡就是高知的商業中心。 1902年開通時，這裡是伊野線的起點，也是土佐西部旅行的起點，因此可以感受到其歷史的厚重。\n\n據說，該地區因土佐藩的護城河曾在此流過而得名，在昭和時代經濟高速增長時期，日本銀行高知分行等金融機構在此排隊，穿著西裝的商人快速上下車，給人一種“土佐華爾街”的感覺。附近的大津筋地區，雖然位於市中心，卻能感受到土佐本土的活力。\n\n聆聽從建築物吹來的風吹來的電車鈴聲，就會發現這裡是近代早期的城下町和近代鐵路的交會處，是高知歷史的象徵。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_29_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -1988,7 +1983,7 @@
     "name_tw": "大橋通",
     "text_tw": "大橋通（大橋通）。從播磨屋橋向西，這裡是大手筋街的熱鬧與騎樓的熱鬧交匯的地方，是高知市民「胃」的門戶。自 1902 年開業以來，該車站已有 120 多年的歷史，負責運送人們前往日本最大的街頭市場之一的周日市場以及附近的大橋通購物區。\n\n一下車，空氣中就飄散著稻草烤鰹魚的芳香，讓人想起自昭和時代以來土佐飲食文化的深厚底蘊。過去，家庭主婦提著購物籃爭先恐後地登上電車，講著土佐方言的熱鬧景象，如今在熙熙攘攘的遊客和當地人前往弘人市場的喧囂中依然歷歷在目。\n\n高知城腳下，這個早期現代情感與現代活力透過電車的細線連接在一起的地方，讓我們在只追求效率的現代旅行中重新找回行走的樂趣和飲食的樂趣。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_30_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -2005,7 +2000,7 @@
     "name_tw": "高知城前",
     "text_tw": "高知城前。仰望高聳的白色天守閣，刺穿土佐的藍天，車站就位於這一帶，這裡最能體現出縣府高知的威嚴。自1902年開放以來，該地區一直是通往著名城堡的門戶，也是縣政府和市政府所在地的政治和行政中心，運送土佐的人們。\n\n當您在車站下車，抬頭仰望大手門上方高聳的優雅天守閣時，您會感受到山內和豐建造的近代早期的雄偉與有軌電車的現代脈搏之間的完美和諧。在昭和時代，夏季的「高知市夏季花火大會」和「夜來節」期間，這個電車站擠滿了穿著浴衣的人們，仰望著衝入夜空的大朵花朵，熱鬧的記憶仍然融入在鐵軌的聲音中。\n\n在註重效率的現代世界中，一節車廂悠閒地行駛，背景是高知城，給遊客提供了「內心的空間」來反思歷史的重量。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_31_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -2022,7 +2017,7 @@
     "name_tw": "縣政府前",
     "text_tw": "縣政府前。位於高知城以南、從大手筋通往政府區的入口處，是可以聽到離您最近的土佐政治和行政脈動的巴士站。自1901年開通以來的120年間，載著人們前往縣政府和市政府，持續守護著土佐的近代化進程。\n\n昭和時代的鼎盛時期，人們可以清楚地想像到，穿著緊身衣領的學生和背著厚重包袱皮的上訪者，有力地踏上有軌電車的台階，進城。即使現在，以雄偉的縣政府大樓為背景，單車列車定時進出的景象，仍能讓我們感受到這座城市的獨特風景，政府的嚴格與有軌電車的溫暖交織在一起。\n\n在講究效率的現代化社會，從搖曳的車窗眺望雄偉的政府大樓，提供了一個靜靜反思土佐歷史厚重的奢華時刻。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_32_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -2039,7 +2034,7 @@
     "name_tw": "格蘭德街",
     "text_tw": "格蘭德街。這一站位於火車穿過縣政府和市政府鱗次櫛比的政府區，最後進入安靜的住宅區和充滿學術建築的城鎮的地方。自1901年開業以來，它一直發揮著連接土佐政治中心和市民休閒場所的真正出色作用。\n\n車站名稱中的「Grand」源自高知市運動場（Grand），該運動場曾經位於該地區的北側。在昭和時代的鼎盛時期，棒球選手追逐白球的歡呼聲和家庭聚會運動日的熱鬧景象，即使透過車窗也能聽到，感覺仍然融入了鐵軌的聲音。操場雖然變了模樣，但附近學校學生的腳步依然如故，一列承載著青春記憶的老火車緩緩前行的景象，證明了鐵路就是小鎮的記憶。\n\n當你在黃昏時看著火車駛過綠樹成蔭的大道時的車頭燈時，你會想起一個非常明顯的事實：旅行不僅僅是匆匆趕往目的地。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_33_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -2056,7 +2051,7 @@
     "name_tw": "增方",
     "text_tw": "增方。該站位於歷史上的戰略要地，這裡曾是高知城西邊的守衛，為了防止敵人入侵而將道路變成曲柄形狀而建造的增形門。自1902年開幕以來，這裡作為城下町的尊嚴與一般百姓的生活交會的節點，靜靜地守護著土佐的進步。\n\n下了巴士站，映入眼簾的是依然保留著昭和時代氛圍的增方商店街，來來往往尋找晚間開胃菜食材的人們的熱鬧，讓人回想起當年以電車為主角的溫暖時光。這裡附近曾經有一個步兵團，看起來就像是軍事首都，但現在這裡卻是一片寧靜，附近學校上學的學生們的笑聲和火車的聲音混雜在一起。\n\n看著火車帶著接頭的迴響聲離開，讓我們想起鐵路的悠久歷史，一直深深地貼在當地人的心上。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_34_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -2073,7 +2068,7 @@
     "name_tw": "上町1丁目",
     "text_tw": "上町1丁目。車站位於高知城以西，安靜地坐落在一個歷史悠久的角落，這裡以前的武士住宅和聯排別墅混雜在一起。自1902年開業以來，這裡一直是通往被譽為坂本龍馬出生地的上町地區的門戶，曾多次送過承載著土佐驕傲的列車。\n\n一出公車站，走進小巷，就能感受到明治維新志士們的熱情在石碑和老建築中依然鮮活。昭和時代，附近的商店街擠滿了準備晚餐的人們，可以想像一輛火車車廂在市中心的氣氛中滑行，敲響歡快的鈴聲。\n\n如今，現代化的建築多了，但黃昏時分，鐵軌在路燈下發出暗淡的光，依然傳遞出一種不隨時間流逝而改變的旅行感。如果你屈服於火車的搖曳，當它在龍馬所仰望的土佐天空下緩慢行駛時，你會再次想起這裡是土佐靈魂誕生的地方。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_35_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -2090,7 +2085,7 @@
     "name_tw": "上町2丁目",
     "text_tw": "上町2丁目。這個巴士站距離坂本龍馬的出生地一丁目僅數百米，土佐的歷史更加濃厚。這裡於1902年開業，緊鄰龍馬祖先經營的當舖和和服店「彩谷屋」舊址，給人的印像是，在鵝卵石下還隱藏著夢想明治維新的年輕人的足跡。\n\n在昭和時代的鼎盛時期，一輛古老的電車承載著人們的日常生活，平穩地行駛在充滿鬧市氣氛的街道上。如今，這裡是一片安靜的住宅區，商店林立，但火車駛入車站的煞車聲不知何故讓人想起了昭和時代的懷舊暮色。它讓我們再次認識到，這條在龍馬仰望的天空下綿延千古的鐵路，是連接土佐精神的紐帶。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_36_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -2107,7 +2102,7 @@
     "name_tw": "上町4丁目",
     "text_tw": "上町4丁目。此站位置絕佳，向西穿過坂本龍馬一帶，城下町的遺跡與日常生活的氣息融為一體。自1902年開業以來，這裡一直是城鎮西部的關鍵點，靜靜地監視著人們的來往，正式名稱為「上町」。\n\n站在公車站，你幾乎可以聽到昭和時代的喧囂，當時有很多和服商人和粗貨店，土佐傳統商人房屋的外觀仍然比現在更堅固，與遠處的火車鈴聲重疊。雖然現在已經變成了一片平靜的住宅區，但鐵軌兩旁的鵝卵石遺跡和老建築的影子，卻讓我們依稀感受到昔日的輝煌。\n\n黃昏時分，一列發出橘色光芒、發出聯合聲響的火車，向鏡川方向駛去。從背面看，質樸的外觀代表了土佐日常生活的美學，即使時代變遷，這種美學也沒有改變。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_37_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -2124,7 +2119,7 @@
     "name_tw": "上町5丁目",
     "text_tw": "上町5丁目。這個巴士站位於上町地區的西端，被稱為與坂本龍馬有關的地方，城下町的氣氛終於與日常生活的氣息融為一體。自1902年開放以來，這裡一直扮演著城市的「出口」和「入口」的角色，送行人們從「城堡區」向西行進，讓您感受這座城市的歷史。\n\n過去，該地區的周邊地區被稱為「水通町」（Mizudori-cho），清澈的流水和周圍居民的寧靜生活與電車行駛的風景融為一體。在昭和時代，黃昏時分，一排排商店傾瀉而出的燈光照亮了鐵軌，載著購物者的閒聊聲，火車駛過的景象就是土佐日常生活的審美。\n\n如今，現代建築多了，但出發鐘聲仍像當年一樣迴響。它樸實無華的外觀讓我們想起當今世界旅行的起源，我們只追求效率。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_38_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -2141,7 +2136,7 @@
     "name_tw": "旭町1丁目",
     "text_tw": "旭町1丁目。這是位於火車邊界的一站，穿過上町的老街道，最後向西駛向高知。正如「朝日」這個名字所暗示的那樣，自 1901 年開業以來，這裡一直作為通往西方商業中心的門戶發揮著重要作用，隨著旭日的力量而發展。\n\n昭和時代，該地區遍布交通部（現在的日本郵政）的基地和小型工廠，有軌電車伴隨著勞動人民的活力而行駛。從火車窗外可以看到商店招牌的鮮豔色彩，這是當地城市的心跳。如今，附近建造了大型商業設施，城市風景也發生了變化，但火車車廂悠閒地在等待人行橫道信號的人們面前駛過的景象仍然代表了土佐日常生活的美學。\n\n黃昏時分，從遙遠的旭町三丁目地區駛來的電車車頭燈將鐵軌染成金黃色。這安靜的景象，突然讓我們想起了我們已經拋在身後的昭和時代的激情。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_39_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -2158,7 +2153,7 @@
     "name_tw": "朝日站前通",
     "text_tw": "朝日站前通 (Asahi Ekimae Dori)。該站位於陸路交通的交叉點，電車沿著國道33號線向西行駛，通往JR土贊線朝日站的道路則向北分支。自1902年開業以來，這裡一直是連接縣府高知市中心和西郊的中轉站，可以感受到這裡的歷史，見證了許多遊客和學生。\n\n從公車站向北望去，就會看到一條筆直的道路通往旭站，這裡還保留著舊木造站房的氣息，在這裡依然能感受到昭和時代熱鬧商店街的餘韻。它曾經擠滿了從火車換乘電車的人，反之亦然，它仍然保持著作為土佐西部樞紐的自豪感。如今，它已經呈現出教育區的面貌，附近還有高知大學，年輕人活潑的腳步與老兵般的老火車完美地融為一體。\n\n當火車車廂伴隨著關節彈跳的聲音滑行，遠處JR特快列車的風壓輕撫著我們的皮膚時，我們可以深深地體驗到旭地區兩條鐵路交織在一起的「旅行的十字路口」。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_40_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -2175,7 +2170,7 @@
     "name_tw": "旭町3丁目",
     "text_tw": "旭町3丁目。作為高知市西部的根據地，曾被譽為“西部的鬧市區”，停靠站位於城市活力最集中的地方。自1902年開業以來，這裡一直是朝日地區的中心，作為通往伊野道路上的戰略要地，有著近120年監視著人來人往的歷史。\n\n在昭和時代的黃金時代，公車站周圍電影院鱗次櫛比，色彩鮮豔的招牌和熙熙攘攘的餐廳為整個小鎮帶來了獨特的氛圍。電車不斷載著前來觀看最新電影的年輕人和忙碌購物吃飯的家庭主婦，履行著「西方心臟」的角色。\n\n如今，大型商店增多，小鎮面貌也一點點改變，但黃昏時分火車駛過，街道上迴盪著關節的聲音，仍能讓我們感受到土佐日常生活的美學。吹著從建築物吹來的微風，凝視著鐵軌的光芒，就能在旭這片土地上重新發現在追求效率的今天所失去的「城市體溫」。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_41_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -2192,7 +2187,7 @@
     "name_tw": "螢橋",
     "text_tw": "螢火蟲橋。穿過熙熙攘攘的旭町，名字優雅的巴士站就矗立在此處，加賀美川的潺潺水聲開始隱隱約約傳入耳中。顧名思義，1902 年首次開放時，無數螢火蟲在流經該地區的水道中翩翩起舞，在夏夜營造出夢幻般的燈光遊行，讓您感受到這裡的歷史。\n\n在昭和時代，前往附近學校的學生在此站下車，一邊聊天一邊過橋的景象，是當地城市平靜日常生活的象徵。如今，房屋密密麻麻，海濱的往日平靜已被城市的喧囂所取代，但當你感受火車駛過車站的微風時，仍能感受到水都高知的淡淡餘香。\n\n從此，鐵路終於離開公路，進入專用軌道，旅行的感覺更加加深。當我們看著一輛火車向西行駛，伴隨著關節的彈跳聲，穗田橋這個名字讓我們想起了在現代效率時代我們幾乎忘記的「四季之心」。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_42_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -2209,7 +2204,7 @@
     "name_tw": "鏡川橋",
     "text_tw": "加賀美川大橋。關鍵點位於從播磨屋橋開始的城市喧囂隨著加賀美川清澈的潺潺聲而暫時結束的地方。這條鐵路自1902年通車以來，一直支撐著土佐鐵路，是許多路線的轉捩點，也是通往西域伊野的漫長旅程的重要節點。\n\n下了巴士站，被稱為「土佐生命之河」的加賀美川在眼前緩緩流過，河面吹過的風，讓電車的炎熱變得涼爽。生動地讓我想起了昭和時代的情景，每逢假日，一家人在河邊嬉戲，大老闆們拋著魚線，紛紛來到這個公車站，享受著寧靜的午後時光。\n\n雖然現在已經被現代化的橋樑所取代，周圍的景色也發生了變化，但火車駛近橋時的深沉的鳴鐘聲仍然代表著鐵路旅行的感覺。逃離城市的喧囂，等待下一班火車時聆聽清澈的溪流聲。這段安靜的時光讓我們重新找回了追求效率的現代人所遺忘的「心靈的平靜」。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_43_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -2226,7 +2221,7 @@
     "name_tw": "鴨部",
     "text_tw": "卡貝。過了鏡川橋後，寬敞的複線路段就到了盡頭，停靠站位於最終通往伊野的單線路段的「門口」。自 1902 年開業以來，這個地方就擁有狹窄的街道和擁擠的私人住宅的歷史，提供了令人嘆為觀止的「生活方式」景觀，即使是非有軌電車愛好者也會驚嘆不已。\n\n電車從屋簷下駛過的景象，從昭和時代以來就沒有改變過，清楚地顯示城市和鐵路呼吸著同樣的節奏。迎面而來的汽車和火車並肩而過，呈現出一種獨特的景觀，融合了土佐人的堅強和情感，這在當今組織良好的城市規劃中是看不到的。\n\n當我們看著單軌鐵路消失在黃昏中，在一個只追求效率的現代，正是這些承載著「妥協」精神的鐵路讓我們質疑什麼是真正的財富。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_44_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -2243,7 +2238,7 @@
     "name_tw": "曙町東町",
     "text_tw": "曙町東町（Akebono-chohigashimachi）。經過鏡川橋後，由雙線變成單線的軌道終於進入了住宅區的中心，一經過就出現了這個不起眼的車站。自 1900 年擴建以來，該地區一直處於見證城下町西部邊緣鄉村演變為現代城市過程的最前線。\n\n這區域以北的地區曾是步兵第44團駐紮的廣大場地，頗有軍都高知的模樣，軍靴聲此起彼落。昭和戰爭結束後，這裡被改造成高知大學，小鎮的顏色完全改變了，學生們背著課本的歡快的聲音開始與火車的喇叭聲混合在一起。看到一列火車在狹窄的道路上小心翼翼地行駛，與迎面而來的車輛保持同步，讓我們強烈感覺到我們是一個大家庭、當地社區的一部分。\n\n晚上，年輕人聽完課後聚集在公車站，被吸進那些破舊、蒼白的汽車裡。這一幕在預示新時代來臨的同時，也再現了令和時代昭和時代懷舊的課後體驗。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_45_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -2260,7 +2255,7 @@
     "name_tw": "曙町",
     "text_tw": "Akebono-cho (Akebono-cho).位於高知大學正門前的巴士站，作為年輕學子聚集的學校的門戶，充滿了自己獨特的活力。 1902年擴建時，這裡以北的地區是帝國陸軍第44步兵團的訓練場，軍靴的聲音曾在這一帶佔據主導地位，讓我們感受到歷史的變遷。\n\n戰後，這裡被改造成高知大學，優雅的校舍取代了枯燥的軍營，有軌電車開始發揮「知識走廊」的作用，運送著年輕人的夢想和厚重的課本。特別值得注意的是真正樸素的“安全區”，道路上簡單地漆成綠色。在單軌區間狹窄的街道上，古老的火車、駛過的汽車、聊天的學生和諧共存，這才是土佐人慷慨本性的真實體現。\n\n黃昏時分，學生聽完課後走上火車的階梯。這個形象提醒我們，這是自昭和時代以來從未改變過的青春景象，同時也是一條延續到令和未來的希望鐵路。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_46_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -2277,7 +2272,7 @@
     "name_tw": "朝倉站",
     "text_tw": "朝倉站前。 JR土贊線的朝倉站位於志向之間，車站位於電車軌道與電車軌道最接近的位置。自1901年擴建以來，該地區一直發揮著作為連接縣首府高知和西部伊野的公路旅行中負責廣域運輸的火車換乘的重要節點的作用。\n\n在巴士站下車後，沿著通往 JR 車站大樓的幾步台階，您就會感受到旅程開始和結束時獨特的興奮感，這種感覺自昭和時代以來就沒有改變過。從蒸汽機車曾經冒出白煙的時代，到如今特急列車呼嘯而過的令和時代，電車以同樣的速度在車站前滑行，讓我們感受到了迎接旅客的歷史。\n\n附近高知大學學生快樂的腳步聲、雄偉的 JR 車站大樓以及一列火車在道路上緩緩行駛。這些「火車融入日常生活的風景」將讓您在朝倉這裡重新發現在效率驅動的現代世界中失去的「運動本身的樂趣」。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_47_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -2294,7 +2289,7 @@
     "name_tw": "朝倉",
     "text_tw": "朝倉。從鏡川橋延續的單軌路段自古以來就是寺院街，曾經是朝倉村的中心，氣氛更加濃厚。自1900年線路延長以來，該地區作為支持伊野線運營的重要交換基地，有著守護鐵道脈搏的歷史。\n\n尤其引人注目的是，上下火車在狹窄的道路中間面對面，相互擦肩而過，呼吸聲十分壯觀。這座小鎮曾經擠滿了上學的學生和古老寺廟朝倉神社的遊客，從鐵軌嘎吱作響的聲音中，仍然可以感受到昭和時代的氛圍，當時整個小鎮都籠罩在有軌電車特有的親密氛圍中。這裡也是與JR土贊線的連接點，電車與火車兩條「鐵路」交會處所特有的熱鬧感，讓這裡有一種作為交通樞紐的自豪感。\n\n一列火車車廂緩緩打開車門，與車廂並肩。這一幕有力地展現了令和時代、效率風行的現代時代，城市與鐵路共存的重要性。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_48_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "product_ja": "土佐の文旦（ぶんたん）\n大学キャンパスが近く、若々しい活気あふれる朝倉エリア。冬から春にかけて、街中に漂うのが文旦の甘酸っぱい香りです。水晶のように輝く大粒の果肉は、プリッとした弾力が特徴。口の中で一粒一粒が弾け、上品な甘みとほのかな苦みが広がります。高知の春を告げる「黄色い宝石」。一度食べると忘れられない、爽快な余韻が魅力です。",
     "product_en": "Buntan from Tosa\nThe Asakura area is close to the university campus and full of youthful vigor. From winter to spring, the sweet and sour scent of pomelo wafts through the city. The large pulp, which shines like crystal, is characterized by its firmness and elasticity. Each grain bursts in your mouth, giving off an elegant sweetness and subtle bitterness. The \"yellow jewel\" heralds spring in Kochi. It has a refreshing aftertaste that you will never forget once you eat it.",
     "product_fr": "Buntan de Tosa\nLe quartier d'Asakura est proche du campus universitaire et plein de vigueur juvénile. De l’hiver au printemps, le parfum aigre-doux du pomelo flotte dans la ville. La grosse pulpe, qui brille comme du cristal, se caractérise par sa fermeté et son élasticité. Chaque grain éclate en bouche, dégageant une douceur élégante et une amertume subtile. Le « joyau jaune » annonce le printemps à Kochi. Il a un arrière-goût rafraîchissant que vous n’oublierez jamais une fois que vous l’aurez mangé.",
@@ -2315,7 +2310,7 @@
     "name_tw": "朝倉神社前",
     "text_tw": "朝倉神社前。當火車離開喧囂的朝倉站，沿著較狹窄的單軌路段向西行駛時，與土佐二宮神社聞名的朝倉神社鬱鬱蔥蔥的綠色森林就接近了車窗。自 1902 年擴建以來，該地區一直是聖地的入口，也是通往寧靜寺廟小鎮的步道，讓您感受其近 120 年的歷史。\n\n下了公車站，抬頭望向鳥居，映入眼簾的是一座被指定為重要文化財產的莊嚴神社，而電車的“現代鐵路”則將遊客運送到中世紀以來的參拜場所。兩者的鮮明對比令人心潮澎湃。在昭和時代，每年的秋季祭典期間，路邊旗幟飄揚，參拜者下車時神社內充滿了活力。至今仍讓人感覺它們融入了鐵軌嘎吱作響的聲音中。\n\n過去的鄉村如今已成為住宅區，但以古老神社的寂靜為背景的等待火車的時光，卻是一個寶貴的地方，讓我們在追求效率的現代旅行中找回內心的「平靜」。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_49_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -2332,7 +2327,7 @@
     "name_tw": "宮殿深處",
     "text_tw": "神社的內部。車站所在的地方，在穿過雄偉的朝倉神社森林後，火車終於切入了名副其實的“生命之路”，就好像它只是經過屋簷一樣。自 1900 年擴建以來，該地區一直是當地人的聖地和樸素的生活方式，讓您感受到其近 120 年的歷史。\n\n昭和時代，這裡仍保留著田園風光，初夏的風透過車窗吹過稻田，秋天的金黃稻穗排列在鐵軌上，一派田園風光。如今，這裡住宅大樓林立，但巷子盡頭突然出現的單軌列車以及列車滑入其中的景象，依然傳達著現代城市規劃所遺忘的「人與鐵路的親密距離」。\n\n黃昏臨近，溫暖的光線開始從房屋的窗戶漏進來，看著火車尾部滾動而過，迴盪著關節的聲音，會幫助你重新發現一種完全自然的心理：旅行不僅僅是匆匆趕往目的地。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_50_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -2349,7 +2344,7 @@
     "name_tw": "口腔內",
     "text_tw": "口腔內。該站位於從高知市到伊野町的陡峭山口附近，具有在有軌電車車站中罕見的強烈的“山間靜謐”感。自1900年擴建以來，這個地區靜靜地發揮著兩個城鎮之間的邊界作用，守護著穿越濱內坂艱難斜坡的旅客。在這裡您可以感受到歷史。\n\n曾幾何時，在昭和時代，當你氣喘吁籲地爬上山坡，微弱的發動機轟鳴著，最後駛入這個綠色車站時，你所感受到的輕鬆感會讓人回想起鐵路挑戰自然地形的日子。週邊地區仍殘留著昔日的道路，火車的喇叭聲在山谷中迴盪，隨後消失，讓我們有一種時間在這個追求效率的時代停止的錯覺。\n\n當你從山頂下山到伊野小鎮的那一刻，對車窗外的新風景充滿期待的感覺，就是濱內這片土地給予旅人的最大禮物。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_51_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -2366,7 +2361,7 @@
     "name_tw": "北山",
     "text_tw": "北山。這一站位於單軌鐵路最終接近伊野鎮郊區的地方，面向終點站伊野。正如其名稱「北山」所示，自 1901 年擴建以來，該地區作為坐落在北部山區的安靜住宅區，一直支撐著當地人民的生活。\n\n昭和時代，這裡有清澈的水道流過，可以看到運送土佐和紙原料的人們和附近學校的學生焦急地等待著火車的到來。目前，路邊有限的空間內已經建立了僅塗漆路面的適度安全區，但這種「鐵道與日常生活的近距離距離感」正是土佐有軌電車一百多年來所保留的旅行精神的真正精髓。\n\n黃昏時分，遠處的科奈山口駛過一列火車，車頭燈將一條線的鐵軌塗成金黃色。正是在這些不經意的日常片段中，我們所尋找的昭和時代的溫暖卻鮮活地存在著。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_53_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -2383,7 +2378,7 @@
     "name_tw": "八代通",
     "text_tw": "八代大街。這一站位於住宅區和高速公路交叉口的一個安靜的地方，就在伊野鎮開始揭示其核心之前。自1902年線路延長以來，該地區靜靜地成為土佐和紙之鄉伊野的“內部入口”，可以感受到它的歷史。\n\n昭和時代，該地區的住宅用地開發取得了進展，早晚間，單軌鐵軌上迴響著前往高知市中心的通勤者和附近學校的學生們歡快的腳步聲。電車特有的樸素、優雅的外觀，「月台」只是一條在道路上畫出的白色框線，清晰地傳達了人與交通之間親密的距離感，這是現代巨型車站建築中所沒有的。\n\n當你站在巴士站向西望向伊野時，山脈變得更加近了，給你一種錯覺，你可以聽到過去運送和紙原料的馬車的鈴聲與火車的喇叭聲混合在一起。在只注重效率的當今世界，看到一輛輛舊電車悠閒地穿過土佐的日常生活街道，是日常生活中最奢侈的時刻。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_56_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -2400,7 +2395,7 @@
     "name_tw": "中山",
     "text_tw": "中山。伊野鎮終於接近市中心了，這一站就位於沿途，單軌鐵軌蜿蜒穿過房屋的屋簷。自1900年擴建以來，這裡一直位於土佐和紙之鄉伊野的入口處，可以感受到近120年來一直發揮著與當地人民生活的紐帶作用的歷史。\n\n曾幾何時，在昭和時代，這裡瀰漫著熱氣騰騰的和紙原料的香氣，從後巷駛來的火車的車窗外，也能經常看到手工製作的和紙曬乾的景象。這是一條狹窄道路上的一個樸素的車站，道路上只有油漆顏色。單節車廂滑入空間的景象，伴隨著車廂關節彈跳的聲音，傳達了人與鐵路之間親密的“溫度”，這是現代鐵路系統所不具備的。\n\n最近，周圍的房屋煥然一新，但黃昏時分，聽著遠處傳來的鐘聲，你會再次想起土佐日常生活的美好，無論時代如何變遷，這種美好都沒有改變。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_57_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -2417,7 +2412,7 @@
     "name_tw": "伊野商業陣地",
     "text_tw": "伊野商業大樓前。伊野小鎮終於接近了最終目的地，車站就在此時，車窗外洋溢著青春的活力。戰後經濟快速成長時期，前身「伊野和紙城」強化了其作為教育和教育場所的特色，這個公車站有著持續運送年輕愛國者和就讀於當地伊野商業高中的「新晉商人」的歷史。\n\n昭和時代，到了上學的時間，我能清楚地想像到，學生們排著一列火車，背著大包袱，降落在這個簡陋的安全區，街道上飄蕩著他們歡快的笑聲。單軌賽段的祥和氣氛和年輕人夢想未來的熱情。正是這種反差，造就了這裡獨特的旅遊氛圍。\n\n最近，鐵軌嘎吱作響的聲音迴響在課外活動的學生們的叫喊聲中，即使進入了令和時代，仍然守護著校舍的有軌電車的景象，依然給我們呈現出不變的青春光彩。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_58_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -2434,7 +2429,7 @@
     "name_tw": "北內",
     "text_tw": "北內。隨著最後一站伊野的臨近，這一站就位於單軌鐵路前進的途中，害羞但自豪地經過房屋的屋簷。自1900年擴建以來，該地區一直是作為土佐和紙村而繁榮的伊野町的東大門，有著密切關注當地人民日常生活的歷史。\n\n早在昭和時代，這裡就瀰漫著曬乾的和紙的味道，電車在鱗次櫛比的房屋之間穿行，充滿了市中心的氛圍，就像在縫紉一樣。即使在今天，如果你站在公路上剛剛劃出的一個適度的安全區，與路過的人們的親密關係也會讓你想起鐵路更像是一個“家庭”而不是“公共工具”的那個時代的溫暖。\n\n在註重效率的現代化旅行中，火車車廂悠閒地穿過日常生活的道路，發出共同的噪音。這種悠閒的日常生活是土佐電車100多年來保存下來的文化的結晶。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_59_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -2451,7 +2446,7 @@
     "name_tw": "浪川",
     "text_tw": "浪川。沿著這條保留著昭和時代氣息的鐵路旅行，可謂是時光倒流回到了現代。這些線路，曾經蒸汽機車的強勁轟鳴聲迴響並支撐著人們的生活和工業，如今仍然靜靜地編織著每個地區的記憶。\n\n例如那個靜靜地坐落在山裡的小車站。它曾經是通往該地區的繁華門戶，承載著許多人的希望和夢想。車站便當掛紙上描繪的懷舊風景，車站工作人員溫暖的目光。讓人感覺時間過得越來越慢，與快節奏的現代生活方式形成了鮮明的對比。\n\n這條鐵路連結起來的人們的生活，當地特有的熱鬧節日，以及支撐當地經濟的產業的變化。在解開它們的同時，我們仔細收集每個車站的故事。這樣的旅程才是我們「講述令和時代昭和時代故事的鐵道遊記」這一目標的真正樂趣。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_60_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -2468,7 +2463,7 @@
     "name_tw": "井野",
     "text_tw": "伊諾.這是充滿氣氛的最後一站，從播磨屋橋延續的日本最長的電車線路的旅程終於結束了。自 1900 年開業以來，這裡一直是伊野町的中心，被稱為日本最著名的紙張之一土佐和紙的產地，您可以感受到紙張的歷史，它曾經在運輸高藏和三俁等原材料以及將成品和紙運輸到縣首府高知方面發揮著關鍵作用。\n\n火車小心翼翼地沿著單線鐵軌，穿過一排排老房子，最後到達火車的景象，充滿了一種平靜和輕鬆的感覺，就像一個旅人在長途跋涉後悄悄脫掉外衣。以附近仁淀川清澈的河水為背景，每年五月，仁淀川的鯉魚旗飄過天空，整個城鎮都籠罩在節日的喜悅之中，這是土佐自豪的象徵，至今仍在延續。\n\n當我們凝視著火車末端的車站，看到鐵軌的光芒逐漸褪去的那一刻，我們可以再次體會到伊野一列火車所講述的120年故事的深度。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_61_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "product_ja": "土佐和紙 懐紙・レターセット\nとさでんの西の終着点、伊野。ここは「和紙の町」として一千年の歴史を誇ります。仁淀川の清流で漉かれた土佐和紙は、薄く、強く、そして美しい。手にした瞬間に感じる、天然素材ならではの温もりと優しさは、デジタルな時代だからこそ心に響きます。大切な人へ、土佐の清流の音を添えて送る。そんな贅沢を叶えてくれる伝統工芸品です。",
     "product_en": "Tosa Washi Kaishi/Letter Set\nIno is the western terminus of Tosaden. This place boasts a 1,000-year history as the ``Washi Paper Town.'' Tosa washi paper made in the clear waters of the Niyodo River is thin, strong, and beautiful. The warmth and gentleness that can only be felt from natural materials as soon as you hold them in your hands resonates with your heart in this digital age. Send it to your loved ones along with the sound of Tosa's clear streams. It is a traditional craft that makes such luxury come true.",
     "product_fr": "Tosa Washi Kaishi/Ensemble de lettres\nIno est le terminus ouest de Tosaden. Cet endroit possède une histoire millénaire sous le nom de « Ville du papier Washi ». Le papier washi Tosa fabriqué dans les eaux claires de la rivière Niyodo est fin, solide et beau. La chaleur et la douceur que l’on ne peut ressentir que dans les matériaux naturels dès que vous les tenez entre vos mains résonnent avec votre cœur à l’ère du numérique. Envoyez-le à vos proches avec le son des flux clairs de Tosa. C’est un artisanat traditionnel qui permet de réaliser un tel luxe.",
@@ -2489,7 +2484,7 @@
     "name_tw": "高知站",
     "text_tw": "高知站前。這裡是通往土佐的門戶，全新的高架車站大樓以木頭的溫暖迎接旅客，JR土贊線與至今仍保留著舊時光氛圍的土佐電交通有軌電車在此交匯。歷史的厚重，許多愛國者曾經在這片土地上夢想著日本的未來，現在可以在今天的活力中感受到。坂本龍馬的雕像威嚴地矗立在車站廣場，邀請遊客感受江戶末期的浪漫。\n\n近年來，鐵路高架化，車站大樓也變得更加現代化，但一走出去，就能看到每週舉行的周日市場的熱鬧，以及夏天全鎮人都興奮的夜來節精神，繼續傳遞出這一地區的活力。這是一片新舊魅力巧妙融合的土地，帶給遊客濃厚的旅行感。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_62_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "product_ja": "高知アイス「土佐の果実」セット\n高知の玄関口。ここからお届けするのは、高知の果実を丸ごと味わうような贅沢アイスです。日本一の生産量を誇るユズ、文旦、そして幻の果実・小夏。一口含めば、南国高知の澄み切った青空と、果樹園を吹き抜ける爽やかな風が浮かびます。素材の味を邪魔しない、スッキリとした後味。まさに「食べる高知」そのものです。",
     "product_en": "Kochi Ice “Tosa Fruit” Set\nThe gateway to Kochi. What we deliver here is a luxurious ice cream that lets you enjoy the whole fruit of Kochi. Yuzu, pomelo, and the mysterious fruit Konatsu, which boasts the highest production volume in Japan. One sip and you'll be reminded of the clear blue skies of tropical Kochi and the refreshing breeze blowing through the orchard. A refreshing aftertaste that doesn't interfere with the taste of the ingredients. This is exactly what \"Eating Kochi\" is all about.",
     "product_fr": "Ensemble Kochi Ice « Tosa Fruit »\nLa porte d'entrée de Kochi. Ce que nous livrons ici est une glace luxueuse qui vous permet de savourer tous les fruits de Kochi. Du yuzu, du pomelo et du mystérieux fruit Konatsu, qui possède le volume de production le plus élevé du Japon. Une gorgée et vous vous souviendrez du ciel bleu clair de Kochi tropical et de la brise rafraîchissante soufflant dans le verger. Un arrière-goût rafraîchissant qui n'interfère pas avec le goût des ingrédients. C’est exactement ce qu’est « Eating Kochi ».",
@@ -2510,7 +2505,7 @@
     "name_tw": "高知大橋",
     "text_tw": "高知大橋。每次來到這裡，昭和時代的氣息就充滿了我的心。過去，這個車站是連接該地區充滿活力的工業和人民生活的生命線。車站大樓古老木結構的溫暖和散發出的獨特的寧靜，讓您感受到即使時代變遷，火車旅行的獨特氛圍。\n\n近年來，車站內推出了利用當地特產的新舉措，例如在車站內出售新鮮的當地蔬菜和加工產品，週末舉辦小型音樂會等。車站與當地的互動正在以一種與以往完全不同的方式加深。在這些變化中，瞬間看到昭和時代的影子，是非常有趣的。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_63_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -2527,7 +2522,7 @@
     "name_tw": "蓮池町街",
     "text_tw": "蓮池町街。這個電車站靜靜地佇立在從東向西貫穿高知市中心的土佐電鐵軌道上，是一個舊街景與新氣息交織在一起的時代縮影。這裡曾經作為商業中心而繁榮，保留封建時代的遺跡，至今仍能聽到商店街的喧囂聲，依然保留著活力。每當電車呼嘯而過時，都會勾起一種懷舊的感覺，讓你感受到濃濃的旅行感。附近還有一條通往高知城的道路，在遊客和當地居民來來去去的日常風景中看到土佐的歷史與現代並存，非常有趣。尤其是夏季夜來節期間，這裡必定熱鬧非凡。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_64_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -2544,7 +2539,7 @@
     "name_tw": "李子樹",
     "text_tw": "梅之辻巴士站。在貫穿高知市的南北走向的三橋線上，這一站有一種獨特的「角落」感覺。大概曾經是渡過加賀美川清澈的溪流之前休息的地方。當電車搖晃車身接近彎道時，法蘭被刮擦的高亢「吱吱」聲在街角迴盪。可以說是昭和時代城市交通中非常日常的音樂。當我看著這裡古老的商人房屋和一排排平靜的房屋時，我籠罩在一種奇怪的懷舊感中，彷彿時間的流動在這裡變得有些粘稠。當我站在這個十字路口，沉浸在土佐電的節奏中時，我再次想起電車是這座城市的血管。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_65_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -2561,7 +2556,7 @@
     "name_tw": "三橋通1丁目",
     "text_tw": "三橋通1丁目。穿越高知市內的電車帶著大海的氣息駛向最終目的地，是土佐電交通碼頭線的終點站，在這裡你可以同時感受到旅程的開始和結束。這座曾經作為土佐的門戶和深海捕魚基地而繁榮的港口小鎮，至今仍保持著開放的氛圍，充滿了熱鬧的活動。從明治時期到昭和時期，許多貨物和人員從這裡出發或返回，歷史的氣息在現代的城市景觀中依然鮮活。老碼頭的景色和來來往往的電車景象，讓你感受到舊時代的浪漫。一邊吹著海風，一邊發呆地看著大海，也是一種樂趣。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_66_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -2578,7 +2573,7 @@
     "name_tw": "三橋通2丁目",
     "text_tw": "三橋通2丁目。當我穿梭於高知的街道時，我走進了一個帶有大海氣息的佐電軌道。自明治末期以來一直在該地區運行的有軌電車是真正動人的歷史見證。看著汽車鳴著響亮的汽笛駛向港口，海風吹過，讓人想起很久以前從這個碼頭上船的人的記憶。\n\n這條路線曾經是通往高知港的繁忙門戶，承載著許多貨物和人員，現在已成為遊客和市民的休閒路線。週邊地區遍布老式商店，營造出開放的熱帶氛圍。有時，夜來祭的熱鬧氣氛會席捲整條街道。\n\n三橋通二丁目是個在現代景觀中仍能感受到昭和電車旅行氛圍的地方。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_67_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -2595,7 +2590,7 @@
     "name_tw": "三橋通3丁目",
     "text_tw": "三橋通3丁目。顧名思義，高知是土佐的一個港口城市，曾經作為出海門戶而繁榮。早在昭和時代，碼頭就有許多旅客和貨物進出，是連接輪船和電車的重要樞紐。船隻從遠方抵達，人們轉乘電車前往高知市，作為熱帶土佐地區的門戶，這裡成為一個充滿活力的居住地。\n\n時代變了，交通方式也變了，但依然隆隆駛過高知市中心的有軌電車，靜靜地向我們訴說著這個地方的歷史。即使到了令和時代，三橋通也是通往高知港的道路，伴隨著海洋的氣息，您可以感受到熱帶國家土佐的開放和旅行精神。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_68_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -2612,7 +2607,7 @@
     "name_tw": "三橋通4丁目",
     "text_tw": "三橋通4丁目。該地區位於高知市的南端，長期以來因港口城鎮的活力和土佐電交通電車系統而營造出獨特的氛圍。在通往土佐灣的路上，隱約可以聽到港口的喧囂，漁船來來往往，勾起旅人的懷舊之情。自明治時代以來一直延續的電車的歷史，作為這座城市的動脈支撐著市民的生活，傳遞著亙古不變的風景。最近，新遊客數量增加，港口小鎮充滿了新舊融合所特有的魅力，擠滿了尋找土佐海鮮和歷史的人們。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_69_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -2629,7 +2624,7 @@
     "name_tw": "碼頭車庫前",
     "text_tw": "在碼頭車庫前面。土佐電交通是貫穿高知市的電車，其終點站之一是一個真正充滿氣氛的地方。土佐電鐵於 1904 年開始運營，是四國最古老的鐵路公司，並在這裡開創了自己的歷史。正如碼頭這個名字所暗示的那樣，它曾經是連接港口和城市的重要交通工具，提醒著有多少旅客和貨物來來去去。航站樓附帶車庫，安靜而略顯悲傷的氛圍將過去的活力與現在的平靜融為一體，給您一種濃厚的旅行感。即使現在，紅色車身的火車仍然不斷地到達和出發，為當地人提供交通，並支持遊客的小冒險。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_70_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -2646,7 +2641,7 @@
     "name_tw": "三橋通5丁目",
     "text_tw": "三橋通5丁目。這裡是穿越高知市的土佐電交通電車的安靜門戶，帶著大海的氣息駛向最終目的地。該地區曾經作為港口城鎮和四國的門戶而繁榮，以太平洋為背景，至今仍然喚起人們強烈的旅行感。從昭和時代起就沒有改變過的鐵軌聲，靜靜地訴說著很久以前從這個港口出發或回家的許多人的故事。近年來，新的商業設施不斷增加，增添了現代色彩，但土佐的精神和大海的味道仍然未變，勾起遊客懷舊的旅行記憶。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_71_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "product_ja": "土佐あかうし（精肉・ステーキ用）\n高知港を望む南北線の終点。ここでご紹介するのは、年間数百頭しか出荷されない「幻の和牛」土佐あかうしです。黒毛和牛とは一線を画す、きめ細やかな赤身の旨味。脂が重すぎず、噛むほどに肉本来の濃厚な味わいが溢れ出します。ステーキで焼けば、その香りは甘く芳醇。土佐の豊かな山々が育んだ、美食家垂涎の至宝です。",
     "product_en": "Tosa Akaushi (for meat/steak)\nThe terminal point of the Namboku Line overlooking Kochi Port. What we would like to introduce here is Tosa Akaushi, the ``phantom Wagyu beef'' of which only a few hundred cows are shipped each year. The delicate flavor of the lean meat sets it apart from Kuroge Wagyu beef. The fat is not too heavy, and the more you bite into it, the richer flavor of the meat overflows. When grilled with steak, the aroma is sweet and mellow. A treasure grown in the rich mountains of Tosa that will be coveted by gourmets.",
     "product_fr": "Tosa Akaushi (pour viande/steak)\nLe point terminal de la ligne Namboku surplombant le port de Kochi. Ce que nous aimerions vous présenter ici, c'est le Tosa Akaushi, le « bœuf Wagyu fantôme » dont seules quelques centaines de vaches sont expédiées chaque année. La saveur délicate de la viande maigre la distingue du bœuf Kuroge Wagyu. La graisse n'est pas trop lourde et plus vous la mordez, plus la saveur riche de la viande déborde. Lorsqu'il est grillé avec un steak, l'arôme est doux et moelleux. Un trésor cultivé dans les riches montagnes de Tosa qui sera convoité par les gourmets.",
@@ -2668,7 +2663,7 @@
     "name_tw": "宇治住宅社區前",
     "text_tw": "宇治團地面前。穿過江田川後，井野鎮終於開始展現出它真正的潛力，我們到達了這一站，它的名字讓人想起昭和時代的經濟高速成長。 1900年，通往伊野的鐵路首次開通時，周圍的鄉村以及作為和紙原料的古藏和三俁的田地是主角。然而，隨著戰後住房需求的增加，在這片丘陵地區形成了一個名為「團地」的新城鎮。您可以感受到這個地區的歷史。\n\n下了公車站，山腳下一棟座房屋鱗次櫛比，單軌鐵路謙遜地穿行其間，清晰地訴說著伊野作為地方城市郊區的歷史故事。過去，即使在刮風下雨的日子裡，有軌電車也繼續運送懷著對新生活的希望而搬到這裡的人們，發揮著支撐土佐生活的名副其實的“旅行”的作用。\n\n黃昏時分，當住宅區的窗戶裡的燈光開始亮起來時，一列火車在駛向終點站伊野時發出了嘎嘎的聲音。這一幕靜靜地傳達著人們趕回家與家人團聚的溫暖，以及從昭和時代到現在令和時代的力量。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_69_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -2685,7 +2680,7 @@
     "name_tw": "枝川",
     "text_tw": "枝川站。當您到達這一點時，前往伊野的電車之旅呈現出一種親密的氛圍，更接近“輕軌”而不是“小徑”。道路一角，單一鐵軌不可靠地鋪設，仍呈現戰前當地私營鐵路的簡陋面貌。 JR土贊線的重軌就在旁邊運行，但電車卻與路過的人們在同一水平線上運行，幾乎擦過屋簷。黃昏時分，當房屋的燈光開始亮起時，單軌鐵路永遠延伸的景象，給旅行者一種難以形容的孤獨與寧靜的感覺。在追求效率和速度的當今世界，這種「溫柔」的旅程體現了鐵路的溫柔本質。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_70_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -2702,7 +2697,7 @@
     "name_tw": "鳴谷",
     "text_tw": "鳴谷。就在進入伊野鎮之前，這個不起眼的車站位於一條環繞山腳的單軌軌道旁。自1900年擴建以來，該地區一直是土佐和紙之鄉伊野的安靜邊界，近120年來見證了許多工匠及其家人的往來，讓您感受到它的歷史。\n\n在昭和時代的鼎盛時期，這裡的周圍有一種讓人想起「工藝城」的景象，不知道從哪裡傳來了水洗和紙原料的聲音，從火車車窗裡曬出來的紙張在陽光下閃閃發光。如今，房屋數量增多，小鎮面貌煥然一新，但鐵軌旁盛開的野花和破舊的架空電線桿所營造出的枯萎氣息，依然傳遞著被當今發達的城市交通所遺忘的「生命的重量」。\n\n火車發出一聲輕快的鈴聲，開始往西部終點站滑行。看著他們悠閒的腳步，我們可以靜靜地品味在追求效率的現代世界中幾乎失去的「賞四時時光」。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_71_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -2719,7 +2714,7 @@
     "name_tw": "井野站前",
     "text_tw": "井野站前。車站俯瞰JR土贊線的伊野車站大樓，距離如此之近，火車軌道和電車軌道似乎在相互接觸對方的體溫。自1900年擴建以來，該地區一直是作為「土佐和紙村」而繁榮的伊野町的主要入口，可以感受到它作為連接廣域交通和支持地區的火車的重要節點的歷史。\n\n昭和時代，車站兩旁林立著日本紙的批發商和商店，熙熙攘攘的商人和背著大件行李的學生，是當地城市活力的縮影。如今，周圍的風景已經一點點改變，但單節車廂滑行而來，關節彈跳的聲音，以及後面JR特快列車吹來的風，展現了兩條鐵路所營造的獨特旅行氛圍。\n\n在這個可以感受到附近清澈的仁淀川的存在、造紙歷史依然存在的城鎮中，電車的作用仍然是土佐的「生命的記憶」。",
     "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/とさでん交通_とさでん交通_72_tw.mp3",
-    "trigger_dist": 0.3,
+    "trigger_dist": 0.1,
     "sheetName": "とさでん交通"
   },
   {
@@ -16839,6 +16834,18 @@
     "sheetName": "大井川鉄道井川線"
   },
   {
+    "ID": "JR釧網本線",
+    "lat": 42.99065217,
+    "lon": 144.3820506,
+    "name_ja": "釧網本線",
+    "name_en": "Senmo Main Line",
+    "name_fr": "Ligne principale Senmo",
+    "name_tw": "釧網本線",
+    "text_tw": "釧網本線。 對釧路（Chhun-lōo）站出發，向北方行的這條鐵路，通講是北海道尚介原始、尚介壯觀的一條線，這就是伊的價值。當火車慢慢仔離開城市，行入去廣闊的「釧路濕地（Chhun-lōo sip-tē）」的時候，看著無邊無際的荒野佮靜靜流過的川水，甚至有機會看著國寶丹頂鶴佇遐散步，彼種大自然的感動，真正是講袂出的。\n\n隨後，火車會向山區爬上去。來到「川湯溫泉（Chhun-thng un-choân）」附近，你會看著「硫黃山」噴出來的白煙，聞著彼種屬於大地的氣味。越過山嶺以後，景色隨即變換。當火車來到「知床斜里（Ti-siông siâ-lí）」、看見「鄂霍次克海（Go̍k-ho̍k-chhù-khu-hái）」的彼一剎那，彼種天大地大的開闊感，會予人感覺家己的心靈攏予海風洗過一遍。若是冬天來，甚至看得到規片的海攏是白色的「流冰（lâu-peng）」，彼種奇蹟一般的風景，確實是人生難得一見。\n\n雖然這條線路長途漫漫，但是火車的振動聲佮窗外一直變化的絕景，會予人袂記時間的經過。這不僅僅是一段移動的過程，這是一場與家己、與自然對話的靈魂之旅。對熱愛鐵道的人來講，釧網本線就是最後的邊境，也是尚溫暖的鄉愁，這便是伊之所以予人念念不忘的道理。",
+    "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/JR釧網本線_tw.mp3",
+    "sheetName": "JR釧網本線"
+  },
+  {
     "ID": "JR釧網本線_2",
     "lat": 42.99065217,
     "lon": 144.3820506,
@@ -20295,7 +20302,19 @@
     "sheetName": "JR吾妻線"
   },
   {
-    "ID": "わたらせ渓谷鐵道線_2",
+    "ID": "わたらせ渓谷鐵道線_1",
+    "lat": 36.4113225,
+    "lon": 139.3326744,
+    "name_ja": "わたらせ渓谷鐵道線",
+    "name_en": "Watarase Keikoku Railway Line",
+    "name_fr": "Ligne ferroviaire Watarase Keikoku",
+    "name_tw": "渡良瀨溪谷鐵道",
+    "text_tw": "對桐生（Tông-sing）出發，這條沿路攏是山水風景的鐵道，原底是國鐵的「足尾線」，是為著欲載運足尾銅山的礦物才來開通的。雖然以前礦山的熱鬧已經消失，但是這條鐵路保留了真濟古早時代的味，這就是伊尚迷人的所在。\n\n火車慢慢仔離開市區，向山林行入去，你會看著渡良瀨川的水一直陪伴佇身邊。不管是春天的櫻花、熱天的翠綠，抑是秋天規片山頭變紅的風景，彼種大自然的變換，真正是美甲講袂出話。特別是坐佇無窗仔的「小火車（Torokko）」上面，予山風輕輕仔吹，聽著溪水的聲，彼種佮自然合一的感覺，是置都市坐火車絕對體會袂著的。\n\n沿途的車站也真有特色。像「水沼（Mizunuma）」站，車站內底竟然就有溫泉會使洗；閣有「神戶（Gōdo）」站，用舊式的火車車廂改做的餐廳，予人有一種穿梭時空的懷舊感。當火車越過長長的隧道，來到足尾的地界，看著彼些古早的工業遺跡，咱會感受到鐵道歷史的厚重。這不僅僅是一趟看風景的旅行，這是一場走揣日本山村靈魂的浪漫過程。對愛火車的人來講，這就是尚單純、尚幸福的時間。",
+    "audio_tw": "https://raw.githubusercontent.com/saffron12safron-oss/rail-audio/main/audio/わたらせ渓谷鐵道線_1_tw.mp3",
+    "sheetName": "わたらせ渓谷鐵道線"
+  },
+  {
+    "ID": "わたらせ渓谷鐵道線",
     "lat": 36.4113225,
     "lon": 139.3326744,
     "map_url": "https://www.google.com/maps/search/?api=1&query=%E3%82%8F%E3%81%9F%E3%82%89%E3%81%9B%E6%B8%93%E8%B0%B7%E9%90%B5%E9%81%93%E7%B7%9A%20%E6%A1%90%E7%94%9F%E9%A7%85",
